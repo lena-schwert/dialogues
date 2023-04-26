@@ -257,7 +257,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     annotation = pd.read_csv(args.csv_path, sep="\t")
-    split = Path(args.csv_path).stem.strip("_output")
+    split = Path(args.csv_path).stem.replace("_output", "")
     continue_flag = False
     data = read_json_files_in_folder(args.data_folder)
     target_data = []
