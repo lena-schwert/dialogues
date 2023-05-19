@@ -58,7 +58,7 @@ if __name__ == "__main__":
     db_result_prefix = (
         # (source language, target language)
         "Database search results: the number of successful matches is ",
-        "",
+        "Suchergebnisse in der Datenbank: Die Anzahl von Treffern beträgt ",
     )
 
     # load src and tgt data
@@ -66,7 +66,7 @@ if __name__ == "__main__":
     # e.g. en_fewshot.json, en_valid.json, en_test.json
     src_data = []
     tgt_data = []
-    split_list = ["fewshot", "valid", "test"]
+    split_list = ["fewshot"] #, "valid", "test"]
     for split in split_list:
         with open(f"{args.src_data_path}/{args.src_lang}_{split}.json", "r") as f:
             src_data.append(json.load(f))

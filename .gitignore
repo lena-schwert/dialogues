@@ -133,9 +133,14 @@ dmypy.json
 .idea/
 .vscode/
 
-dialogues/*/data/*
+#dialogues/*/data/*
 out_*.tsv
-data/
+#data/
 
 # kdevelop files
 *.kdev4
+
+# changes for hpi-de-risawoz branch
+*.~lock.*
+
+/dialogues/risawoz/helper_files_translation_guide/annotation tool/annotation.exe

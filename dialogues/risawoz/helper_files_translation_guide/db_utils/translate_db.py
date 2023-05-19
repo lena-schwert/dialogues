@@ -41,6 +41,7 @@ na_translation = (
 # used in convert.py (i.e., {src_slot1: tgt_slot1, src_slot2: tgt_slot2, ...})
 with open(f"{args.slot_alignment_path}") as f:
     slot_alignment = {k: v.lower() for k, v in json.load(f).items()}
+    #print(f'Loaded slot slignment dict: {slot_alignment}')
 with open(f"{args.value_alignment_path}") as f:
     value_alignment = json.load(f)
 
@@ -53,8 +54,10 @@ for domain in domain_list:
 
     # Map the corresponding slot and value to the target language
     for src_db_item in src_db:
+        #print(f'Current database processed: {src_db_item}')
         tgt_db_item = {}
         for src_slot, src_value in src_db_item.items():
+            #print(f'Current source slot: {src_slot}, current source value: {src_value}')
             tgt_slot = slot_alignment[src_slot]
             if isinstance(src_value, list):
                 tgt_db_item[tgt_slot] = [value_alignment[domain][tgt_slot][option] for option in src_value]
@@ -66,7 +69,7 @@ for domain in domain_list:
                     tgt_db_item[tgt_slot] = na_translation[1]
                 else:
                     print(
-                        f"Warning: missing value {src_value} of slot {src_slot} in source language {args.src_lang} not found in the bilingual value alignment file! Please add the corresponding translation to the alignment file and try again."
+                        f'Warning: missing value "{src_value}" of slot "{src_slot}" in source language "{args.src_lang}" not found in the bilingual value alignment file! Please add the corresponding translation to the alignment file and try again.'
                     )
         # Check integrity of translated db item
         if len(src_db_item) == len(tgt_db_item):

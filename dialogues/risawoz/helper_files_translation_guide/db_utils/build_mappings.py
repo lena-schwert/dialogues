@@ -5,6 +5,7 @@ from collections import OrderedDict
 
 
 def build_alignment(value, translation, canonical_mark):
+    print(f"Current translation: {translation}, current value: {value}")
     assert len(translation) >= 1, "translation should not be empty"
     if len(translation) == 1:
         return (
@@ -39,7 +40,7 @@ if __name__ == "__main__":
             for value, translation in alignment[domain][slot].items():
                 if len(translation) > 1 and args.incorrect_mark not in value:
                     if len([True for item in translation if args.canonical_mark in item]) != 1:
-                        print(domain, slot, value)
+                        print(f'This slot has multiple values and no canonical mark: {domain, slot, value}')
 
     # get filtered alignment
     standard_translation = OrderedDict()
