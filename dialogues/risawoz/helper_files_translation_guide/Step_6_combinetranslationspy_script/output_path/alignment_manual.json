@@ -39,22 +39,25 @@
                 "spannende"
             ],
             "science fiction TV show": [
-                "Science-Fiction Serie",
-                "Science-Fiction-Serie"
+                "Science-Fiction-Serie",
+                "Science-Fiction Serie"
             ],
             "feature drama": [
-                "Drama-Film",
-                "Dramafilm"
+                "Dramafilm",
+                "Drama"
             ],
             "crime drama": [
                 "Krimidrama"
             ],
             "comedy": [
-                "komödielle"
+                "Comedy"
             ],
             "feature dramas": [
-                "Spielfilm Dramen",
+                "Dramen",
                 "Science-Fiction-Fernsehsendungen"
+            ],
+            "romantic": [
+                "romantische"
             ]
         },
         "title": {
@@ -77,7 +80,7 @@
                 "Maneater - Tod aus der Kälte"
             ],
             "Hell Is Other People": [
-                "Geschlossene Gesellschaft"
+                "Hell Is Other People"
             ],
             "My Own Swordsman": [
                 "My Own Swordsman"
@@ -94,8 +97,8 @@
         },
         "premiere time": {
             "January 17, 2017": [
-                "17. Januar 2017",
-                "am 17. April 2012 in Japan"
+                "am 17. April 2012 in Japan",
+                "17. Januar 2017"
             ],
             "premiered in South Korea on August 31, 2019": [
                 "wurde am 31. August 2019 in Südkorea uraufgeführt"
@@ -175,7 +178,7 @@
                 "11 Folgen"
             ],
             "24 episodes": [
-                "24 Episoden"
+                "24 Folgen"
             ],
             "30 episodes": [
                 "30 Folgen"
@@ -204,15 +207,15 @@
                 "indische"
             ],
             "Taiwan, China": [
+                "Taiwan, China",
                 "Taiwan"
             ],
             "Chinese mainland": [
-                "China",
-                "chinesischen Festland"
+                "China"
             ],
             "American": [
-                "amerikanischen",
-                "amerikanische"
+                "amerikanische",
+                "amerikanischen"
             ],
             "South Korean": [
                 "südkoreanischen"
@@ -318,13 +321,13 @@
                 "27. Juli 2007 in Taiwan und am 31. Juli desselben Jahres in China"
             ],
             "Taiwan, China": [
-                "Taiwan"
+                "Taiwan, China"
             ],
             "August 20, 2015": [
                 "20. August 2015"
             ],
             "October 25, 2002, in Taiwan, China": [
-                "25. Oktober 2002 in Taiwan, China"
+                "25. Oktober 2002 in Taiwan"
             ],
             "in the United States on July 9, 2003": [
                 "am 9. Juli 2003 in den Vereinigten Staaten"
@@ -389,25 +392,28 @@
         },
         "consumption": {
             "not that expensive": [
-                "nicht so teuer"
+                "nicht so teuer",
+                "nicht so teure"
             ],
             "a bit more expensive": [
-                "etwas teureres"
+                "etwas teureren"
             ],
             "affordable": [
-                "bezahlbare"
+                "bezahlbaren"
             ],
             "cheap": [
                 "günstige"
             ],
             "cheaper": [
-                "günstigeres"
+                "günstigeres",
+                "Günstigeres",
+                "günstigere"
             ],
             "slightly more expensive": [
                 "etwas teureren Ort",
-                "etwas teurerer",
+                "etwas teureres",
                 "etwas teureren",
-                "etwas teureres"
+                "etwas teurerer"
             ],
             "moderately priced": [
                 "preisgünstigen"
@@ -421,18 +427,20 @@
                 "Der Humble Administrator's Garden"
             ],
             "Tianping Mountain Scenic Area": [
-                "Landschaft des Tianping Berges"
+                "landschaftlich reizvolle Gegend des Tianping Berges"
             ],
             "Mudu Town": [
-                "Garten des Meisters der Netze",
                 "Mudu Town"
+            ],
+            "Master of the Nets Garden": [
+                "Garten des Meisters der Netze"
             ],
             "The Master of the Nets Garden": [
                 "Garten des Meisters der Netze"
             ],
             "Suzhou Amusement Land Forest and Water World": [
-                "Suzhou Amusement Land Forest und Water World",
-                "Suzhou Amusement Land Forest and Water World"
+                "Suzhou Amusement Land Forest and Water World",
+                "Suzhou Amusement Land Forest und Water World"
             ],
             "Xi'an Jiaotong-Liverpool University": [
                 "Universität Xi'an Jiaotong-Liverpool"
@@ -444,18 +452,18 @@
                 "Dushu Lake Church"
             ],
             "Xishan Island Scenic Area": [
-                "das landschaftlich reizvolle Gebiet in Xidongting Shan"
+                "landschaftlich reizvolle Gebiet auf Xishan Island"
             ],
             "Jinji Lake Scenic Area": [
-                "das Jinji Lake Naturgebiet",
-                "Jinji Lake Scenic Area"
+                "Gegend um den Jinjisee",
+                "Naturgebiet am Jinjisee"
             ],
             "Zhouzhuang Town": [
                 "die Stadt Zhouzhuang"
             ],
             "Suzhou Museum": [
-                "Suzhou Museum",
-                "Suzhou-Museum"
+                "Suzhou-Museum",
+                "Suzhou Museum"
             ],
             "the Suzhou Museum": [
                 "des Suzhou-Museums"
@@ -482,8 +490,7 @@
                 "Suzhou Taihu Lake Wetland Park"
             ],
             "Baimajian Ecological Park": [
-                "Baimajian Ecological Park",
-                "Der ökologische Park Baimajian"
+                "Baimajian Ecological Park"
             ]
         },
         "type": {
@@ -491,8 +498,12 @@
                 "Garten im Suzhou-Stil"
             ],
             "landscape scenic spots": [
-                "landschaftlichen Aussichtspunkte",
-                "beliebte landschaftlich reizvolle Orte"
+                "landschaftlich schönen Gegenden",
+                "landschaftlich reizvolle Orte"
+            ],
+            "amusement park": [
+                "Vergnügungspark",
+                "Freizeitpark"
             ],
             "water town": [
                 "Wasserstadt"
@@ -500,15 +511,14 @@
             "historic site in Gusu District": [
                 "historische Sehenswürdigkeit im Bezirk Gusu"
             ],
+            "commercial center": [
+                "Handelszentrum"
+            ],
             "historic sites in Gusu District": [
                 "historische Sehenswürdigkeiten im Bezirk Gusu"
             ],
-            "amusement park": [
-                "Freizeitpark",
-                "Vergnügungspark"
-            ],
             "landscape scenic spot": [
-                "landschaftlichen Ausguckspunkt"
+                "landschaftlich reizvollen Ort"
             ]
         },
         "score": {
@@ -547,8 +557,8 @@
         },
         "opening hours": {
             "08:30-17:00": [
-                "07:30 bis 17:30 Uhr",
-                "von 08:30 bis 17:00 Uhr"
+                "von 08:30 bis 17:00 Uhr",
+                "07:30 bis 17:30 Uhr"
             ],
             "all day": [
                 "den ganzen Tag"
@@ -562,13 +572,13 @@
                 "Kuojiatou Allee Nr. 11, Daichengqiao Straße, Bezirk Gusu"
             ],
             "No. 188, Yangchenghu Avenue, Suzhou Industrial Park, Suzhou City": [
-                "Nr. 188, Yangchenghu Avenue, Suzhou Industrial Park, Suzhou City"
+                "Yangchenghu Avenue Nr. 188, Suzhou Industrial Park, Suzhou City"
             ],
             "Shajiabang Town, Changshu, Suzhou City": [
                 "Stadt Shajiabang, Changshu, Stadt Suzhou"
             ],
             "No.1, Town Lake Embroidery Street, Suzhou New District, Suzhou City": [
-                "Nr. 1, Town Lake Embroidery Street, Suzhou New District, Suzhou City"
+                "Town Lake Embroidery Street Nr. 1, Suzhou New District, Suzhou City"
             ],
             "Huashan Road, Fengqiao Sub-district, Suzhou New District, Suzhou City": [
                 "Huashan Road, Unterbezirk Fengqiao, Suzhou New District, Suzhou City"
@@ -576,19 +586,20 @@
         },
         "metro station": {
             "no": [
-                "keine U-Bahnstation in der Nähe",
-                "keine"
+                "keine",
+                "keine U-Bahnstation in der Nähe"
             ],
             "No": [
                 "Nein",
+                "keine",
                 "keine direkte U-Bahn",
-                "geht nicht",
-                "keine"
+                "geht nicht"
             ],
             "could": [
                 "könnte"
             ],
             "can": [
+                "könnt",
                 "können"
             ],
             "directly by subway": [
@@ -639,11 +650,12 @@
                 "etwas teurer",
                 "etwas teureres"
             ],
+            "moderately priced": [
+                "preisgünstige",
+                "preiswertes"
+            ],
             "fair": [
                 "fair"
-            ],
-            "moderately priced": [
-                "preisgünstige"
             ],
             "cheaper": [
                 "billigeres",
@@ -653,7 +665,7 @@
                 "günstiges"
             ],
             "a slightly more expensive": [
-                "etwas teureres"
+                "ein etwas teureres"
             ]
         },
         "name": {
@@ -673,8 +685,8 @@
                 "Seoul South Korean Cuisine"
             ],
             "Xibei Restaurant": [
-                "Restaurant Xibei",
-                "Xibei Restaurant"
+                "Xibei Restaurant",
+                "Restaurant Xibei"
             ],
             "Niutanjia Ben'Ge Charcoal Barbecue": [
                 "Niutanjia Ben'Ge Holzkohlen Barbecue"
@@ -690,6 +702,9 @@
             ],
             "Dream of Taoyuan": [
                 "Dream of Taoyuan"
+            ],
+            "Beijiang Restaurant": [
+                "Restaurant Beijiang"
             ],
             "LELECHA": [
                 "LELECHA"
@@ -712,15 +727,19 @@
                 "Jiangsu-Zhejiang-Küche"
             ],
             "hot pot": [
-                "Hot-Pot",
-                "Hot Pot"
+                "Hot Pot",
+                "südkoreanisches Essen",
+                "Hot-Pot"
             ],
             "Japanese cuisine": [
                 "japanische Küche",
                 "japanischer Küche"
             ],
             "Northwestern cuisine": [
-                "Küche des Nordwestens"
+                "nordwestliche Küche"
+            ],
+            "South Korean": [
+                "südkoreanisches"
             ],
             "Northwest cuisine": [
                 "Nordwestliche Küche"
@@ -740,13 +759,13 @@
                 "Chuanfang Alley Nr. 3, nördlich der Pingjiang Road"
             ],
             "Lifeng Plaza 1F, No. 399, Baodaidong Road": [
-                "Lifeng Plaza 1F, Nr. 399, Baodaidong Straße"
+                "Lifeng Plaza 1F, Baodaidong Straße Nr. 399"
             ],
             "No. 21 Building, Li Gongdi Phase 3": [
                 "Gebäude Nr. 21, Li Gongdi Phase 3"
             ],
             "the 3F floor, just beside the lift of CR Vanguard, No. 128, Jiuhua Road": [
-                "3. Stock, direkt neben dem Aufzug des CR Vanguard, Nr. 128, Jiuhua Straße"
+                "3. Stock, direkt neben dem Aufzug des CR Vanguard, Jiuhua Straße Nr. 128"
             ],
             "No. 47-1, Jinshan Road (No. B1001-2, B1F, Mudu Rainbow Shopping Mall)": [
                 "Jinshan Road Nr. 47-1 (Nr. B1001-2, B1F, Einkaufszentrum Mudu Rainbow)"
@@ -771,12 +790,12 @@
                 "keine direkte U-Bahnlinie dorthin"
             ],
             "is": [
-                "gibt",
-                "keine"
+                "keine",
+                "gibt"
             ],
             "can": [
-                "können",
-                "kannst"
+                "könnt",
+                "können"
             ]
         },
         "area": {
@@ -821,7 +840,7 @@
                 "gebratenes Hammelfleisch mit Schalotte"
             ],
             "It's recommended you give the tomato pot": [
-                "Es wird empfohlen, den Tomatentopf"
+                "Es wird empfohlen, den Tomateneintopf"
             ],
             "Cream of Mushroom Soup": [
                 "Pilzcremesuppe"
@@ -855,18 +874,18 @@
                 "Geländewagen"
             ],
             "notchback": [
-                "Notchback"
+                "Auto mit Stufenheck"
             ],
             "MPV": [
-                "MPV"
+                "Mehrzweckfahrzeug"
             ],
             "hatchback": [
-                "Hatchback"
+                "Autos mit Schrägheck"
             ]
         },
         "hybrid": {
             "gas-powered": [
-                "gasbetriebenen"
+                "benzinbetriebenen"
             ]
         },
         "pricerange": {
@@ -905,24 +924,24 @@
         },
         "cruise control system": {
             "FAW-Volkswagen Magotan 280TSI DSG Comfort Version": [
-                "ist nicht ausgestattet mit",
+                "Ja, das hat er",
                 "Ja",
-                "Sicher, das hat es"
+                "ist nicht ausgestattet mit"
             ]
         },
         "parking assist system": {
             "FAW-Volkswagen Magotan 280TSI DSG Comfort Version": [
                 "Ja",
-                "Unterstützung",
-                "verfügt leider nicht über"
+                "verfügt leider nicht über",
+                "Unterstützung"
             ]
         },
         "ventilated seats": {
             "FAW-Volkswagen Magotan 280TSI DSG Comfort Version": [
-                "ist nicht ausgestattet mit",
                 "Ja",
+                "verfügt leider nicht über",
                 "hat keine",
-                "verfügt leider nicht über"
+                "ist nicht ausgestattet mit"
             ]
         },
         "brand": {
@@ -957,9 +976,9 @@
         },
         "heated seats": {
             "186,900 yuan": [
-                "ist nicht ausgestattet mit",
                 "hat",
-                "verfügt leider nicht über"
+                "verfügt leider nicht über",
+                "ist nicht ausgestattet mit"
             ]
         },
         "series": {
@@ -978,17 +997,20 @@
                 "etwas teureres"
             ],
             "moderately priced": [
-                "preiswerte",
-                "moderaten Preisen"
+                "moderaten Preisen",
+                "preiswerte"
             ],
             "cheaper": [
-                "günstigere",
-                "günstigeres"
+                "günstigeres",
+                "günstigere"
+            ],
+            "slightly more expensive": [
+                "etwas teureren"
             ],
             "cheap": [
+                "günstige",
                 "billig",
                 "günstig",
-                "günstige",
                 "billigen"
             ],
             "a slightly more expensive": [
@@ -997,8 +1019,8 @@
         },
         "room type": {
             "standard rooms": [
-                "Standardzimmer",
-                "Standardzimmern"
+                "Standardzimmern",
+                "Standardzimmer"
             ],
             "king-size room": [
                 "Kingsize-Zimmer",
@@ -1006,8 +1028,8 @@
                 "Zimmer mit Kingsize-Bett"
             ],
             "a standard room": [
-                "ein Standardzimmer",
                 "Standardzimmer",
+                "ein Standardzimmer",
                 "Ein Standardzimmer"
             ],
             "king-size rooms": [
@@ -1039,6 +1061,9 @@
             "Chengyi Lianhao Hotel": [
                 "Chengyi Lianhao Hotel"
             ],
+            "Jinji Lake Shilla Hotel": [
+                "Jinji Lake Shilla Hotel"
+            ],
             "Genting Star Chain Hotel": [
                 "Genting Star Ketten Hotel",
                 "Das Genting Star Kettenhotel"
@@ -1053,8 +1078,8 @@
                 "Suzhou Shui'an Hanshe Boutique Hotel"
             ],
             "Meijin All Suites Hotel": [
-                "Das Meijin All Suites Hotel",
-                "Meijin All Suites Hotel"
+                "Meijin All Suites Hotel",
+                "Das Meijin All Suites Hotel"
             ],
             "Jinji Lake Suzhou Suisse Place Ligongdi Apartment Hotel": [
                 "Jinji Lake Suzhou Suisse Place Ligongdi Apartment Hotel"
@@ -1092,9 +1117,9 @@
         },
         "parking": {
             "free": [
+                "kostenlos",
                 "kostenlose",
-                "kostenlosen",
-                "kostenlos"
+                "kostenlosen"
             ],
             "need to pay": [
                 "müssen sie bezahlen"
@@ -1113,6 +1138,9 @@
             ],
             "Wuzhong District": [
                 "Bezirk Wuzhong"
+            ],
+            "Suzhou Industrial Park": [
+                "Industriepark Suzhou"
             ],
             "Suzhou": [
                 "Suzhou"
@@ -1194,7 +1222,6 @@
         },
         "hotel type": {
             "resort hotel": [
-                "Resort",
                 "Resort-Hotel"
             ],
             "business hotel": [
@@ -1203,25 +1230,25 @@
         },
         "address": {
             "No. 20, Gunxiufang, Shiquan Street, Gusu District, Suzhou": [
-                "Nr. 20, Gunxiufang, Shiquan Straße, Bezirk Gusu, Suzhou"
+                "Gunxiufang, Shiquan Straße Nr. 20, Bezirk Gusu, Suzhou"
             ],
             "No. 1, Shishan Road, Suzhou New District, Suzhou": [
                 "Shishan Straße Nr. 1, Suzhou New District, Suzhou"
             ],
             "No. 6, Shuli Road, Suzhou Taihu National Tourism Vacation Zone, Wuzhong District, Suzhou": [
-                "Shuli Road Nr. 6, Suzhou Taihu National Tourism Vacation Zone, Bezirk Wuzhong, Suzhou"
+                "Suzhou Taihu National Tourism Vacation Zone, Shuli Straße Nr. 6 Bezirk Wuzhong, Suzhou"
             ],
             "opposite the bus station at No. 67, Guangjian Road, Wuzhong District, Suzhou": [
-                "gegenüber der Bushaltestelle Nr. 67, Guangjian Road, Bezirk Wuzhong, Suzhou"
+                "gegenüber der Bushaltestelle an der Guangjian Road Nr. 67, Bezirk Wuzhong, Suzhou"
             ],
             "Modern Leisure Plaza, Wangdun Road, Suzhou Industrial Park, Suzhou": [
                 "Modern Leisure Plaza, Wangdun Road, Suzhou Industrial Park, Suzhou"
             ],
             "No. 259, Xinshi Road, Gusu District, Suzhou": [
-                "Nr. 259, Xinshi Road, Bezirk Gusu, Suzhou"
+                "Xinshi Road Nr. 259, Bezirk Gusu, Suzhou"
             ],
             "No. 198, South Dongwu Road, Wuzhong District, Suzhou": [
-                "Nr. 198, South Dongwu Road, Bezirk Wuzhong, Suzhou"
+                "South Dongwu Road Nr. 198, Bezirk Wuzhong, Suzhou"
             ]
         },
         "star": {
@@ -1233,6 +1260,7 @@
     "hospital": {
         "general or specialized": {
             "general hospital": [
+                "allgemeines Krankenhaus",
                 "Allgemeinkrankenhaus"
             ]
         },
@@ -1252,7 +1280,7 @@
                 "First Affiliated Hospital der Soochow University"
             ],
             "the Second Affiliated Hospital of Soochow University": [
-                "Second Affiliated Hospital der Soochow University"
+                "Second Affiliated Hospital der Soochow Universität"
             ]
         },
         "phone": {
@@ -1341,15 +1369,16 @@
                 "nächsten Donnerstag"
             ],
             "next Friday": [
-                "nächsten Freitag",
-                "kommenden Freitag"
+                "kommenden Freitag",
+                "nächsten Freitag"
             ],
             "next Wednesday": [
-                "kommenden Mittwoch"
+                "kommenden Mittwoch",
+                "nächsten Mittwoch"
             ],
             "next Saturday": [
-                "kommenden Samstag",
-                "nächsten Samstag"
+                "nächsten Samstag",
+                "kommenden Samstag"
             ],
             "next Tuesday": [
                 "nächsten Dienstag"
@@ -1368,9 +1397,9 @@
                 "östliche Windstärke 2"
             ],
             "northwest force 3-4": [
-                "nordwestliche Windstärke von 3-4",
+                "Nordweststärke 3-4",
                 "Nordwestwindstärke von 3-4",
-                "Nordweststärke 3-4"
+                "nordwestliche Windstärke von 3-4"
             ],
             "north force 3": [
                 "Nordwestwindstärke 3"
@@ -1402,7 +1431,7 @@
                 "sonnig und später bewölkt"
             ],
             "cloudy and turn into overcast skies": [
-                "wölkig und dann in einen bedeckten Himmel übergehen"
+                "wolkig und dann bedeckt sein"
             ],
             "cloudy": [
                 "bewölkt"
@@ -1411,7 +1440,7 @@
                 "leicht regnen"
             ]
         },
-        "tamperature": {
+        "temperature": {
             "The maximum temperature will be 22 degrees Celsius, and the minimum temperature will be 14 degrees Celsius": [
                 "Die Höchsttemperatur beträgt 22 Grad Celsius, die Mindesttemperatur 14 Grad Celsius"
             ],
@@ -1434,7 +1463,7 @@
                 "die Höchsttemperatur 10 Grad Celsius und die Mindesttemperatur 1 Grad Celsius betragen"
             ],
             "The maximum temperature will be 9 degrees Celsius, and the minimum temperature will be -2 degrees Celsius": [
-                "Die maximale Temperatur beträgt 9 Grad Celsius und die minimale Temperatur -2 Grad Celsius"
+                "Die Höchsttemperatur beträgt 9 Grad Celsius und die Mindesttemperatur -2 Grad Celsius"
             ]
         },
         "uv intensity": {
@@ -1510,18 +1539,18 @@
         },
         "class cabin": {
             "economy class": [
-                "Economy Class",
+                "Economy-Class",
                 "Economy-Klasse",
-                "Economy-Class"
+                "Economy Class"
             ],
             "first class": [
                 "erste Klasse",
                 "ersten Klasse"
             ],
             "business class": [
-                "Economy Class",
+                "Business Class",
                 "Business-Class",
-                "Business Class"
+                "Economy Class"
             ],
             "Business class": [
                 "Business Class"
@@ -1529,10 +1558,11 @@
         },
         "flight information": {
             "HU7394 of Hainan Airlines from Terminal 3 of Hangzhou International Airport to Terminal 3 of Shenzhen Baoan International Airport": [
-                "Flug HU7394 von Hainan Airlines vom Terminal 3 des internationalen Flughafens Hangzhou zum Terminal 3 des internationalen Flughafens Shenzhen Baoan nehmen",
-                "Flug CZ3741 von China Southern Airlines vom Terminal 2 des internationalen Flughafens Baiyun zum Terminal 3 des internationalen Flughafens Gaoqi"
+                "Flug CZ3741 von China Southern Airlines vom Terminal 2 des internationalen Flughafens Baiyun zum Terminal 3 des internationalen Flughafens Gaoqi",
+                "Flug HU7394 von Hainan Airlines vom Terminal 3 des internationalen Flughafens Hangzhou zum Terminal 3 des internationalen Flughafens Shenzhen Baoan nehmen"
             ],
             "flight CZ3741 of China Southern Airlines, from Terminal 2 of Baiyun International Airport to Terminal 3 of Gaoqi International Airport": [
+                "Flug CZ3741 von China Southern Airlines vom Terminal 2 des internationalen Flughafens Baiyun zum Terminal 3 des internationalen Flughafens Gaoqi nehmen",
                 "Flug CZ3741 von China Southern Airlines vom Terminal 2 des internationalen Flughafens Baiyun zum Terminal 3 des internationalen Flughafens Gaoqi"
             ],
             "Flight 3U8556 of Sichuan Airlines, from Terminal 2 of Baiyun International Airport to Terminal 1 of Shuangliu International Airport": [
@@ -1570,7 +1600,7 @@
         },
         "departure time": {
             "11:00 that day": [
-                "an diesem Tag 11:00 Uhr"
+                "an diesem Tag um 11:00 Uhr"
             ],
             "11:10 that day": [
                 "11:10 Uhr an diesem Tag"
@@ -1594,13 +1624,12 @@
         "arrival time": {
             "14:00 that day": [
                 "13:30 Uhr am selben Tag",
-                "an diesem Tag um 14:00 Uhr",
-                "14:00 Uhr ankommen"
+                "an diesem Tag um 14:00 Uhr"
             ],
             "16:35 on the same day": [
-                "13:15 Uhr am selben Tag",
+                "12:50 Uhr am selben Tag",
                 "16:35 Uhr am selben Tag",
-                "12:50 Uhr am selben Tag"
+                "13:15 Uhr am selben Tag"
             ]
         },
         "ticket price": {
@@ -1658,13 +1687,13 @@
         },
         "memory capacity": {
             "8GB": [
-                "8 GB",
-                "8GB"
+                "8GB",
+                "8 GB"
             ]
         },
         "screen size": {
             "14-inch": [
-                "14 Zoll"
+                "14-Zoll"
             ]
         },
         "product name": {
@@ -1672,7 +1701,7 @@
                 "Lenovo 7000 Xiaoxin Chao"
             ],
             "The Lenovo Xiaoxin Chao 7000": [
-                "Das Lenovo Xiaoxin Chao 7000"
+                "Der Lenovo Xiaoxin Chao 7000"
             ],
             "Dell Inspiron 14": [
                 "Dell Inspiron 14"
@@ -1703,14 +1732,14 @@
         },
         "standby time": {
             "over 9 hours": [
-                "wurde noch nicht festgelegt",
-                "über 9 Stunden"
+                "über 9 Stunden",
+                "wurde noch nicht festgelegt"
             ]
         },
         "game performance": {
             "entry-level": [
-                "einstiegslevel",
-                "einsteigerlevel"
+                "Einstiegslevel",
+                "Leistung auf Einsteigerlevel"
             ]
         },
         "computer type": {
@@ -1721,6 +1750,7 @@
                 "Desktops"
             ],
             "desktop": [
+                "Desktop PC",
                 "Desktop"
             ]
         },
@@ -1737,14 +1767,14 @@
                 "5.000 bis 10.000"
             ],
             "5,000-10,000 yuan": [
-                "5.000 und 10.000 Yuan",
-                "5.000-10.000 Yuan"
+                "5.000-10.000 Yuan",
+                "5.000 und 10.000 Yuan"
             ]
         },
         "colour": {
             "platinum silver": [
-                "wurde noch nicht festgelegt",
-                "Platinsilber"
+                "platinsilber",
+                "wurde noch nicht festgelegt"
             ]
         },
         "operating system": {
@@ -1801,12 +1831,10 @@
     "train": {
         "classification": {
             "high-speed trains": [
-                "Hochgeschwindigkeitszüge",
-                "High Speed Trains"
+                "Hochgeschwindigkeitszüge"
             ],
             "high-speed train": [
-                "Hochgeschwindigkeitszug",
-                "High Speed Train"
+                "Hochgeschwindigkeitszug"
             ],
             "bullet trains": [
                 "Hochgeschwindigkeitszüge",
@@ -1814,7 +1842,6 @@
             ],
             "bullet train": [
                 "Bullet Train",
-                "bullet Zug",
                 "Xiamen"
             ]
         },
@@ -1837,8 +1864,8 @@
         },
         "departure": {
             "Shanghai": [
-                "Shanghai",
-                "Schanghai"
+                "Schanghai",
+                "Shanghai"
             ],
             "Beijing": [
                 "Peking"
@@ -1871,16 +1898,22 @@
             ],
             "next Friday morning": [
                 "nächsten Freitagmorgen"
+            ],
+            "next Saturday afternoon": [
+                "nächsten Samstagnachmittag"
+            ],
+            "next Sunday afternoon": [
+                "nächsten Sonntagnachmittag"
             ]
         },
         "seat type": {
             "first class": [
-                "erster Klasse",
+                "der ersten Klasse",
+                "die erste Klasse",
                 "erste Klasse",
                 "First-Class",
-                "die erste Klasse",
-                "der ersten Klasse",
                 "1. Klasse",
+                "erster Klasse",
                 "ersten Klasse"
             ],
             "second class": [
@@ -1889,11 +1922,10 @@
                 "zweite Klasse"
             ],
             "sleeper in first class": [
-                "Schlafwagen in der ersten Klasse",
-                "Bett in der ersten Klasse"
+                "Schlafwagen in der ersten Klasse"
             ],
             "sleeper in second class": [
-                "Bett in der zweiten Klasse"
+                "Schlafwagen in der zweiten Klasse"
             ]
         },
         "train number": {
@@ -1938,7 +1970,7 @@
             ],
             "10:00 that day": [
                 "10:00 Uhr am Morgen dieses Tages",
-                "diesem Tag um 10:00 Uhr"
+                "an diesem Tag um 10:00 Uhr"
             ],
             "14:23": [
                 "14:23 Uhr"
@@ -1955,7 +1987,7 @@
         },
         "arrival time": {
             "13:31 that day": [
-                "an diesem Tag 13:31 Uhr"
+                "an diesem Tag um 13:31 Uhr"
             ],
             "18:37 that day": [
                 "18:37 Uhr an diesem Tag"
@@ -2015,8 +2047,8 @@
     "class": {
         "grade": {
             "sixth grade": [
-                "der sechsten Klasse",
-                "sechsten Klasse"
+                "sechsten Klasse",
+                "der sechsten Klasse"
             ],
             "fifth grade": [
                 "fünften Klasse"
@@ -2026,11 +2058,17 @@
             "Saturday": [
                 "samstags",
                 "Samstag"
+            ],
+            "Sunday": [
+                "Sonntag"
             ]
         },
         "time": {
             "afternoon": [
                 "Nachmittag"
+            ],
+            "morning": [
+                "morgens"
             ],
             "evening": [
                 "Abend"
@@ -2093,8 +2131,8 @@
                 "Mathe"
             ],
             "English": [
-                "Mathe",
-                "Englisch"
+                "Englisch",
+                "Mathe"
             ]
         },
         "end date": {
@@ -2133,7 +2171,7 @@
         },
         "classroom": {
             "No. 311, Lohas Town": [
-                "Nr. 311, Lohas Town"
+                "Lohas Town Nr. 311"
             ]
         },
         "level": {
@@ -2148,7 +2186,7 @@
         },
         "type": {
             "face-to-face": [
-                "Angesicht zu Angesicht"
+                "in Präsenz"
             ]
         }
     }

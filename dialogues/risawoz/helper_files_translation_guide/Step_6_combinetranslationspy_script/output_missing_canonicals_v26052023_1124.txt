@@ -1,0 +1,44 @@
+Cannot find canonical value for science fiction TV shows in tv domain, type slot
+Cannot find canonical value for on April 17, 2012, in Japan in tv domain, premiere time slot
+Cannot find canonical value for American science fiction movie in movie domain, title slot
+Cannot find canonical value for the Master of the Nets Garden in attraction domain, name slot
+Cannot find canonical value for 07:30 to 17:30 in attraction domain, opening hours slot
+Cannot find canonical value for no subway station nearby in attraction domain, metro station slot
+Cannot find canonical value for no direct subway in attraction domain, metro station slot
+Cannot find canonical value for can't in attraction domain, metro station slot
+Cannot find canonical value for South Korean food in restaurant domain, cuisine slot
+Cannot find canonical value for no direct subway line to it in restaurant domain, metro station slot
+Cannot find canonical value for no in restaurant domain, metro station slot
+Cannot find canonical value for from Monday to Sunday, 09:00-07:00 in restaurant domain, business hours slot
+Cannot find canonical value for Sure, it has in car domain, cruise control system slot
+Cannot find canonical value for Yes in car domain, cruise control system slot
+Cannot find canonical value for is not equipped with in car domain, cruise control system slot
+Cannot find canonical value for does not have in car domain, parking assist system slot
+Cannot find canonical value for Yes in car domain, parking assist system slot
+Cannot find canonical value for support in car domain, parking assist system slot
+Cannot find canonical value for does not have in car domain, ventilated seats slot
+Cannot find canonical value for Yes in car domain, ventilated seats slot
+Cannot find canonical value for is not equipped with in car domain, ventilated seats slot
+Cannot find canonical value for does not have in car domain, heated seats slot
+Cannot find canonical value for has in car domain, heated seats slot
+Cannot find canonical value for is not equipped with in car domain, heated seats slot
+Cannot find canonical value for A standard room in hotel domain, room type slot
+Cannot find canonical value for 1,019 yuan in hotel domain, room charge slot
+Cannot find canonical value for Yes in hospital domain, ct slot
+Cannot find canonical value for Yes in hospital domain, dsa slot
+Cannot find canonical value for Yes in hospital domain, 3.0t mri slot
+Cannot find canonical value for Next Friday in weather domain, date slot
+Cannot find canonical value for next Sunday in Xiamen in weather domain, wind slot
+Cannot find canonical value for Economy class in flight domain, class cabin slot
+Cannot find canonical value for Flight CZ3741 of China Southern Airlines, from Terminal 2 of Baiyun International Airport to Terminal 3 of Gaoqi International Airport in flight domain, flight information slot
+Cannot find canonical value for 13:30 on the same day in flight domain, arrival time slot
+Cannot find canonical value for 13:15 on the same day in flight domain, arrival time slot
+Cannot find canonical value for 12:50 on the same day in flight domain, arrival time slot
+Cannot find canonical value for lightweight laptop in pc domain, brand slot
+Cannot find canonical value for hasn't been set yet in pc domain, standby time slot
+Cannot find canonical value for hasn't been set yet in pc domain, colour slot
+Cannot find canonical value for not yet clear in pc domain, features slot
+Cannot find canonical value for Xiamen in train domain, classification slot
+Cannot find canonical value for 10:00 on the morning of that day in train domain, departure time slot
+Cannot find canonical value for 960 yuan in class domain, price slot
+Cannot find canonical value for Math in class domain, subject slot

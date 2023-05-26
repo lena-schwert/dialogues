@@ -44,19 +44,22 @@
             ],
             "feature drama": [
                 "Dramafilm",
-                "Drama-Film"
+                "Drama"
             ],
             "crime drama": [
                 "Krimidrama"
             ],
             "comedy": [
-                "komödielle"
+                "Comedy"
             ],
             "feature dramas": [
-                "Spielfilm Dramen"
+                "Dramen"
             ],
             "science fiction TV shows": [
                 "Science-Fiction-Fernsehsendungen"
+            ],
+            "romantic": [
+                "romantische"
             ]
         },
         "title": {
@@ -79,7 +82,7 @@
                 "Maneater - Tod aus der Kälte"
             ],
             "Hell Is Other People": [
-                "Geschlossene Gesellschaft"
+                "Hell Is Other People"
             ],
             "My Own Swordsman": [
                 "My Own Swordsman"
@@ -179,7 +182,7 @@
                 "11 Folgen"
             ],
             "24 episodes": [
-                "24 Episoden"
+                "24 Folgen"
             ],
             "30 episodes": [
                 "30 Folgen"
@@ -208,15 +211,15 @@
                 "indische"
             ],
             "Taiwan, China": [
-                "Taiwan"
+                "Taiwan",
+                "Taiwan, China"
             ],
             "Chinese mainland": [
-                "China",
-                "chinesischen Festland"
+                "China"
             ],
             "American": [
-                "amerikanische",
-                "amerikanischen"
+                "amerikanischen",
+                "amerikanische"
             ],
             "South Korean": [
                 "südkoreanischen"
@@ -324,13 +327,13 @@
                 "27. Juli 2007 in Taiwan und am 31. Juli desselben Jahres in China"
             ],
             "Taiwan, China": [
-                "Taiwan"
+                "Taiwan, China"
             ],
             "August 20, 2015": [
                 "20. August 2015"
             ],
             "October 25, 2002, in Taiwan, China": [
-                "25. Oktober 2002 in Taiwan, China"
+                "25. Oktober 2002 in Taiwan"
             ],
             "in the United States on July 9, 2003": [
                 "am 9. Juli 2003 in den Vereinigten Staaten"
@@ -395,25 +398,28 @@
         },
         "consumption": {
             "not that expensive": [
-                "nicht so teuer"
+                "nicht so teuer",
+                "nicht so teure"
             ],
             "a bit more expensive": [
-                "etwas teureres"
+                "etwas teureren"
             ],
             "affordable": [
-                "bezahlbare"
+                "bezahlbaren"
             ],
             "cheap": [
                 "günstige"
             ],
             "cheaper": [
-                "günstigeres"
+                "günstigeres",
+                "günstigere",
+                "Günstigeres"
             ],
             "slightly more expensive": [
-                "etwas teureren",
-                "etwas teureren Ort",
                 "etwas teureres",
-                "etwas teurerer"
+                "etwas teurerer",
+                "etwas teureren",
+                "etwas teureren Ort"
             ],
             "moderately priced": [
                 "preisgünstigen"
@@ -427,10 +433,13 @@
                 "Der Humble Administrator's Garden"
             ],
             "Tianping Mountain Scenic Area": [
-                "Landschaft des Tianping Berges"
+                "landschaftlich reizvolle Gegend des Tianping Berges"
             ],
             "Mudu Town": [
                 "Mudu Town"
+            ],
+            "Master of the Nets Garden": [
+                "Garten des Meisters der Netze"
             ],
             "the Master of the Nets Garden": [
                 "Garten des Meisters der Netze"
@@ -452,18 +461,18 @@
                 "Dushu Lake Church"
             ],
             "Xishan Island Scenic Area": [
-                "das landschaftlich reizvolle Gebiet in Xidongting Shan"
+                "landschaftlich reizvolle Gebiet auf Xishan Island"
             ],
             "Jinji Lake Scenic Area": [
-                "das Jinji Lake Naturgebiet",
-                "Jinji Lake Scenic Area"
+                "Naturgebiet am Jinjisee",
+                "Gegend um den Jinjisee"
             ],
             "Zhouzhuang Town": [
                 "die Stadt Zhouzhuang"
             ],
             "Suzhou Museum": [
-                "Suzhou-Museum",
-                "Suzhou Museum"
+                "Suzhou Museum",
+                "Suzhou-Museum"
             ],
             "the Suzhou Museum": [
                 "des Suzhou-Museums"
@@ -490,7 +499,6 @@
                 "Suzhou Taihu Lake Wetland Park"
             ],
             "Baimajian Ecological Park": [
-                "Der ökologische Park Baimajian",
                 "Baimajian Ecological Park"
             ]
         },
@@ -499,8 +507,12 @@
                 "Garten im Suzhou-Stil"
             ],
             "landscape scenic spots": [
-                "landschaftlichen Aussichtspunkte",
-                "beliebte landschaftlich reizvolle Orte"
+                "landschaftlich schönen Gegenden",
+                "landschaftlich reizvolle Orte"
+            ],
+            "amusement park": [
+                "Freizeitpark",
+                "Vergnügungspark"
             ],
             "water town": [
                 "Wasserstadt"
@@ -508,15 +520,14 @@
             "historic site in Gusu District": [
                 "historische Sehenswürdigkeit im Bezirk Gusu"
             ],
+            "commercial center": [
+                "Handelszentrum"
+            ],
             "historic sites in Gusu District": [
                 "historische Sehenswürdigkeiten im Bezirk Gusu"
             ],
-            "amusement park": [
-                "Freizeitpark",
-                "Vergnügungspark"
-            ],
             "landscape scenic spot": [
-                "landschaftlichen Ausguckspunkt"
+                "landschaftlich reizvollen Ort"
             ]
         },
         "score": {
@@ -572,13 +583,13 @@
                 "Kuojiatou Allee Nr. 11, Daichengqiao Straße, Bezirk Gusu"
             ],
             "No. 188, Yangchenghu Avenue, Suzhou Industrial Park, Suzhou City": [
-                "Nr. 188, Yangchenghu Avenue, Suzhou Industrial Park, Suzhou City"
+                "Yangchenghu Avenue Nr. 188, Suzhou Industrial Park, Suzhou City"
             ],
             "Shajiabang Town, Changshu, Suzhou City": [
                 "Stadt Shajiabang, Changshu, Stadt Suzhou"
             ],
             "No.1, Town Lake Embroidery Street, Suzhou New District, Suzhou City": [
-                "Nr. 1, Town Lake Embroidery Street, Suzhou New District, Suzhou City"
+                "Town Lake Embroidery Street Nr. 1, Suzhou New District, Suzhou City"
             ],
             "Huashan Road, Fengqiao Sub-district, Suzhou New District, Suzhou City": [
                 "Huashan Road, Unterbezirk Fengqiao, Suzhou New District, Suzhou City"
@@ -592,8 +603,8 @@
                 "keine U-Bahnstation in der Nähe"
             ],
             "No": [
-                "keine",
-                "Nein"
+                "Nein",
+                "keine"
             ],
             "no direct subway": [
                 "keine direkte U-Bahn"
@@ -605,6 +616,7 @@
                 "könnte"
             ],
             "can": [
+                "könnt",
                 "können"
             ],
             "directly by subway": [
@@ -619,8 +631,8 @@
                 "Date"
             ],
             "family-friendly": [
-                "familienfreundliches",
-                "familienfreundlichen"
+                "familienfreundlichen",
+                "familienfreundliches"
             ],
             "a family trip": [
                 "einen Familienausflug"
@@ -655,21 +667,22 @@
                 "etwas teureres",
                 "etwas teurer"
             ],
+            "moderately priced": [
+                "preisgünstige",
+                "preiswertes"
+            ],
             "fair": [
                 "fair"
             ],
-            "moderately priced": [
-                "preisgünstige"
-            ],
             "cheaper": [
-                "günstigeres",
-                "billigeres"
+                "billigeres",
+                "günstigeres"
             ],
             "cheap": [
                 "günstiges"
             ],
             "a slightly more expensive": [
-                "etwas teureres"
+                "ein etwas teureres"
             ]
         },
         "name": {
@@ -707,6 +720,9 @@
             "Dream of Taoyuan": [
                 "Dream of Taoyuan"
             ],
+            "Beijiang Restaurant": [
+                "Restaurant Beijiang"
+            ],
             "LELECHA": [
                 "LELECHA"
             ],
@@ -731,12 +747,18 @@
                 "Hot-Pot",
                 "Hot Pot"
             ],
+            "South Korean food": [
+                "südkoreanisches Essen"
+            ],
             "Japanese cuisine": [
-                "japanische Küche",
-                "japanischer Küche"
+                "japanischer Küche",
+                "japanische Küche"
             ],
             "Northwestern cuisine": [
-                "Küche des Nordwestens"
+                "nordwestliche Küche"
+            ],
+            "South Korean": [
+                "südkoreanisches"
             ],
             "Northwest cuisine": [
                 "Nordwestliche Küche"
@@ -756,13 +778,13 @@
                 "Chuanfang Alley Nr. 3, nördlich der Pingjiang Road"
             ],
             "Lifeng Plaza 1F, No. 399, Baodaidong Road": [
-                "Lifeng Plaza 1F, Nr. 399, Baodaidong Straße"
+                "Lifeng Plaza 1F, Baodaidong Straße Nr. 399"
             ],
             "No. 21 Building, Li Gongdi Phase 3": [
                 "Gebäude Nr. 21, Li Gongdi Phase 3"
             ],
             "the 3F floor, just beside the lift of CR Vanguard, No. 128, Jiuhua Road": [
-                "3. Stock, direkt neben dem Aufzug des CR Vanguard, Nr. 128, Jiuhua Straße"
+                "3. Stock, direkt neben dem Aufzug des CR Vanguard, Jiuhua Straße Nr. 128"
             ],
             "No. 47-1, Jinshan Road (No. B1001-2, B1F, Mudu Rainbow Shopping Mall)": [
                 "Jinshan Road Nr. 47-1 (Nr. B1001-2, B1F, Einkaufszentrum Mudu Rainbow)"
@@ -793,7 +815,7 @@
                 "keine"
             ],
             "can": [
-                "kannst",
+                "könnt",
                 "können"
             ]
         },
@@ -839,7 +861,7 @@
                 "gebratenes Hammelfleisch mit Schalotte"
             ],
             "It's recommended you give the tomato pot": [
-                "Es wird empfohlen, den Tomatentopf"
+                "Es wird empfohlen, den Tomateneintopf"
             ],
             "Cream of Mushroom Soup": [
                 "Pilzcremesuppe"
@@ -869,22 +891,22 @@
     "car": {
         "classification": {
             "SUV": [
-                "SUV",
-                "Geländewagen"
+                "Geländewagen",
+                "SUV"
             ],
             "notchback": [
-                "Notchback"
+                "Auto mit Stufenheck"
             ],
             "MPV": [
-                "MPV"
+                "Mehrzweckfahrzeug"
             ],
             "hatchback": [
-                "Hatchback"
+                "Autos mit Schrägheck"
             ]
         },
         "hybrid": {
             "gas-powered": [
-                "gasbetriebenen"
+                "benzinbetriebenen"
             ]
         },
         "pricerange": {
@@ -923,7 +945,7 @@
         },
         "cruise control system": {
             "Sure, it has": [
-                "Sicher, das hat es"
+                "Ja, das hat er"
             ],
             "Yes": [
                 "Ja"
@@ -1012,18 +1034,21 @@
                 "etwas teurer"
             ],
             "moderately priced": [
-                "moderaten Preisen",
-                "preiswerte"
+                "preiswerte",
+                "moderaten Preisen"
             ],
             "cheaper": [
                 "günstigeres",
                 "günstigere"
             ],
+            "slightly more expensive": [
+                "etwas teureren"
+            ],
             "cheap": [
-                "billigen",
                 "günstige",
-                "billig",
-                "günstig"
+                "billigen",
+                "günstig",
+                "billig"
             ],
             "a slightly more expensive": [
                 "ein etwas teureres"
@@ -1035,15 +1060,15 @@
                 "Standardzimmern"
             ],
             "king-size room": [
-                "Kingsize-Zimmer",
-                "Zimmer mit Kingsize-Bett"
+                "Zimmer mit Kingsize-Bett",
+                "Kingsize-Zimmer"
             ],
             "A standard room": [
                 "Ein Standardzimmer"
             ],
             "a standard room": [
-                "ein Standardzimmer",
                 "Standardzimmer",
+                "ein Standardzimmer",
                 "Ein Standardzimmer"
             ],
             "king-size rooms": [
@@ -1075,9 +1100,12 @@
             "Chengyi Lianhao Hotel": [
                 "Chengyi Lianhao Hotel"
             ],
+            "Jinji Lake Shilla Hotel": [
+                "Jinji Lake Shilla Hotel"
+            ],
             "Genting Star Chain Hotel": [
-                "Genting Star Ketten Hotel",
-                "Das Genting Star Kettenhotel"
+                "Das Genting Star Kettenhotel",
+                "Genting Star Ketten Hotel"
             ],
             "Pan Pacific Suzhou": [
                 "Pan Pacific Suzhou"
@@ -1089,8 +1117,8 @@
                 "Suzhou Shui'an Hanshe Boutique Hotel"
             ],
             "Meijin All Suites Hotel": [
-                "Meijin All Suites Hotel",
-                "Das Meijin All Suites Hotel"
+                "Das Meijin All Suites Hotel",
+                "Meijin All Suites Hotel"
             ],
             "Jinji Lake Suzhou Suisse Place Ligongdi Apartment Hotel": [
                 "Jinji Lake Suzhou Suisse Place Ligongdi Apartment Hotel"
@@ -1138,8 +1166,8 @@
         },
         "area": {
             "Suzhou New District": [
-                "New District von Suzhou",
-                "Suzhou New District"
+                "Suzhou New District",
+                "New District von Suzhou"
             ],
             "Changshu": [
                 "Changshu"
@@ -1149,6 +1177,9 @@
             ],
             "Wuzhong District": [
                 "Bezirk Wuzhong"
+            ],
+            "Suzhou Industrial Park": [
+                "Industriepark Suzhou"
             ],
             "Suzhou": [
                 "Suzhou"
@@ -1232,8 +1263,7 @@
         },
         "hotel type": {
             "resort hotel": [
-                "Resort-Hotel",
-                "Resort"
+                "Resort-Hotel"
             ],
             "business hotel": [
                 "Business-Hotel"
@@ -1241,25 +1271,25 @@
         },
         "address": {
             "No. 20, Gunxiufang, Shiquan Street, Gusu District, Suzhou": [
-                "Nr. 20, Gunxiufang, Shiquan Straße, Bezirk Gusu, Suzhou"
+                "Gunxiufang, Shiquan Straße Nr. 20, Bezirk Gusu, Suzhou"
             ],
             "No. 1, Shishan Road, Suzhou New District, Suzhou": [
                 "Shishan Straße Nr. 1, Suzhou New District, Suzhou"
             ],
             "No. 6, Shuli Road, Suzhou Taihu National Tourism Vacation Zone, Wuzhong District, Suzhou": [
-                "Shuli Road Nr. 6, Suzhou Taihu National Tourism Vacation Zone, Bezirk Wuzhong, Suzhou"
+                "Suzhou Taihu National Tourism Vacation Zone, Shuli Straße Nr. 6 Bezirk Wuzhong, Suzhou"
             ],
             "opposite the bus station at No. 67, Guangjian Road, Wuzhong District, Suzhou": [
-                "gegenüber der Bushaltestelle Nr. 67, Guangjian Road, Bezirk Wuzhong, Suzhou"
+                "gegenüber der Bushaltestelle an der Guangjian Road Nr. 67, Bezirk Wuzhong, Suzhou"
             ],
             "Modern Leisure Plaza, Wangdun Road, Suzhou Industrial Park, Suzhou": [
                 "Modern Leisure Plaza, Wangdun Road, Suzhou Industrial Park, Suzhou"
             ],
             "No. 259, Xinshi Road, Gusu District, Suzhou": [
-                "Nr. 259, Xinshi Road, Bezirk Gusu, Suzhou"
+                "Xinshi Road Nr. 259, Bezirk Gusu, Suzhou"
             ],
             "No. 198, South Dongwu Road, Wuzhong District, Suzhou": [
-                "Nr. 198, South Dongwu Road, Bezirk Wuzhong, Suzhou"
+                "South Dongwu Road Nr. 198, Bezirk Wuzhong, Suzhou"
             ]
         },
         "star": {
@@ -1271,7 +1301,8 @@
     "hospital": {
         "general or specialized": {
             "general hospital": [
-                "Allgemeinkrankenhaus"
+                "Allgemeinkrankenhaus",
+                "allgemeines Krankenhaus"
             ]
         },
         "key departments": {
@@ -1290,7 +1321,7 @@
                 "First Affiliated Hospital der Soochow University"
             ],
             "the Second Affiliated Hospital of Soochow University": [
-                "Second Affiliated Hospital der Soochow University"
+                "Second Affiliated Hospital der Soochow Universität"
             ]
         },
         "phone": {
@@ -1379,11 +1410,12 @@
                 "nächsten Donnerstag"
             ],
             "next Friday": [
-                "nächsten Freitag",
-                "kommenden Freitag"
+                "kommenden Freitag",
+                "nächsten Freitag"
             ],
             "next Wednesday": [
-                "kommenden Mittwoch"
+                "kommenden Mittwoch",
+                "nächsten Mittwoch"
             ],
             "next Saturday": [
                 "kommenden Samstag",
@@ -1393,8 +1425,8 @@
                 "nächsten Dienstag"
             ],
             "next Monday": [
-                "nächsten Montag",
-                "kommenden Montag"
+                "kommenden Montag",
+                "nächsten Montag"
             ],
             "Next Friday": [
                 "Nächsten Freitag"
@@ -1409,8 +1441,8 @@
             ],
             "northwest force 3-4": [
                 "Nordwestwindstärke von 3-4",
-                "nordwestliche Windstärke von 3-4",
-                "Nordweststärke 3-4"
+                "Nordweststärke 3-4",
+                "nordwestliche Windstärke von 3-4"
             ],
             "north force 3": [
                 "Nordwestwindstärke 3"
@@ -1442,7 +1474,7 @@
                 "sonnig und später bewölkt"
             ],
             "cloudy and turn into overcast skies": [
-                "wölkig und dann in einen bedeckten Himmel übergehen"
+                "wolkig und dann bedeckt sein"
             ],
             "cloudy": [
                 "bewölkt"
@@ -1451,7 +1483,7 @@
                 "leicht regnen"
             ]
         },
-        "tamperature": {
+        "temperature": {
             "The maximum temperature will be 22 degrees Celsius, and the minimum temperature will be 14 degrees Celsius": [
                 "Die Höchsttemperatur beträgt 22 Grad Celsius, die Mindesttemperatur 14 Grad Celsius"
             ],
@@ -1474,7 +1506,7 @@
                 "die Höchsttemperatur 10 Grad Celsius und die Mindesttemperatur 1 Grad Celsius betragen"
             ],
             "The maximum temperature will be 9 degrees Celsius, and the minimum temperature will be -2 degrees Celsius": [
-                "Die maximale Temperatur beträgt 9 Grad Celsius und die minimale Temperatur -2 Grad Celsius"
+                "Die Höchsttemperatur beträgt 9 Grad Celsius und die Mindesttemperatur -2 Grad Celsius"
             ]
         },
         "UV intensity": {
@@ -1550,17 +1582,17 @@
         },
         "class cabin": {
             "economy class": [
-                "Economy Class",
+                "Economy-Klasse",
                 "Economy-Class",
-                "Economy-Klasse"
+                "Economy Class"
             ],
             "first class": [
                 "erste Klasse",
                 "ersten Klasse"
             ],
             "business class": [
-                "Business-Class",
-                "Business Class"
+                "Business Class",
+                "Business-Class"
             ],
             "Economy class": [
                 "Economy Class"
@@ -1577,7 +1609,8 @@
                 "Flug CZ3741 von China Southern Airlines vom Terminal 2 des internationalen Flughafens Baiyun zum Terminal 3 des internationalen Flughafens Gaoqi"
             ],
             "flight CZ3741 of China Southern Airlines, from Terminal 2 of Baiyun International Airport to Terminal 3 of Gaoqi International Airport": [
-                "Flug CZ3741 von China Southern Airlines vom Terminal 2 des internationalen Flughafens Baiyun zum Terminal 3 des internationalen Flughafens Gaoqi"
+                "Flug CZ3741 von China Southern Airlines vom Terminal 2 des internationalen Flughafens Baiyun zum Terminal 3 des internationalen Flughafens Gaoqi",
+                "Flug CZ3741 von China Southern Airlines vom Terminal 2 des internationalen Flughafens Baiyun zum Terminal 3 des internationalen Flughafens Gaoqi nehmen"
             ],
             "Flight 3U8556 of Sichuan Airlines, from Terminal 2 of Baiyun International Airport to Terminal 1 of Shuangliu International Airport": [
                 "Flug 3U8556 von Sichuan Airlines vom Terminal 2 des internationalen Flughafens Baiyun zum Terminal 1 des internationalen Flughafens Shuangliu"
@@ -1614,7 +1647,7 @@
         },
         "departure time": {
             "11:00 that day": [
-                "an diesem Tag 11:00 Uhr"
+                "an diesem Tag um 11:00 Uhr"
             ],
             "11:10 that day": [
                 "11:10 Uhr an diesem Tag"
@@ -1637,8 +1670,7 @@
         },
         "arrival time": {
             "14:00 that day": [
-                "an diesem Tag um 14:00 Uhr",
-                "14:00 Uhr ankommen"
+                "an diesem Tag um 14:00 Uhr"
             ],
             "13:30 on the same day": [
                 "13:30 Uhr am selben Tag"
@@ -1714,7 +1746,7 @@
         },
         "screen size": {
             "14-inch": [
-                "14 Zoll"
+                "14-Zoll"
             ]
         },
         "product name": {
@@ -1722,7 +1754,7 @@
                 "Lenovo 7000 Xiaoxin Chao"
             ],
             "The Lenovo Xiaoxin Chao 7000": [
-                "Das Lenovo Xiaoxin Chao 7000"
+                "Der Lenovo Xiaoxin Chao 7000"
             ],
             "Dell Inspiron 14": [
                 "Dell Inspiron 14"
@@ -1761,8 +1793,8 @@
         },
         "game performance": {
             "entry-level": [
-                "einstiegslevel",
-                "einsteigerlevel"
+                "Einstiegslevel",
+                "Leistung auf Einsteigerlevel"
             ]
         },
         "computer type": {
@@ -1773,7 +1805,8 @@
                 "Desktops"
             ],
             "desktop": [
-                "Desktop"
+                "Desktop",
+                "Desktop PC"
             ]
         },
         "CPU": {
@@ -1795,7 +1828,7 @@
         },
         "colour": {
             "platinum silver": [
-                "Platinsilber"
+                "platinsilber"
             ],
             "hasn't been set yet": [
                 "wurde noch nicht festgelegt"
@@ -1855,20 +1888,17 @@
     "train": {
         "classification": {
             "high-speed trains": [
-                "Hochgeschwindigkeitszüge",
-                "High Speed Trains"
+                "Hochgeschwindigkeitszüge"
             ],
             "high-speed train": [
-                "Hochgeschwindigkeitszug",
-                "High Speed Train"
+                "Hochgeschwindigkeitszug"
             ],
             "bullet trains": [
                 "Hochgeschwindigkeitszüge",
                 "Hochgeschwindigkeitszügen"
             ],
             "bullet train": [
-                "Bullet Train",
-                "bullet Zug"
+                "Bullet Train"
             ],
             "Xiamen": [
                 "Xiamen"
@@ -1893,8 +1923,8 @@
         },
         "departure": {
             "Shanghai": [
-                "Shanghai",
-                "Schanghai"
+                "Schanghai",
+                "Shanghai"
             ],
             "Beijing": [
                 "Peking"
@@ -1927,29 +1957,34 @@
             ],
             "next Friday morning": [
                 "nächsten Freitagmorgen"
+            ],
+            "next Saturday afternoon": [
+                "nächsten Samstagnachmittag"
+            ],
+            "next Sunday afternoon": [
+                "nächsten Sonntagnachmittag"
             ]
         },
         "seat type": {
             "first class": [
-                "der ersten Klasse",
-                "ersten Klasse",
                 "erster Klasse",
-                "erste Klasse",
-                "die erste Klasse",
                 "First-Class",
-                "1. Klasse"
+                "der ersten Klasse",
+                "die erste Klasse",
+                "ersten Klasse",
+                "1. Klasse",
+                "erste Klasse"
             ],
             "second class": [
-                "2. Klasse",
+                "zweite Klasse",
                 "zweiten Klasse",
-                "zweite Klasse"
+                "2. Klasse"
             ],
             "sleeper in first class": [
-                "Bett in der ersten Klasse",
                 "Schlafwagen in der ersten Klasse"
             ],
             "sleeper in second class": [
-                "Bett in der zweiten Klasse"
+                "Schlafwagen in der zweiten Klasse"
             ]
         },
         "train number": {
@@ -1993,7 +2028,7 @@
                 "an diesem Tag um 08:15 Uhr"
             ],
             "10:00 that day": [
-                "diesem Tag um 10:00 Uhr"
+                "an diesem Tag um 10:00 Uhr"
             ],
             "10:00 on the morning of that day": [
                 "10:00 Uhr am Morgen dieses Tages"
@@ -2013,7 +2048,7 @@
         },
         "arrival time": {
             "13:31 that day": [
-                "an diesem Tag 13:31 Uhr"
+                "an diesem Tag um 13:31 Uhr"
             ],
             "18:37 that day": [
                 "18:37 Uhr an diesem Tag"
@@ -2082,13 +2117,19 @@
         },
         "day": {
             "Saturday": [
-                "samstags",
-                "Samstag"
+                "Samstag",
+                "samstags"
+            ],
+            "Sunday": [
+                "Sonntag"
             ]
         },
         "time": {
             "afternoon": [
                 "Nachmittag"
+            ],
+            "morning": [
+                "morgens"
             ],
             "evening": [
                 "Abend"
@@ -2193,7 +2234,7 @@
         },
         "classroom": {
             "No. 311, Lohas Town": [
-                "Nr. 311, Lohas Town"
+                "Lohas Town Nr. 311"
             ]
         },
         "level": {
@@ -2208,7 +2249,7 @@
         },
         "type": {
             "face-to-face": [
-                "Angesicht zu Angesicht"
+                "in Präsenz"
             ]
         }
     }
