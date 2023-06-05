@@ -1,0 +1,562 @@
+[
+    {
+        "city": "Peking",
+        "date": "nächsten Montag",
+        "weather_condition": "sonnig",
+        "tamperature": "Die maximale Temperatur beträgt 8 Grad Celsius und die minimale Temperatur -6 Grad Celsius.",
+        "wind": "Südwestkraft 3-4.",
+        "uv_intensity": "stark"
+    },
+    {
+        "city": "Peking",
+        "date": "Nächsten Dienstag",
+        "weather_condition": "sonnig",
+        "tamperature": "Die maximale Temperatur beträgt 10 Grad Celsius und die minimale Temperatur -5 Grad Celsius",
+        "wind": "Südwestkraft 2",
+        "uv_intensity": "stark"
+    },
+    {
+        "city": "Peking",
+        "date": "nächsten Mittwoch",
+        "weather_condition": "sonnig bis bewölkt",
+        "tamperature": "Die maximale Temperatur beträgt 8 Grad Celsius und die minimale Temperatur beträgt –5 Grad Celsius.",
+        "wind": "Südostkraft 2",
+        "uv_intensity": "stark"
+    },
+    {
+        "city": "Peking",
+        "date": "nächsten Donnerstag",
+        "weather_condition": "wolkig",
+        "tamperature": "Die maximale Temperatur beträgt 4 Grad Celsius und die minimale Temperatur -4 Grad Celsius",
+        "wind": "Südostkraft 1",
+        "uv_intensity": "stark"
+    },
+    {
+        "city": "Peking",
+        "date": "nächsten Freitag",
+        "weather_condition": "bewölkt und später sonnig",
+        "tamperature": "Die Höchsttemperatur beträgt 8 Grad Celsius und die Mindesttemperatur -3 Grad Celsius",
+        "wind": "Nordwestkraft 3-4",
+        "uv_intensity": "stark"
+    },
+    {
+        "city": "Peking",
+        "date": "nächsten Samstag",
+        "weather_condition": "sonnig",
+        "tamperature": "Die maximale Temperatur beträgt 9 Grad Celsius und die minimale Temperatur beträgt -3 Grad Celsius.",
+        "wind": "Nordkraft 3",
+        "uv_intensity": "stark"
+    },
+    {
+        "city": "Peking",
+        "date": "nächsten Sonntag",
+        "weather_condition": "sonnig",
+        "tamperature": "Die maximale Temperatur beträgt 9 Grad Celsius und die minimale Temperatur -2 Grad Celsius",
+        "wind": "Nordkraft 3-4",
+        "uv_intensity": "stark"
+    },
+    {
+        "city": "Schanghai",
+        "date": "nächsten Montag",
+        "weather_condition": "sonnig",
+        "tamperature": "Die maximale Temperatur beträgt 10 Grad Celsius und die minimale Temperatur 1 Grad Celsius.",
+        "wind": "Nordwestkraft 3-4",
+        "uv_intensity": "stark"
+    },
+    {
+        "city": "Schanghai",
+        "date": "Nächsten Dienstag",
+        "weather_condition": "sonnig bis bewölkt",
+        "tamperature": "Die maximale Temperatur beträgt 10 Grad Celsius und die minimale Temperatur 2 Grad Celsius",
+        "wind": "Südostkraft 2",
+        "uv_intensity": "stark"
+    },
+    {
+        "city": "Schanghai",
+        "date": "nächsten Mittwoch",
+        "weather_condition": "bewölkt und später sonnig",
+        "tamperature": "Die maximale Temperatur beträgt 11 Grad Celsius und die minimale Temperatur 5 Grad Celsius.",
+        "wind": "Nordwestkraft 3-4",
+        "uv_intensity": "schwach"
+    },
+    {
+        "city": "Schanghai",
+        "date": "nächsten Donnerstag",
+        "weather_condition": "sonnig",
+        "tamperature": "Die maximale Temperatur beträgt 15 Grad Celsius und die minimale Temperatur 8 Grad Celsius.",
+        "wind": "Nordwestkraft 2",
+        "uv_intensity": "stark"
+    },
+    {
+        "city": "Schanghai",
+        "date": "nächsten Freitag",
+        "weather_condition": "leichter Regen",
+        "tamperature": "Die Höchsttemperatur beträgt 16 Grad Celsius und die Mindesttemperatur 9 Grad Celsius.",
+        "wind": "Nordkraft 2",
+        "uv_intensity": "die Schwächsten"
+    },
+    {
+        "city": "Schanghai",
+        "date": "nächsten Samstag",
+        "weather_condition": "sonnig bis bewölkt",
+        "tamperature": "Die maximale Temperatur beträgt 17 Grad Celsius und die minimale Temperatur 9 Grad Celsius",
+        "wind": "Südkraft 1",
+        "uv_intensity": "stark"
+    },
+    {
+        "city": "Schanghai",
+        "date": "nächsten Sonntag",
+        "weather_condition": "sonnig bis bewölkt",
+        "tamperature": "Die Höchsttemperatur beträgt 18 Grad Celsius und die Mindesttemperatur 11 Grad Celsius",
+        "wind": "Südkraft 2",
+        "uv_intensity": "stark"
+    },
+    {
+        "city": "Kanton",
+        "date": "nächsten Montag",
+        "weather_condition": "sonnig",
+        "tamperature": "Die Höchsttemperatur beträgt 18 Grad Celsius, die Mindesttemperatur 5 Grad Celsius.",
+        "wind": "Nordosttruppe 1",
+        "uv_intensity": "sehr stark"
+    },
+    {
+        "city": "Kanton",
+        "date": "Nächsten Dienstag",
+        "weather_condition": "sonnig bis bewölkt",
+        "tamperature": "Die Höchsttemperatur beträgt 18 Grad Celsius, die Mindesttemperatur 5 Grad Celsius.",
+        "wind": "eine Brise ohne durchgehende Richtung",
+        "uv_intensity": "sehr stark"
+    },
+    {
+        "city": "Kanton",
+        "date": "nächsten Mittwoch",
+        "weather_condition": "wolkig",
+        "tamperature": "Die Höchsttemperatur beträgt 19 Grad Celsius, die Mindesttemperatur 7 Grad Celsius",
+        "wind": "eine Brise ohne durchgehende Richtung",
+        "uv_intensity": "mäßig"
+    },
+    {
+        "city": "Kanton",
+        "date": "nächsten Donnerstag",
+        "weather_condition": "wolkig",
+        "tamperature": "Die maximale Temperatur beträgt 20 Grad Celsius und die minimale Temperatur 10 Grad Celsius",
+        "wind": "eine Brise ohne durchgehende Richtung",
+        "uv_intensity": "schwach"
+    },
+    {
+        "city": "Kanton",
+        "date": "nächsten Freitag",
+        "weather_condition": "wolkig",
+        "tamperature": "Die Höchsttemperatur beträgt 22 Grad Celsius, die Mindesttemperatur 13 Grad Celsius",
+        "wind": "Nordosttruppe 1",
+        "uv_intensity": "mäßig"
+    },
+    {
+        "city": "Kanton",
+        "date": "nächsten Samstag",
+        "weather_condition": "wolkig",
+        "tamperature": "Die Höchsttemperatur beträgt 23 Grad Celsius, die Mindesttemperatur 14 Grad Celsius",
+        "wind": "Nordosttruppe 2",
+        "uv_intensity": "sehr stark"
+    },
+    {
+        "city": "Kanton",
+        "date": "nächsten Sonntag",
+        "weather_condition": "wolkig",
+        "tamperature": "Die Höchsttemperatur beträgt 24 Grad Celsius, die Mindesttemperatur 14 Grad Celsius",
+        "wind": "eine Brise ohne durchgehende Richtung",
+        "uv_intensity": "mäßig"
+    },
+    {
+        "city": "Shenzhen",
+        "date": "nächsten Montag",
+        "weather_condition": "sonnig",
+        "tamperature": "Die Höchsttemperatur beträgt 17 Grad Celsius, die Mindesttemperatur 7 Grad Celsius.",
+        "wind": "Nordosttruppe 2",
+        "uv_intensity": "sehr stark"
+    },
+    {
+        "city": "Shenzhen",
+        "date": "Nächsten Dienstag",
+        "weather_condition": "sonnig",
+        "tamperature": "Die Höchsttemperatur beträgt 17 Grad Celsius, die Mindesttemperatur 7 Grad Celsius.",
+        "wind": "eine Brise ohne durchgehende Richtung",
+        "uv_intensity": "sehr stark"
+    },
+    {
+        "city": "Shenzhen",
+        "date": "nächsten Mittwoch",
+        "weather_condition": "sonnig bis bewölkt",
+        "tamperature": "Die Höchsttemperatur beträgt 18 Grad Celsius und die Mindesttemperatur 11 Grad Celsius",
+        "wind": "Ostkraft 3-4",
+        "uv_intensity": "sehr stark"
+    },
+    {
+        "city": "Shenzhen",
+        "date": "nächsten Donnerstag",
+        "weather_condition": "wolkig",
+        "tamperature": "Die Höchsttemperatur beträgt 20 Grad Celsius, die Mindesttemperatur 14 Grad Celsius.",
+        "wind": "Ostkraft 3-4",
+        "uv_intensity": "schwach"
+    },
+    {
+        "city": "Shenzhen",
+        "date": "nächsten Freitag",
+        "weather_condition": "wolkig",
+        "tamperature": "Die Höchsttemperatur beträgt 21 Grad Celsius und die Mindesttemperatur 15 Grad Celsius",
+        "wind": "Ostkraft 2",
+        "uv_intensity": "mäßig"
+    },
+    {
+        "city": "Shenzhen",
+        "date": "nächsten Samstag",
+        "weather_condition": "wolkig",
+        "tamperature": "Die Höchsttemperatur beträgt 23 Grad Celsius, die Mindesttemperatur 16 Grad Celsius.",
+        "wind": "eine Brise ohne durchgehende Richtung",
+        "uv_intensity": "stark"
+    },
+    {
+        "city": "Shenzhen",
+        "date": "nächsten Sonntag",
+        "weather_condition": "wolkig",
+        "tamperature": "Die Höchsttemperatur beträgt 22 Grad Celsius, die Mindesttemperatur 16 Grad Celsius.",
+        "wind": "Nordosttruppe 1",
+        "uv_intensity": "schwach"
+    },
+    {
+        "city": "Hangzhou",
+        "date": "nächsten Montag",
+        "weather_condition": "sonnig",
+        "tamperature": "Die maximale Temperatur beträgt 11 Grad Celsius und die minimale Temperatur -1 Grad Celsius.",
+        "wind": "Nordkraft 2",
+        "uv_intensity": "stark"
+    },
+    {
+        "city": "Hangzhou",
+        "date": "Nächsten Dienstag",
+        "weather_condition": "sonnig",
+        "tamperature": "Die maximale Temperatur beträgt 11 Grad Celsius und die minimale Temperatur 0 Grad Celsius.",
+        "wind": "Nordkraft 1",
+        "uv_intensity": "stark"
+    },
+    {
+        "city": "Hangzhou",
+        "date": "nächsten Mittwoch",
+        "weather_condition": "wolkig",
+        "tamperature": "Die maximale Temperatur beträgt 14 Grad Celsius und die minimale Temperatur 1 Grad Celsius.",
+        "wind": "Südostkraft 1",
+        "uv_intensity": "schwach"
+    },
+    {
+        "city": "Hangzhou",
+        "date": "nächsten Donnerstag",
+        "weather_condition": "sonnig bis bewölkt",
+        "tamperature": "Die maximale Temperatur beträgt 16 Grad Celsius und die minimale Temperatur 5 Grad Celsius.",
+        "wind": "Ostkraft 3-4",
+        "uv_intensity": "stark"
+    },
+    {
+        "city": "Hangzhou",
+        "date": "nächsten Freitag",
+        "weather_condition": "bewölkt bis leichter Regen",
+        "tamperature": "Die Höchsttemperatur liegt bei 18 Grad Celsius, die Mindesttemperatur bei 7 Grad Celsius.",
+        "wind": "Nordkraft 3-4",
+        "uv_intensity": "die Schwächsten"
+    },
+    {
+        "city": "Hangzhou",
+        "date": "nächsten Samstag",
+        "weather_condition": "sonnig",
+        "tamperature": "Die Höchsttemperatur beträgt 17 Grad Celsius, die Mindesttemperatur 7 Grad Celsius.",
+        "wind": "Südostkraft 1",
+        "uv_intensity": "stark"
+    },
+    {
+        "city": "Hangzhou",
+        "date": "nächsten Sonntag",
+        "weather_condition": "bewölkt bis bewölkt",
+        "tamperature": "Die maximale Temperatur beträgt 21 Grad Celsius und die minimale Temperatur 9 Grad Celsius",
+        "wind": "Südostkraft 3-4",
+        "uv_intensity": "stark"
+    },
+    {
+        "city": "Nanjing",
+        "date": "nächsten Montag",
+        "weather_condition": "sonnig",
+        "tamperature": "Die maximale Temperatur beträgt 9 Grad Celsius und die minimale Temperatur -2 Grad Celsius",
+        "wind": "Nordwestkraft 4-5",
+        "uv_intensity": "stark"
+    },
+    {
+        "city": "Nanjing",
+        "date": "Nächsten Dienstag",
+        "weather_condition": "sonnig bis bewölkt",
+        "tamperature": "Die Höchsttemperatur wird mit 9 Grad Celsius prognostiziert, während die Mindesttemperatur 0 Grad Celsius betragen wird",
+        "wind": "südliche Kraft 3-4",
+        "uv_intensity": "stark"
+    },
+    {
+        "city": "Nanjing",
+        "date": "nächsten Mittwoch",
+        "weather_condition": "wolkig",
+        "tamperature": "Die maximale Temperatur beträgt 10 Grad Celsius und die minimale Temperatur 2 Grad Celsius",
+        "wind": "Südostkraft 3-4",
+        "uv_intensity": "schwach"
+    },
+    {
+        "city": "Nanjing",
+        "date": "nächsten Donnerstag",
+        "weather_condition": "wolkig",
+        "tamperature": "Die maximale Temperatur beträgt 14 Grad Celsius und die minimale Temperatur 5 Grad Celsius",
+        "wind": "Südostkraft 2",
+        "uv_intensity": "mäßig"
+    },
+    {
+        "city": "Nanjing",
+        "date": "nächsten Freitag",
+        "weather_condition": "wolkig",
+        "tamperature": "Die maximale Temperatur beträgt 11 Grad Celsius und die minimale Temperatur 5 Grad Celsius.",
+        "wind": "Westkraft 2",
+        "uv_intensity": "schwach"
+    },
+    {
+        "city": "Nanjing",
+        "date": "nächsten Samstag",
+        "weather_condition": "wolkig",
+        "tamperature": "Die Höchsttemperatur beträgt 17 Grad Celsius und die Mindesttemperatur 6 Grad Celsius.",
+        "wind": "Nordwestkraft 2",
+        "uv_intensity": "stark"
+    },
+    {
+        "city": "Nanjing",
+        "date": "nächsten Sonntag",
+        "weather_condition": "wolkig",
+        "tamperature": "Die Höchsttemperatur liegt bei 18 Grad Celsius, die Mindesttemperatur bei 7 Grad Celsius.",
+        "wind": "Südostkraft 2",
+        "uv_intensity": "mäßig"
+    },
+    {
+        "city": "Xiamen",
+        "date": "nächsten Montag",
+        "weather_condition": "sonnig",
+        "tamperature": "Die Höchsttemperatur beträgt 14 Grad Celsius und die Mindesttemperatur 8 Grad Celsius.",
+        "wind": "Nordostkraft 3-4",
+        "uv_intensity": "sehr stark"
+    },
+    {
+        "city": "Xiamen",
+        "date": "Nächsten Dienstag",
+        "weather_condition": "sonnig",
+        "tamperature": "Die Höchsttemperatur beträgt 14 Grad Celsius, die Mindesttemperatur 7 Grad Celsius",
+        "wind": "Nordostkraft 4-5",
+        "uv_intensity": "sehr stark"
+    },
+    {
+        "city": "Xiamen",
+        "date": "nächsten Mittwoch",
+        "weather_condition": "sonnig",
+        "tamperature": "Die maximale Temperatur beträgt 17 Grad Celsius und die minimale Temperatur 9 Grad Celsius",
+        "wind": "Ostkraft 2",
+        "uv_intensity": "sehr stark"
+    },
+    {
+        "city": "Xiamen",
+        "date": "nächsten Donnerstag",
+        "weather_condition": "sonnig",
+        "tamperature": "Die Höchsttemperatur beträgt 20 Grad Celsius, die Mindesttemperatur 12 Grad Celsius",
+        "wind": "Nordostkraft 4-5",
+        "uv_intensity": "sehr stark"
+    },
+    {
+        "city": "Xiamen",
+        "date": "nächsten Freitag",
+        "weather_condition": "sonnig",
+        "tamperature": "Die Höchsttemperatur beträgt 21 Grad Celsius, die Mindesttemperatur 13 Grad Celsius.",
+        "wind": "Südostkraft 3-4",
+        "uv_intensity": "sehr stark"
+    },
+    {
+        "city": "Xiamen",
+        "date": "nächsten Samstag",
+        "weather_condition": "sonnig",
+        "tamperature": "Die Höchsttemperatur beträgt 23 Grad Celsius, die Mindesttemperatur 14 Grad Celsius",
+        "wind": "Nordostkraft 3-4",
+        "uv_intensity": "sehr stark"
+    },
+    {
+        "city": "Xiamen",
+        "date": "nächsten Sonntag",
+        "weather_condition": "sonnig",
+        "tamperature": "Die Höchsttemperatur beträgt 22 Grad Celsius, die Mindesttemperatur 14 Grad Celsius",
+        "wind": "Nordosttruppe 2",
+        "uv_intensity": "sehr stark"
+    },
+    {
+        "city": "Chengdu",
+        "date": "nächsten Montag",
+        "weather_condition": "wolkig",
+        "tamperature": "Die Höchsttemperatur beträgt 11 Grad Celsius und die Mindesttemperatur 4 Grad Celsius.",
+        "wind": "Südostkraft 1",
+        "uv_intensity": "schwach"
+    },
+    {
+        "city": "Chengdu",
+        "date": "Nächsten Dienstag",
+        "weather_condition": "bewölkt bis leichter Regen",
+        "tamperature": "Die Höchsttemperatur beträgt 11 Grad Celsius und die Mindesttemperatur 4 Grad Celsius.",
+        "wind": "eine Brise ohne durchgehende Richtung",
+        "uv_intensity": "die Schwächsten"
+    },
+    {
+        "city": "Chengdu",
+        "date": "nächsten Mittwoch",
+        "weather_condition": "bewölkt bis bewölkt",
+        "tamperature": "Die maximale Temperatur beträgt 13 Grad Celsius und die minimale Temperatur 4 Grad Celsius.",
+        "wind": "eine Brise ohne durchgehende Richtung",
+        "uv_intensity": "stark"
+    },
+    {
+        "city": "Chengdu",
+        "date": "nächsten Donnerstag",
+        "weather_condition": "bewölkt bis Schauer",
+        "tamperature": "Die Höchsttemperatur beträgt 11 Grad Celsius und die Mindesttemperatur 7 Grad Celsius.",
+        "wind": "eine Brise ohne durchgehende Richtung",
+        "uv_intensity": "die Schwächsten"
+    },
+    {
+        "city": "Chengdu",
+        "date": "nächsten Freitag",
+        "weather_condition": "wolkig",
+        "tamperature": "Die maximale Temperatur beträgt 15 Grad Celsius und die minimale Temperatur 7 Grad Celsius.",
+        "wind": "eine Brise ohne durchgehende Richtung",
+        "uv_intensity": "mäßig"
+    },
+    {
+        "city": "Chengdu",
+        "date": "nächsten Samstag",
+        "weather_condition": "bewölkt bis bewölkt",
+        "tamperature": "Die maximale Temperatur beträgt 15 Grad Celsius und die minimale Temperatur 7 Grad Celsius.",
+        "wind": "eine Brise ohne durchgehende Richtung",
+        "uv_intensity": "mäßig"
+    },
+    {
+        "city": "Chengdu",
+        "date": "nächsten Sonntag",
+        "weather_condition": "wolkig",
+        "tamperature": "Die Höchsttemperatur beträgt 16 Grad Celsius und die Mindesttemperatur 9 Grad Celsius.",
+        "wind": "eine Brise ohne durchgehende Richtung",
+        "uv_intensity": "schwach"
+    },
+    {
+        "city": "Wuhan",
+        "date": "nächsten Montag",
+        "weather_condition": "wolkig",
+        "tamperature": "Die maximale Temperatur beträgt 13 Grad Celsius und die minimale Temperatur -1 Grad Celsius",
+        "wind": "Ostkraft 2",
+        "uv_intensity": "mäßig"
+    },
+    {
+        "city": "Wuhan",
+        "date": "Nächsten Dienstag",
+        "weather_condition": "sonnig bis bewölkt",
+        "tamperature": "Die maximale Temperatur beträgt 13 Grad Celsius und die minimale Temperatur 0 Grad Celsius",
+        "wind": "Südostkraft 2",
+        "uv_intensity": "stark"
+    },
+    {
+        "city": "Wuhan",
+        "date": "nächsten Mittwoch",
+        "weather_condition": "bewölkt und später sonnig",
+        "tamperature": "Die maximale Temperatur beträgt 11 Grad Celsius und die minimale Temperatur 0 Grad Celsius.",
+        "wind": "Südkraft 2",
+        "uv_intensity": "mäßig"
+    },
+    {
+        "city": "Wuhan",
+        "date": "nächsten Donnerstag",
+        "weather_condition": "sonnig bis bewölkt",
+        "tamperature": "Die maximale Temperatur beträgt 15 Grad Celsius und die minimale Temperatur 1 Grad Celsius.",
+        "wind": "Ostkraft 1",
+        "uv_intensity": "stark"
+    },
+    {
+        "city": "Wuhan",
+        "date": "nächsten Freitag",
+        "weather_condition": "leichter Regen bis bewölkt",
+        "tamperature": "Die maximale Temperatur beträgt 12 Grad Celsius und die minimale Temperatur 3 Grad Celsius",
+        "wind": "Nordwestkraft 2",
+        "uv_intensity": "die Schwächsten"
+    },
+    {
+        "city": "Wuhan",
+        "date": "nächsten Samstag",
+        "weather_condition": "bewölkt und später sonnig",
+        "tamperature": "Die maximale Temperatur beträgt 15 Grad Celsius und die minimale Temperatur 4 Grad Celsius.",
+        "wind": "Südostkraft 2",
+        "uv_intensity": "stark"
+    },
+    {
+        "city": "Wuhan",
+        "date": "nächsten Sonntag",
+        "weather_condition": "bewölkt und später sonnig",
+        "tamperature": "Die Höchsttemperatur beträgt 19 Grad Celsius und die Mindesttemperatur 8 Grad Celsius.",
+        "wind": "Südostkraft 2",
+        "uv_intensity": "mäßig"
+    },
+    {
+        "city": "Suzhou",
+        "date": "nächsten Montag",
+        "weather_condition": "sonnig",
+        "tamperature": "Die maximale Temperatur beträgt 9 Grad Celsius und die minimale Temperatur -1 Grad Celsius.",
+        "wind": "Nordwestkraft 2",
+        "uv_intensity": "stark"
+    },
+    {
+        "city": "Suzhou",
+        "date": "Nächsten Dienstag",
+        "weather_condition": "sonnig bis bewölkt",
+        "tamperature": "Die maximale Temperatur beträgt 9 Grad Celsius und die minimale Temperatur 1 Grad Celsius",
+        "wind": "Nordwestkraft 2",
+        "uv_intensity": "stark"
+    },
+    {
+        "city": "Suzhou",
+        "date": "nächsten Mittwoch",
+        "weather_condition": "bedeckt",
+        "tamperature": "Die Höchsttemperatur beträgt 11 Grad Celsius und die Mindesttemperatur 4 Grad Celsius.",
+        "wind": "Südostkraft 2",
+        "uv_intensity": "die Schwächsten"
+    },
+    {
+        "city": "Suzhou",
+        "date": "nächsten Donnerstag",
+        "weather_condition": "wolkig",
+        "tamperature": "Die maximale Temperatur beträgt 16 Grad Celsius und die minimale Temperatur 6 Grad Celsius.",
+        "wind": "Südostkraft 2",
+        "uv_intensity": "stark"
+    },
+    {
+        "city": "Suzhou",
+        "date": "nächsten Freitag",
+        "weather_condition": "bewölkt bis leichter Regen",
+        "tamperature": "Die maximale Temperatur beträgt 15 Grad Celsius und die minimale Temperatur 8 Grad Celsius.",
+        "wind": "Westkraft 2",
+        "uv_intensity": "die Schwächsten"
+    },
+    {
+        "city": "Suzhou",
+        "date": "nächsten Samstag",
+        "weather_condition": "bewölkt und später sonnig",
+        "tamperature": "Die maximale Temperatur beträgt 16 Grad Celsius und die minimale Temperatur 6 Grad Celsius.",
+        "wind": "Südwestkraft 2",
+        "uv_intensity": "stark"
+    },
+    {
+        "city": "Suzhou",
+        "date": "nächsten Sonntag",
+        "weather_condition": "wolkig",
+        "tamperature": "Die Höchsttemperatur beträgt 17 Grad Celsius, die Mindesttemperatur 8 Grad Celsius.",
+        "wind": "Südwestkraft 2",
+        "uv_intensity": "stark"
+    }
+]
