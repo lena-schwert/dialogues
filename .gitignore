@@ -144,3 +144,4 @@ out_*.tsv
 *.~lock.*
 
 /dialogues/risawoz/helper_files_translation_guide/annotation tool/annotation.exe
+/dialogues/risawoz/helper_files_translation_guide/Step_9_translate_database_files/extract_translations
