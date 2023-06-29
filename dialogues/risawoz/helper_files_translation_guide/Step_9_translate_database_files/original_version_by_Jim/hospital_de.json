@@ -10,7 +10,7 @@
         "registration_time": "7:15-11:00, 11:15-16:00",
         "service_time": "7:45-11:30, 13:00-16:30",
         "bus_routes": "Nr. 2 (Tour), Nr. 40, Nr. 50, Nr. 202, Nr. 529, Nr. 200, Nr. 811, Nr. 89, Nr. 8, Nr. 55, Nr. 204, Nr. 309 , oder Nr. 501",
-        "metro_station": "Stimmt",
+        "metro_station": "true",
         "key_departments": [
             "Herz-Kreislauf",
             "Nephrologie",
@@ -29,9 +29,9 @@
             "Augenheilkunde",
             "Gynäkologie"
         ],
-        "ct": "Stimmt",
-        "3.0t_mri": "Stimmt",
-        "dsa": "Stimmt"
+        "ct": "true",
+        "3.0t_mri": "true",
+        "dsa": "true"
     },
     {
         "name": "das zweite angegliederte Krankenhaus der Universität Soochow",
@@ -44,7 +44,7 @@
         "registration_time": "7:00-11:30,12:00-16:30",
         "service_time": "8:00-12:00, 13:00-16:45",
         "bus_routes": "Nr. 2, Nr. 35, Nr. 38, Nr. 39, Nr. 40, Nr. 51, Nr. 60, Nr. 68, Nr. 69, Nr. 89, Nr. 303, Nr. 304, Nr. 308, Nr. 317, Nr. 321, Nr. 502 oder Nr. 931",
-        "metro_station": "Stimmt",
+        "metro_station": "true",
         "key_departments": [
             "Herz-Kreislauf",
             "Nephrologie",
@@ -60,9 +60,9 @@
             "Urologie",
             "Gynäkologie"
         ],
-        "ct": "Stimmt",
-        "3.0t_mri": "Stimmt",
-        "dsa": "Stimmt"
+        "ct": "true",
+        "3.0t_mri": "true",
+        "dsa": "true"
     },
     {
         "name": "das Kinderkrankenhaus der Universität Soochow",
@@ -75,7 +75,7 @@
         "registration_time": "7:15-16:00",
         "service_time": "7:45-11:00, 13:00-16:00",
         "bus_routes": "Nr. 111, Nr. 209, Nr. 219, Nr. 528, Nr. 27, Nr. 100, Nr. 116 oder Nr. 168",
-        "metro_station": "Stimmt",
+        "metro_station": "true",
         "key_departments": [
             "Nephrologie",
             "Blut",
@@ -89,9 +89,9 @@
             "Pädiatrie",
             "Urologie"
         ],
-        "ct": "Stimmt",
-        "3.0t_mri": "Stimmt",
-        "dsa": "Stimmt"
+        "ct": "true",
+        "3.0t_mri": "true",
+        "dsa": "true"
     },
     {
         "name": "Städtisches Krankenhaus Suzhou (Hauptsitz)",
@@ -104,7 +104,7 @@
         "registration_time": "7:30-11:30, 12:30-16:30",
         "service_time": "8:00-12:00, 13:00-17:00",
         "bus_routes": "Nr. 38, Nr. 40, Nr. 200, Nr. 308, Nr. 501, Nr. 511 oder Nr. 931",
-        "metro_station": "Stimmt",
+        "metro_station": "true",
         "key_departments": [
             "Neurologie",
             "Endokrinologie",
@@ -112,9 +112,9 @@
             "Stomatologie",
             "Pädiatrie"
         ],
-        "ct": "Stimmt",
-        "3.0t_mri": "Stimmt",
-        "dsa": "Stimmt"
+        "ct": "true",
+        "3.0t_mri": "true",
+        "dsa": "true"
     },
     {
         "name": "Städtisches Krankenhaus Suzhou (Ost)",
@@ -137,9 +137,9 @@
             "Urologie",
             "Gynäkologie"
         ],
-        "ct": "Stimmt",
+        "ct": "true",
         "3.0t_mri": "N / A",
-        "dsa": "Stimmt"
+        "dsa": "true"
     },
     {
         "name": "Städtisches Krankenhaus Suzhou (Nordabteilung)",
@@ -152,14 +152,14 @@
         "registration_time": "7:15-16:45",
         "service_time": "8:00-12:00, 13:00-17:00",
         "bus_routes": "Nr. 7, Nr. 34, Nr. 44, Nr. 64, Nr. 85, Nr. 304, Nr. 315, Nr. 317, Nr. 318, Nr. 406, Nr. 415, Nr. 442, Nr. 522, Nr. 816, Nr. 921 oder Nr. 949",
-        "metro_station": "Stimmt",
+        "metro_station": "true",
         "key_departments": [
             "brennen",
             "Gastroenterologie"
         ],
-        "ct": "Stimmt",
-        "3.0t_mri": "Stimmt",
-        "dsa": "Stimmt"
+        "ct": "true",
+        "3.0t_mri": "true",
+        "dsa": "true"
     },
     {
         "name": "Suzhou Krankenhaus für Traditionelle Chinesische Medizin",
@@ -172,7 +172,7 @@
         "registration_time": "7:00-11:00,12:00-16:30",
         "service_time": "7:45-11:00, 13:00-17:00",
         "bus_routes": "Nr. 37, Nr. 47, Nr. 331, Nr. 900 oder Nr. 921",
-        "metro_station": "Stimmt",
+        "metro_station": "true",
         "key_departments": [
             "Nephrologie",
             "Herz-Kreislauf",
@@ -181,9 +181,9 @@
             "Urologie",
             "Gynäkologie"
         ],
-        "ct": "Stimmt",
+        "ct": "true",
         "3.0t_mri": "N / A",
-        "dsa": "Stimmt"
+        "dsa": "true"
     },
     {
         "name": "Suzhou-Kowloon-Krankenhaus",
@@ -204,9 +204,9 @@
             "Stomatologie",
             "Pädiatrie"
         ],
-        "ct": "Stimmt",
-        "3.0t_mri": "Stimmt",
-        "dsa": "Stimmt"
+        "ct": "true",
+        "3.0t_mri": "true",
+        "dsa": "true"
     },
     {
         "name": "Stadtkrankenhaus für Wissenschaft und Technologie in Suzhou",
@@ -219,16 +219,16 @@
         "registration_time": "7:30-11:30, 12:30-16:30",
         "service_time": "8:00-12:00, 13:00-17:00",
         "bus_routes": "Nr. 852, Nr. 441, Nr. 363, Nr. 336, Nr. 330 oder Nr. 63",
-        "metro_station": "Stimmt",
+        "metro_station": "true",
         "key_departments": [
             "Urologie",
             "Onkologie",
             "Neurochirurgie",
             "Gastroenterologie"
         ],
-        "ct": "Stimmt",
-        "3.0t_mri": "Stimmt",
-        "dsa": "Stimmt"
+        "ct": "true",
+        "3.0t_mri": "true",
+        "dsa": "true"
     },
     {
         "name": "Suzhou Guangji Hospital",
@@ -245,8 +245,8 @@
         "key_departments": [
             "Psychologie"
         ],
-        "ct": "Stimmt",
-        "3.0t_mri": "Stimmt",
+        "ct": "true",
+        "3.0t_mri": "true",
         "dsa": "N / A"
     },
     {
@@ -268,7 +268,7 @@
             "Neurochirurgie",
             "Atmung"
         ],
-        "ct": "Stimmt",
+        "ct": "true",
         "3.0t_mri": "N / A",
         "dsa": "N / A"
     },
@@ -287,7 +287,7 @@
         "key_departments": [
             "Dermatologie"
         ],
-        "ct": "Stimmt",
+        "ct": "true",
         "3.0t_mri": "N / A",
         "dsa": "N / A"
     },
@@ -302,13 +302,13 @@
         "registration_time": "7:15-11:20, 13:00-16:45",
         "service_time": "7:45-11:30, 13:30-17:00",
         "bus_routes": "Nr. 44, Nr. 301, Nr. 302, Nr. 325, Nr. 332, Nr. 357 oder Nr. 442",
-        "metro_station": "Stimmt",
+        "metro_station": "true",
         "key_departments": [
             "Herz-Kreislauf",
             "Augenheilkunde",
             "Gynäkologie"
         ],
-        "ct": "Stimmt",
+        "ct": "true",
         "3.0t_mri": "N / A",
         "dsa": "N / A"
     },
@@ -323,14 +323,14 @@
         "registration_time": "7:45-11:45, 12:30-16:45",
         "service_time": "8:00-12:00, 13:00-17:00",
         "bus_routes": "Nr. 1, Nr. 3, Nr. 5, Nr. 55, Nr. 58, Nr. 62, Nr. 309, Nr. 318, Nr. 503, Nr. 513, Nr. 522, Nr. 553 oder Nr 932",
-        "metro_station": "Stimmt",
+        "metro_station": "true",
         "key_departments": [
             "Gynäkologie",
             "Pädiatrie",
             "Gastroenterologie",
             "Dermatologie"
         ],
-        "ct": "Stimmt",
+        "ct": "true",
         "3.0t_mri": "N / A",
         "dsa": "N / A"
     },
@@ -345,13 +345,13 @@
         "registration_time": "7:45-11:00,13:00-16:30",
         "service_time": "7:45-11:00,13:00-16:30",
         "bus_routes": "Nr. 5, Nr. 7, Nr. 809, Nr. 814, Nr. 839 oder Nr. 878",
-        "metro_station": "Stimmt",
+        "metro_station": "true",
         "key_departments": [
             "Neurochirurgie"
         ],
-        "ct": "Stimmt",
+        "ct": "true",
         "3.0t_mri": "N / A",
-        "dsa": "Stimmt"
+        "dsa": "true"
     },
     {
         "name": "Lixiang Eye Hospital der Soochow-Universität",
@@ -364,7 +364,7 @@
         "registration_time": "7:30-17:30",
         "service_time": "7:45-17:45",
         "bus_routes": "Nr. 2, Nr. 9, Nr. 32, Nr. 40, Nr. 60, Nr. 89, Nr. 112, Nr. 146, Nr. 178, Nr. 200, Nr. 202, Nr. 261, Nr. 307, Nr. 900, Nr. 923 oder Nr. 980",
-        "metro_station": "Stimmt",
+        "metro_station": "true",
         "key_departments": [
             "Augenheilkunde"
         ],
@@ -383,11 +383,11 @@
         "registration_time": "7:30-12:00,13:00-17:30",
         "service_time": "8:00-12:00,13:30-17:30",
         "bus_routes": "Nr. 5, Nr. 33, Nr. 88, Nr. 101, Nr. 811, Nr. 812, Nr. 872 oder Nr. 876",
-        "metro_station": "Stimmt",
+        "metro_station": "true",
         "key_departments": [
             "Stomatologie"
         ],
-        "ct": "Stimmt",
+        "ct": "true",
         "3.0t_mri": "N / A",
         "dsa": "N / A"
     }

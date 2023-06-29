@@ -13,27 +13,27 @@ parser.add_argument("--value_alignment_path", type=str, help="path of bilingual 
 
 args = parser.parse_args()
 
-domain_list = [
-    "weather",
-    "train",
-    "pc",
-    "movie",
-    "class",
-    "car",
-    "restaurant",
-    "hotel",
-    "attraction",
-    "flight",
-    "hospital",
-    "tv",
-]
+domain_list = ["attraction"]
+ #   "weather"]
+#     "train",
+#     "pc",
+#     "movie",
+#     "class",
+#     "car",
+#     "restaurant",
+#     "hotel",
+#     "attraction",
+#     "flight",
+#     "hospital",
+#     "tv",
+# ]
 
 # Translate special word "N/A" (i.e., not available) to the target language.
 # Please add your own translation to the second element of the tuple below.
 na_translation = (
     # (source language, target language)
     "N/A",
-    ""
+    "N/A"
 )
 
 # Read bilingual slot name and value alignment (standard translation)
@@ -78,7 +78,10 @@ for domain in domain_list:
     print(f"successful: {len(tgt_db)}, failed: {len(src_db) - len(tgt_db)}")
 
     # Write the target language db
-    tgt_db_path = Path(f"{args.tgt_db_path}")
+    # TODO change back to original code
+    # tgt_db_path = Path(f"{args.tgt_db_path}")
+    # Lenas version:
+    tgt_db_path = Path('/home/lena/git/dialogues/dialogues/risawoz/database/db_de/')
     tgt_db_path.mkdir(exist_ok=True)
-    with open(f"{args.tgt_db_path}/{domain}_{args.tgt_lang}.json", "w") as f:
+    with open(f"{tgt_db_path}/{domain}_{args.tgt_lang}.json", "w") as f:
         json.dump(tgt_db, f, ensure_ascii=False, indent=4)
