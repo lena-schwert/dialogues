@@ -58,7 +58,7 @@ if __name__ == "__main__":
     db_result_prefix = (
         # (source language, target language)
         "Database search results: the number of successful matches is ",
-        "Suchergebnisse in der Datenbank: Die Anzahl von Treffern beträgt ",
+        "Ergebnisse der Datenbanksuche: Die Anzahl der erfolgreichen Treffer beträgt ",
     )
 
     # load src and tgt data
@@ -82,6 +82,7 @@ if __name__ == "__main__":
                 {k: (str(v) if str(v).lower() not in ["true", "false"] else str(v).lower()) for k, v in item.items()}
                 for item in json.load(f)
             ]
+            src_db = eval(str(src_db).replace("true", "True").replace("false", "False").replace("tamperature", "temperature"))
             print(f"Load {len(src_db[domain])} items in {domain} domain from {args.src_lang} database")
         with open(f"{args.tgt_db_path}/{domain}_{args.tgt_lang}.json", "r") as f:
             tgt_db[domain] = json.load(f)
@@ -109,8 +110,10 @@ if __name__ == "__main__":
                             tgt_db_results.append(src_db_result.replace(db_result_prefix[0], db_result_prefix[1]))
                         else:
                             # turn dict string into dict
-                            total_set.add(src_db_result)
-                            src_db_result = eval(src_db_result.replace("true", "True").replace("false", "False"))
+                            total_set.add(str(src_db_result))
+                            src_db_result = eval(str(src_db_result).replace("true", "True").replace("false", "False"))
+                            src_db_result = {k.replace(" ", "_"): v for k, v in src_db_result.items()}
+
                             # convert True/False to 'true'/'false'
                             for k, v in src_db_result.items():
                                 if isinstance(v, (bool, float, int, list)):
@@ -121,23 +124,22 @@ if __name__ == "__main__":
                             for d in src_db.keys():
                                 for item_idx in range(len(src_db[d])):
                                     src_db_item = src_db[d][item_idx]
-                                    if src_db_item.items() == src_db_result.items():
+                                    if src_db_item == src_db_result:
                                         # match
                                         match_flag = True
-                                        tgt_db_results.append(
-                                            {k.replace(" ", "_"): v for k, v in tgt_db[d][item_idx].items()}
-                                        )
+                                        tgt_db_results.append({k.replace(" ", "_"): v for k, v in tgt_db[d][item_idx].items()})
                                         match_set.add(str(src_db_result))
                                         break
                             if not match_flag:
                                 # not match
                                 if args.debug:
-                                    print(src_db_result)
+                                    print("not match")
+                                    pprint.pprint(src_db_result)
                                 not_match_set.add(str(src_db_result))
                 if len(tgt_db_results) != len(turn["db_results"]):
                     print("not match")
                 tgt_data[split_idx][dialog_idx]["dialogue"][turn_idx]["db_results"] = tgt_db_results
-    print(len(not_match_set), len(match_set), len(total_set))
+    # print(len(not_match_set), len(match_set), len(total_set))
     if args.debug:
         pprint.pprint(not_match_set)
 
