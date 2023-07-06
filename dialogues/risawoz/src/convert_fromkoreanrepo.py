@@ -16,6 +16,7 @@ from dialogues.risawoz.src.knowledgebase.api import call_api, process_string
 
 def read_json_files_in_folder(path):
     json_filename = [path + '/' + filename for filename in os.listdir(path) if '.json' in filename]
+    print(f"READ: {json_filename}")
     with ExitStack() as stack:
         files = [stack.enter_context(open(fname)) for fname in json_filename]
         data = {}
@@ -98,7 +99,7 @@ def build_user_event(turn, setting, value_mapping):
     # TODO: handle multiple active intents
     event["active_intent"] = [value_mapping.zh2en_DOMAIN_MAP.get(dom, dom).lower() for dom in turn["turn_domain"]]
     event["state"] = defaultdict(dict)
-
+    
     # sungkyun: patching the empty values for work-around errors
     if "inform slot-values" not in turn["belief_state"]:
         turn["belief_state"]["inform slot-values"] = {}
@@ -175,7 +176,6 @@ DIALOGUES_WITH_ISSUE = {
     ('Hospital_goal_2-32_v2###9505', '*'),
 }
 
-
 def build_kb_event(
     wizard_query_event, db, actions, expected_num_results, setting, dial_id, turn_id, value_mapping, ground_truth_results=None
 ):
@@ -195,7 +195,7 @@ def build_kb_event(
             print("-------------------------------------------")
             print(f'API call likely failed for dial_id: {dial_id}, turn_id: {turn_id}')
             count += 1
-
+            
             if ground_truth_results is not None:
                 constraints[api] = {
                     # case insensitive slot name matching for English

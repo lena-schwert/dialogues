@@ -1,0 +1,2362 @@
+0
+processing fewshot data...
+-------------------------------------------
+API call likely failed for dial_id: movie_tv_goal_4-21###6617, turn_id: 0
+ > api_names: ['tv']
+ > constraints: defaultdict(<class 'dict'>, {'tv': {'production_country_or_area': 'japanische Fernsehsendung'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'tv': defaultdict(None, {'decade': []})})
+ > api:
+tv
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 17
+ > ground_truth_results: None
+------------------------------------------- 1 / 1
+{'tv': {}}
+-------------------------------------------
+API call likely failed for dial_id: movie_tv_goal_4-21###6617, turn_id: 1
+ > api_names: ['tv']
+ > constraints: defaultdict(<class 'dict'>, {'tv': {'decade': '2010er Jahren'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'tv': defaultdict(None, {'type': []})})
+ > api:
+tv
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 7
+ > ground_truth_results: None
+------------------------------------------- 2 / 2
+{'tv': {}}
+-------------------------------------------
+API call likely failed for dial_id: movie_tv_goal_4-21###6617, turn_id: 2
+ > api_names: ['tv']
+ > constraints: defaultdict(<class 'dict'>, {'tv': {'type': 'spannende'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'tv': defaultdict(None, {'title': ['Quartet']})})
+ > api:
+tv
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 1
+ > ground_truth_results: None
+------------------------------------------- 3 / 3
+{'tv': {}}
+-------------------------------------------
+API call likely failed for dial_id: movie_tv_goal_4-21###6617, turn_id: 6
+ > api_names: ['movie']
+ > constraints: defaultdict(<class 'dict'>, {'movie': {'production_country_or_area': 'indische'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {})
+ > api:
+movie
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 12
+ > ground_truth_results: None
+------------------------------------------- 4 / 7
+{'movie': {}}
+-------------------------------------------
+API call likely failed for dial_id: attraction_restaurant_goal_2-18###5165, turn_id: 0
+ > api_names: ['attraction']
+ > constraints: defaultdict(<class 'dict'>, {'attraction': {'area': 'Bezirks Gusu'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'attraction': defaultdict(None, {'name': ["Humble Administrator's Garden"]})})
+ > api:
+attraction
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 8
+ > ground_truth_results: None
+------------------------------------------- 5 / 11
+{'attraction': {}}
+-------------------------------------------
+API call likely failed for dial_id: attraction_restaurant_goal_2-18###5165, turn_id: 1
+ > api_names: ['attraction']
+ > constraints: defaultdict(<class 'dict'>, {'attraction': {'name': "Der Humble Administrator's Garden"}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'attraction': defaultdict(None, {'address': ['No. 178, Dongbei Street, Gusu District, Suzhou City.']})})
+ > api:
+attraction
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 1
+ > ground_truth_results: None
+------------------------------------------- 6 / 12
+{'attraction': {}}
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+-------------------------------------------
+API call likely failed for dial_id: restaurant_hotel_goal_2-63_v2###7740, turn_id: 0
+ > api_names: ['restaurant']
+ > constraints: defaultdict(<class 'dict'>, {'restaurant': {'area': 'Industrieparks Suzhou'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'restaurant': defaultdict(None, {'name': ['Haidilao Hot Pot']})})
+ > api:
+restaurant
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 6
+ > ground_truth_results: None
+------------------------------------------- 7 / 21
+{'restaurant': {}}
+-------------------------------------------
+API call likely failed for dial_id: restaurant_hotel_goal_2-63_v2###7740, turn_id: 3
+ > api_names: ['hotel']
+ > constraints: defaultdict(<class 'dict'>, {'hotel': {'room_type': 'Standardzimmern'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'hotel': defaultdict(None, {'name': ['Womu Boutique Hotel']})})
+ > api:
+hotel
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 3
+ > ground_truth_results: None
+------------------------------------------- 8 / 24
+{'hotel': {}}
+-------------------------------------------
+API call likely failed for dial_id: attraction_restaurant_hotel_goal_3-46###6201, turn_id: 4
+ > api_names: ['attraction']
+ > constraints: defaultdict(<class 'dict'>, {'attraction': {'type': 'landschaftlich reizvolle Orte'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'attraction': defaultdict(None, {'name': []})})
+ > api:
+attraction
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 6
+ > ground_truth_results: None
+------------------------------------------- 9 / 31
+{'attraction': {}}
+-------------------------------------------
+API call likely failed for dial_id: attraction_restaurant_hotel_goal_3-46###6201, turn_id: 7
+ > api_names: ['restaurant']
+ > constraints: defaultdict(<class 'dict'>, {'restaurant': {'cuisine': 'Hot-Pot'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'restaurant': defaultdict(None, {'name': ['Sichuan Xiang Tian Xia Hot Pot']})})
+ > api:
+restaurant
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 1
+ > ground_truth_results: None
+------------------------------------------- 10 / 34
+{'restaurant': {}}
+-------------------------------------------
+API call likely failed for dial_id: Hospital_goal_4-49###4239, turn_id: 0
+ > api_names: ['hospital']
+ > constraints: defaultdict(<class 'dict'>, {'hospital': {'key_departments': 'Kinderklinik'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'hospital': defaultdict(None, {'name': ['Suzhou Kowloon Krankenhaus']})})
+ > api:
+hospital
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 3
+ > ground_truth_results: None
+------------------------------------------- 11 / 35
+{'hospital': {}}
+-------------------------------------------
+API call likely failed for dial_id: attraction_restaurant_goal_3-66###6081, turn_id: 0
+ > api_names: ['attraction']
+ > constraints: defaultdict(<class 'dict'>, {'attraction': {'consumption': 'nicht so teure'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'attraction': defaultdict(None, {'name': ['Garten des Meisters der Netze']})})
+ > api:
+attraction
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 3
+ > ground_truth_results: None
+------------------------------------------- 12 / 51
+{'attraction': {}}
+-------------------------------------------
+API call likely failed for dial_id: attraction_restaurant_goal_3-66###6081, turn_id: 3
+ > api_names: ['restaurant']
+ > constraints: defaultdict(<class 'dict'>, {'restaurant': {'pricerange': 'preiswertes'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'restaurant': defaultdict(None, {'name': ['Seoul South Korean Cuisine']})})
+ > api:
+restaurant
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 3
+ > ground_truth_results: None
+------------------------------------------- 13 / 54
+{'restaurant': {}}
+-------------------------------------------
+API call likely failed for dial_id: attraction_restaurant_goal_3-66###6081, turn_id: 4
+ > api_names: ['restaurant']
+ > constraints: defaultdict(<class 'dict'>, {'restaurant': {'pricerange': 'fair'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'restaurant': defaultdict(None, {'per_capita_consumption': ['81']})})
+ > api:
+restaurant
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 1
+ > ground_truth_results: None
+------------------------------------------- 14 / 55
+{'restaurant': {}}
+-------------------------------------------
+API call likely failed for dial_id: attraction_goal_4-39###4879, turn_id: 0
+ > api_names: ['attraction']
+ > constraints: defaultdict(<class 'dict'>, {'attraction': {'type': 'Vergnügungspark'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'attraction': defaultdict(None, {'name': ['Suzhou Amusement Land Forest und Water World']})})
+ > api:
+attraction
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 3
+ > ground_truth_results: None
+------------------------------------------- 15 / 57
+{'attraction': {}}
+-------------------------------------------
+API call likely failed for dial_id: attraction_restaurant_goal_2-6_v2###8261, turn_id: 0
+ > api_names: ['attraction']
+ > constraints: defaultdict(<class 'dict'>, {'attraction': {'area': 'Industrieparks Suzhou'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'attraction': defaultdict(None, {'name': ["Universität Xi'an Jiaotong-Liverpool"]})})
+ > api:
+attraction
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 2
+ > ground_truth_results: None
+------------------------------------------- 16 / 61
+{'attraction': {}}
+-------------------------------------------
+API call likely failed for dial_id: attraction_restaurant_goal_2-6_v2###8261, turn_id: 3
+ > api_names: ['restaurant']
+ > constraints: defaultdict(<class 'dict'>, {'restaurant': {'pricerange': 'preisgünstige'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'restaurant': defaultdict(None, {'name': ['Restaurant Xibei']})})
+ > api:
+restaurant
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 3
+ > ground_truth_results: None
+------------------------------------------- 17 / 64
+{'restaurant': {}}
+-------------------------------------------
+API call likely failed for dial_id: attraction_restaurant_hotel_goal_3-13###4792, turn_id: 4
+ > api_names: ['restaurant']
+ > constraints: defaultdict(<class 'dict'>, {'restaurant': {'cuisine': 'japanische Küche'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'restaurant': defaultdict(None, {'name': ["Niutanjia Ben'Ge Holzkohlen Barbecue"]})})
+ > api:
+restaurant
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 1
+ > ground_truth_results: None
+------------------------------------------- 18 / 71
+{'restaurant': {}}
+-------------------------------------------
+API call likely failed for dial_id: attraction_restaurant_hotel_goal_1-28_v2###7842, turn_id: 0
+ > api_names: ['attraction']
+ > constraints: defaultdict(<class 'dict'>, {'attraction': {'area': 'Industrieparks Suzhou'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'attraction': defaultdict(None, {'name': ['Dushu Lake Church']})})
+ > api:
+attraction
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 2
+ > ground_truth_results: None
+------------------------------------------- 19 / 72
+{'attraction': {}}
+-------------------------------------------
+API call likely failed for dial_id: attraction_restaurant_hotel_goal_1-28_v2###7842, turn_id: 3
+ > api_names: ['restaurant']
+ > constraints: defaultdict(<class 'dict'>, {'restaurant': {'cuisine': 'nordwestliche Küche'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'restaurant': defaultdict(None, {'name': ['Xibei Restaurant']})})
+ > api:
+restaurant
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 1
+ > ground_truth_results: None
+------------------------------------------- 20 / 75
+{'restaurant': {}}
+-------------------------------------------
+API call likely failed for dial_id: flight_weather_goal_1-35_v2###11046, turn_id: 0
+ > api_names: ['flight']
+ > constraints: defaultdict(<class 'dict'>, {'flight': {'class_cabin': 'Economy-Klasse'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'flight': defaultdict(None, {'flight_information': ['Flug HU7394 von Hainan Airlines vom Terminal 3 des internationalen Flughafens Hangzhou zum Terminal 3 des internationalen Flughafens Shenzhen Baoan nehmen']})})
+ > api:
+flight
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 1
+ > ground_truth_results: None
+------------------------------------------- 21 / 81
+{'flight': {}}
+-------------------------------------------
+API call likely failed for dial_id: restaurant_goal_1-60###5222, turn_id: 0
+ > api_names: ['restaurant']
+ > constraints: defaultdict(<class 'dict'>, {'restaurant': {'cuisine': 'südkoreanisches'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'restaurant': defaultdict(None, {'name': ['QingHeGu']})})
+ > api:
+restaurant
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 1
+ > ground_truth_results: None
+------------------------------------------- 22 / 88
+{'restaurant': {}}
+-------------------------------------------
+API call likely failed for dial_id: movie_tv_goal_1-18###6346, turn_id: 0
+ > api_names: ['movie']
+ > constraints: defaultdict(<class 'dict'>, {'movie': {'production_country_or_area': 'Taiwan, China'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'movie': defaultdict(None, {'decade': []})})
+ > api:
+movie
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 5
+ > ground_truth_results: None
+------------------------------------------- 23 / 91
+{'movie': {}}
+-------------------------------------------
+API call likely failed for dial_id: movie_tv_goal_1-18###6346, turn_id: 1
+ > api_names: ['movie']
+ > constraints: defaultdict(<class 'dict'>, {'movie': {'decade': 'den 2000er Jahren'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'movie': defaultdict(None, {'title': ['Secret']})})
+ > api:
+movie
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 1
+ > ground_truth_results: None
+------------------------------------------- 24 / 92
+{'movie': {}}
+-------------------------------------------
+API call likely failed for dial_id: movie_tv_goal_1-18###6346, turn_id: 4
+ > api_names: ['tv']
+ > constraints: defaultdict(<class 'dict'>, {'tv': {'production_country_or_area': 'Taiwan'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'tv': defaultdict(None, {'title': ['On Children']})})
+ > api:
+tv
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 2
+ > ground_truth_results: None
+------------------------------------------- 25 / 95
+{'tv': {}}
+-------------------------------------------
+API call likely failed for dial_id: attraction_restaurant_goal_4-17###5160, turn_id: 0
+ > api_names: ['attraction']
+ > constraints: defaultdict(<class 'dict'>, {'attraction': {'name': 'landschaftlich reizvolle Gebiet auf Xishan Island'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'attraction': defaultdict(None, {'ticket_price': ['45 Yuan']})})
+ > api:
+attraction
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 1
+ > ground_truth_results: None
+------------------------------------------- 26 / 104
+{'attraction': {}}
+-------------------------------------------
+API call likely failed for dial_id: restaurant_goal_1-32###289, turn_id: 0
+ > api_names: ['restaurant']
+ > constraints: defaultdict(<class 'dict'>, {'restaurant': {'cuisine': 'Nordwestliche Küche'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'restaurant': defaultdict(None, {'name': ['Yangguanguren Restaurant']})})
+ > api:
+restaurant
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 1
+ > ground_truth_results: None
+------------------------------------------- 27 / 108
+{'restaurant': {}}
+-------------------------------------------
+API call likely failed for dial_id: tv_goal_1-57_v2###9567, turn_id: 0
+ > api_names: ['tv']
+ > constraints: defaultdict(<class 'dict'>, {'tv': {'decade': '2010er Jahren'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'tv': defaultdict(None, {'title': ['die erste Staffel von Westworld']})})
+ > api:
+tv
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 1
+ > ground_truth_results: None
+------------------------------------------- 28 / 117
+{'tv': {}}
+-------------------------------------------
+API call likely failed for dial_id: restaurant_hotel_goal_1-6_v2###2035, turn_id: 4
+ > api_names: ['hotel']
+ > constraints: defaultdict(<class 'dict'>, {'hotel': {'room_type': 'Kingsize-Zimmer'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'hotel': defaultdict(None, {'room_type': ['Kingsize-Zimmer']})})
+ > api:
+hotel
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 1
+ > ground_truth_results: None
+------------------------------------------- 29 / 124
+{'hotel': {}}
+-------------------------------------------
+API call likely failed for dial_id: restaurant_goal_1-25_v2###7438, turn_id: 0
+ > api_names: ['restaurant']
+ > constraints: defaultdict(<class 'dict'>, {'restaurant': {'area': 'Industriepark Suzhou'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'restaurant': defaultdict(None, {'name': ['Haidilao Hot Pot']})})
+ > api:
+restaurant
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 1
+ > ground_truth_results: None
+------------------------------------------- 30 / 130
+{'restaurant': {}}
+-------------------------------------------
+API call likely failed for dial_id: PC_goal_2-50_v2###10456, turn_id: 0
+ > api_names: ['pc']
+ > constraints: defaultdict(<class 'dict'>, {'pc': {'memory_capacity': '8GB'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'pc': defaultdict(None, {'product_name': ['Lenovo 7000 Xiaoxin Chao']})})
+ > api:
+pc
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 1
+ > ground_truth_results: None
+------------------------------------------- 31 / 137
+{'pc': {}}
+-------------------------------------------
+API call likely failed for dial_id: movie_goal_4-6_v2###9995, turn_id: 1
+ > api_names: ['movie']
+ > constraints: defaultdict(<class 'dict'>, {'movie': {'production_country_or_area': 'Taiwan, China'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'movie': defaultdict(None, {'release_date': ['Taiwan, China or August 20, 2015']})})
+ > api:
+movie
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 1
+ > ground_truth_results: None
+------------------------------------------- 32 / 142
+{'movie': {}}
+-------------------------------------------
+API call likely failed for dial_id: attraction_goal_4-41_v2###2284, turn_id: 0
+ > api_names: ['attraction']
+ > constraints: defaultdict(<class 'dict'>, {'attraction': {'consumption': 'Günstigeres'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'attraction': defaultdict(None, {'name': ['Mudu Town']})})
+ > api:
+attraction
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 3
+ > ground_truth_results: None
+------------------------------------------- 33 / 146
+{'attraction': {}}
+-------------------------------------------
+API call likely failed for dial_id: movie_tv_goal_1-20###6608, turn_id: 0
+ > api_names: ['movie']
+ > constraints: defaultdict(<class 'dict'>, {'movie': {'decade': '2010er Jahren'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'movie': defaultdict(None, {'title': ['Sterben, um zu überleben']})})
+ > api:
+movie
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 1
+ > ground_truth_results: None
+------------------------------------------- 34 / 153
+{'movie': {}}
+-------------------------------------------
+API call likely failed for dial_id: attraction_hotel_goal_1-53###5687, turn_id: 4
+ > api_names: ['hotel']
+ > constraints: defaultdict(<class 'dict'>, {'hotel': {'room_type': 'ein Standardzimmer'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'hotel': defaultdict(None, {'room_type': ['ein Standardzimmer']})})
+ > api:
+hotel
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 1
+ > ground_truth_results: None
+------------------------------------------- 35 / 165
+{'hotel': {}}
+-------------------------------------------
+API call likely failed for dial_id: tv_goal_3-33_v2###9958, turn_id: 0
+ > api_names: ['tv']
+ > constraints: defaultdict(<class 'dict'>, {'tv': {'type': 'Krimidrama'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'tv': defaultdict(None, {'title': ['Legal High']})})
+ > api:
+tv
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 2
+ > ground_truth_results: None
+------------------------------------------- 36 / 168
+{'tv': {}}
+-------------------------------------------
+API call likely failed for dial_id: tv_goal_3-33_v2###9958, turn_id: 3
+ > api_names: ['tv']
+ > constraints: defaultdict(<class 'dict'>, {'tv': {'type': 'Dramafilm'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'tv': defaultdict(None, {'title': ['Maneater - Tod aus der Kälte']})})
+ > api:
+tv
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 3
+ > ground_truth_results: None
+------------------------------------------- 37 / 171
+{'tv': {}}
+-------------------------------------------
+API call likely failed for dial_id: train_weather_goal_1-23_v2###217, turn_id: 3
+ > api_names: ['train']
+ > constraints: defaultdict(<class 'dict'>, {'train': {'seat_type': 'die erste Klasse'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'train': defaultdict(None, {'train_number': []})})
+ > api:
+train
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 1
+ > ground_truth_results: None
+------------------------------------------- 38 / 176
+{'train': {}}
+-------------------------------------------
+API call likely failed for dial_id: hotel_goal_1-25###5657, turn_id: 0
+ > api_names: ['hotel']
+ > constraints: defaultdict(<class 'dict'>, {'hotel': {'pricerange': 'günstigeres'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'hotel': defaultdict(None, {'name': ['Chengyi Lianhao Hotel']})})
+ > api:
+hotel
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 4
+ > ground_truth_results: None
+------------------------------------------- 39 / 182
+{'hotel': {}}
+-------------------------------------------
+API call likely failed for dial_id: flight_weather_goal_1-40###7160, turn_id: 1
+ > api_names: ['flight']
+ > constraints: defaultdict(<class 'dict'>, {'flight': {'class_cabin': 'ersten Klasse'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {})
+ > api:
+flight
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 1
+ > ground_truth_results: None
+------------------------------------------- 40 / 188
+{'flight': {}}
+-------------------------------------------
+API call likely failed for dial_id: flight_weather_goal_1-40###7160, turn_id: 4
+ > api_names: ['weather']
+ > constraints: defaultdict(<class 'dict'>, {'weather': {'date': 'kommenden Samstag'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'weather': defaultdict(None, {'weather_condition': ['sonnig']})})
+ > api:
+weather
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 1
+ > ground_truth_results: None
+------------------------------------------- 41 / 191
+{'weather': {}}
+-------------------------------------------
+API call likely failed for dial_id: attraction_restaurant_hotel_goal_3-28_v2###8000, turn_id: 0
+ > api_names: ['hotel']
+ > constraints: defaultdict(<class 'dict'>, {'hotel': {'area': 'Industriepark Suzhou'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'hotel': defaultdict(None, {'name': ['Jinji Lake Shilla Hotel']})})
+ > api:
+hotel
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 2
+ > ground_truth_results: None
+------------------------------------------- 42 / 194
+{'hotel': {}}
+-------------------------------------------
+API call likely failed for dial_id: attraction_restaurant_hotel_goal_3-28_v2###8000, turn_id: 2
+ > api_names: ['attraction']
+ > constraints: defaultdict(<class 'dict'>, {'attraction': {'type': 'landschaftlich schönen Gegenden'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'attraction': defaultdict(None, {'name': ['Gegend um den Jinjisee']})})
+ > api:
+attraction
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 1
+ > ground_truth_results: None
+------------------------------------------- 43 / 196
+{'attraction': {}}
+-------------------------------------------
+API call likely failed for dial_id: Class_goal_1-24###4046, turn_id: 0
+ > api_names: ['class']
+ > constraints: defaultdict(<class 'dict'>, {'class': {'grade': 'der sechsten Klasse'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'class': defaultdict(None, {'subject': []})})
+ > api:
+class
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 30
+ > ground_truth_results: None
+------------------------------------------- 44 / 199
+{'class': {}}
+-------------------------------------------
+API call likely failed for dial_id: tv_goal_3-41_v2###9786, turn_id: 0
+ > api_names: ['tv']
+ > constraints: defaultdict(<class 'dict'>, {'tv': {'type': 'Krimidrama'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'tv': defaultdict(None, {'title': ['Hell Is Other People']})})
+ > api:
+tv
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 2
+ > ground_truth_results: None
+------------------------------------------- 45 / 205
+{'tv': {}}
+-------------------------------------------
+API call likely failed for dial_id: movie_goal_3-3###6899, turn_id: 0
+ > api_names: ['movie']
+ > constraints: defaultdict(<class 'dict'>, {'movie': {'type': 'Actionfilme'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'movie': defaultdict(None, {'production_country_or_area': []})})
+ > api:
+movie
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 24
+ > ground_truth_results: None
+------------------------------------------- 46 / 211
+{'movie': {}}
+-------------------------------------------
+API call likely failed for dial_id: movie_goal_3-3###6899, turn_id: 1
+ > api_names: ['movie']
+ > constraints: defaultdict(<class 'dict'>, {'movie': {'type': 'Actionfilm'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'movie': defaultdict(None, {'title': ['Fluch der Karibik']})})
+ > api:
+movie
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 4
+ > ground_truth_results: None
+------------------------------------------- 47 / 212
+{'movie': {}}
+-------------------------------------------
+API call likely failed for dial_id: movie_goal_3-3###6899, turn_id: 3
+ > api_names: ['movie']
+ > constraints: defaultdict(<class 'dict'>, {'movie': {'type': 'Actionfilme'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'movie': defaultdict(None, {'title': ['Bajrangi Bhaijaan']})})
+ > api:
+movie
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 4
+ > ground_truth_results: None
+------------------------------------------- 48 / 214
+{'movie': {}}
+-------------------------------------------
+API call likely failed for dial_id: Car_goal_3-43###4150, turn_id: 0
+ > api_names: ['car']
+ > constraints: defaultdict(<class 'dict'>, {'car': {'number_of_seats': '3'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'car': defaultdict(None, {'name': ['Santana 1.5L Automatic Comfort Version']})})
+ > api:
+car
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 8
+ > ground_truth_results: None
+------------------------------------------- 49 / 217
+{'car': {}}
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+-------------------------------------------
+API call likely failed for dial_id: train_goal_2-69_v2###10801, turn_id: 0
+ > api_names: ['train']
+ > constraints: defaultdict(<class 'dict'>, {'train': {'seat_type': 'der ersten Klasse'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'train': defaultdict(None, {'train_number': ['G79 von Beijingxi nach Shenzhenbei']})})
+ > api:
+train
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 1
+ > ground_truth_results: None
+------------------------------------------- 50 / 221
+{'train': {}}
+-------------------------------------------
+API call likely failed for dial_id: train_goal_2-69_v2###10801, turn_id: 2
+ > api_names: ['train']
+ > constraints: defaultdict(<class 'dict'>, {'train': {'seat_type': 'erste Klasse'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'train': defaultdict(None, {'ticket_price': ['1.479,5 Yuan']})})
+ > api:
+train
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 1
+ > ground_truth_results: None
+------------------------------------------- 51 / 223
+{'train': {}}
+-------------------------------------------
+API call likely failed for dial_id: flight_goal_4-60###608, turn_id: 1
+ > api_names: ['flight']
+ > constraints: defaultdict(<class 'dict'>, {'flight': {'class_cabin': 'Economy-Class'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'flight': defaultdict(None, {'ticket_price': ['960 Yuan']})})
+ > api:
+flight
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 1
+ > ground_truth_results: None
+------------------------------------------- 52 / 228
+{'flight': {}}
+-------------------------------------------
+API call likely failed for dial_id: flight_goal_4-60###608, turn_id: 3
+ > api_names: ['flight']
+ > constraints: defaultdict(<class 'dict'>, {'flight': {'class_cabin': 'Economy-Class'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'flight': defaultdict(None, {'ticket_price': ['600 Yuan']})})
+ > api:
+flight
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 1
+ > ground_truth_results: None
+------------------------------------------- 53 / 230
+{'flight': {}}
+-------------------------------------------
+API call likely failed for dial_id: attraction_hotel_goal_2-27###6205, turn_id: 0
+ > api_names: ['attraction']
+ > constraints: defaultdict(<class 'dict'>, {'attraction': {'consumption': 'etwas teureren Ort'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'attraction': defaultdict(None, {'name': ['die Stadt Zhouzhuang']})})
+ > api:
+attraction
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 9
+ > ground_truth_results: None
+------------------------------------------- 54 / 231
+{'attraction': {}}
+-------------------------------------------
+API call likely failed for dial_id: attraction_hotel_goal_2-27###6205, turn_id: 1
+ > api_names: ['attraction']
+ > constraints: defaultdict(<class 'dict'>, {'attraction': {'area': 'Industriepark Suzhou'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'attraction': defaultdict(None, {'name': ['Naturgebiet am Jinjisee']})})
+ > api:
+attraction
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 5
+ > ground_truth_results: None
+------------------------------------------- 55 / 232
+{'attraction': {}}
+-------------------------------------------
+API call likely failed for dial_id: attraction_hotel_goal_2-27###6205, turn_id: 4
+ > api_names: ['hotel']
+ > constraints: defaultdict(<class 'dict'>, {'hotel': {'pricerange': 'günstige'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'hotel': defaultdict(None, {'name': ['Das Genting Star Kettenhotel']})})
+ > api:
+hotel
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 2
+ > ground_truth_results: None
+------------------------------------------- 56 / 235
+{'hotel': {}}
+-------------------------------------------
+API call likely failed for dial_id: Car_goal_1-12###4333, turn_id: 1
+ > api_names: ['car']
+ > constraints: defaultdict(<class 'dict'>, {'car': {'number_of_seats': '1'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'car': defaultdict(None, {'pricerange': []})})
+ > api:
+car
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 20
+ > ground_truth_results: None
+------------------------------------------- 57 / 240
+{'car': {}}
+-------------------------------------------
+API call likely failed for dial_id: Car_goal_1-12###4333, turn_id: 2
+ > api_names: ['car']
+ > constraints: defaultdict(<class 'dict'>, {'car': {'pricerange': 'über 300.000 Yuan'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'car': defaultdict(None, {'name': ['Tiguan-L 380TSI R-Line 4WD Ultimate Edition']})})
+ > api:
+car
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 8
+ > ground_truth_results: None
+------------------------------------------- 58 / 241
+{'car': {}}
+-------------------------------------------
+API call likely failed for dial_id: tv_goal_4-10###6441, turn_id: 0
+ > api_names: ['tv']
+ > constraints: defaultdict(<class 'dict'>, {'tv': {'production_country_or_area': 'Taiwan'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'tv': defaultdict(None, {'star': [], 'type': []})})
+ > api:
+tv
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 18
+ > ground_truth_results: None
+------------------------------------------- 59 / 243
+{'tv': {}}
+-------------------------------------------
+API call likely failed for dial_id: tv_goal_4-10###6441, turn_id: 1
+ > api_names: ['tv']
+ > constraints: defaultdict(<class 'dict'>, {'tv': {'production_country_or_area': 'eine TV-Show aus Taiwan'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'tv': defaultdict(None, {'title': ['On Children']})})
+ > api:
+tv
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 1
+ > ground_truth_results: None
+------------------------------------------- 60 / 244
+{'tv': {}}
+-------------------------------------------
+API call likely failed for dial_id: Class_goal_1-17_v2###9219, turn_id: 0
+ > api_names: ['class']
+ > constraints: defaultdict(<class 'dict'>, {'class': {'time': 'morgens'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'class': defaultdict(None, {'class_number': ['PM6J24004A']})})
+ > api:
+class
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 4
+ > ground_truth_results: None
+------------------------------------------- 61 / 249
+{'class': {}}
+-------------------------------------------
+API call likely failed for dial_id: train_goal_2-63###928, turn_id: 0
+ > api_names: ['train']
+ > constraints: defaultdict(<class 'dict'>, {'train': {'classification': 'Hochgeschwindigkeitszüge'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'train': defaultdict(None, {'train_number': ['D3141']})})
+ > api:
+train
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 2
+ > ground_truth_results: None
+------------------------------------------- 62 / 254
+{'train': {}}
+-------------------------------------------
+API call likely failed for dial_id: train_goal_2-63###928, turn_id: 1
+ > api_names: ['train']
+ > constraints: defaultdict(<class 'dict'>, {'train': {'seat_type': 'zweite Klasse'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {})
+ > api:
+train
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 1
+ > ground_truth_results: None
+------------------------------------------- 63 / 255
+{'train': {}}
+-------------------------------------------
+API call likely failed for dial_id: attraction_restaurant_goal_3-40_v2###7549, turn_id: 1
+ > api_names: ['attraction']
+ > constraints: defaultdict(<class 'dict'>, {'attraction': {'name': 'des Suzhou-Museums'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'attraction': defaultdict(None, {'features': ['new and exquisitely elegant museum building designed by Ieoh Ming Pei. You can also enjoy the treasured Olive Green Lotus-Shaped Bowl in the museum.'], 'metro_station': ['You can get there directly by subway.']})})
+ > api:
+attraction
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 1
+ > ground_truth_results: None
+------------------------------------------- 64 / 263
+{'attraction': {}}
+-------------------------------------------
+API call likely failed for dial_id: attraction_restaurant_goal_3-40_v2###7549, turn_id: 2
+ > api_names: ['restaurant']
+ > constraints: defaultdict(<class 'dict'>, {'restaurant': {'cuisine': 'japanischer Küche'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'restaurant': defaultdict(None, {'name': ['One Plus Conveyor Belt Sushi']})})
+ > api:
+restaurant
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 1
+ > ground_truth_results: None
+------------------------------------------- 65 / 264
+{'restaurant': {}}
+-------------------------------------------
+API call likely failed for dial_id: flight_goal_3-17###7155, turn_id: 1
+ > api_names: ['flight']
+ > constraints: defaultdict(<class 'dict'>, {'flight': {'class_cabin': 'Business-Class'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'flight': defaultdict(None, {'ticket_price': ['1.590 Yuan']})})
+ > api:
+flight
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 1
+ > ground_truth_results: None
+------------------------------------------- 66 / 267
+{'flight': {}}
+-------------------------------------------
+API call likely failed for dial_id: movie_tv_goal_2-38_v2###9678, turn_id: 0
+ > api_names: ['tv']
+ > constraints: defaultdict(<class 'dict'>, {'tv': {'decade': '2010er Jahren'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'tv': defaultdict(None, {'type': []})})
+ > api:
+tv
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 7
+ > ground_truth_results: None
+------------------------------------------- 67 / 271
+{'tv': {}}
+-------------------------------------------
+API call likely failed for dial_id: movie_tv_goal_2-38_v2###9678, turn_id: 1
+ > api_names: ['tv']
+ > constraints: defaultdict(<class 'dict'>, {'tv': {'type': 'Science-Fiction-Serie'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'tv': defaultdict(None, {'title': ['Mad House']})})
+ > api:
+tv
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 1
+ > ground_truth_results: None
+------------------------------------------- 68 / 272
+{'tv': {}}
+-------------------------------------------
+API call likely failed for dial_id: movie_tv_goal_2-38_v2###9678, turn_id: 5
+ > api_names: ['movie']
+ > constraints: defaultdict(<class 'dict'>, {'movie': {'production_country_or_area': 'amerikanische'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'movie': defaultdict(None, {'title': ['amerikanischer Science-Fiction-Film']})})
+ > api:
+movie
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 1
+ > ground_truth_results: None
+------------------------------------------- 69 / 276
+{'movie': {}}
+-------------------------------------------
+API call likely failed for dial_id: PC_goal_5-24_v2###10404, turn_id: 2
+ > api_names: ['pc']
+ > constraints: defaultdict(<class 'dict'>, {'pc': {'CPU': 'Intel Core i7'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'pc': defaultdict(None, {'pricerange': []})})
+ > api:
+pc
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 3
+ > ground_truth_results: None
+------------------------------------------- 70 / 281
+{'pc': {}}
+-------------------------------------------
+API call likely failed for dial_id: PC_goal_5-24_v2###10404, turn_id: 3
+ > api_names: ['pc']
+ > constraints: defaultdict(<class 'dict'>, {'pc': {'pricerange': '5.000 bis 10.000'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'pc': defaultdict(None, {'product_name': ['Dell Inspiron 14']})})
+ > api:
+pc
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 2
+ > ground_truth_results: None
+------------------------------------------- 71 / 282
+{'pc': {}}
+-------------------------------------------
+API call likely failed for dial_id: PC_goal_1-53###4007, turn_id: 0
+ > api_names: ['pc']
+ > constraints: defaultdict(<class 'dict'>, {'pc': {'pricerange': '5.000 und 10.000 Yuan'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'pc': defaultdict(None, {'product_name': ['Lenovo Tianyi 510Pro']})})
+ > api:
+pc
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 4
+ > ground_truth_results: None
+------------------------------------------- 72 / 291
+{'pc': {}}
+-------------------------------------------
+API call likely failed for dial_id: weather_goal_3-37###1268, turn_id: 3
+ > api_names: ['weather']
+ > constraints: defaultdict(<class 'dict'>, {'weather': {'date': 'kommenden Freitag'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'weather': defaultdict(None, {'weather_condition': ['bewölkt']})})
+ > api:
+weather
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 1
+ > ground_truth_results: None
+------------------------------------------- 73 / 306
+{'weather': {}}
+-------------------------------------------
+API call likely failed for dial_id: Car_goal_3-45###4295, turn_id: 0
+ > api_names: ['car']
+ > constraints: defaultdict(<class 'dict'>, {'car': {'number_of_seats': '3'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'car': defaultdict(None, {'name': ['FAW-Volkswagen TACQUA DSG Yue']})})
+ > api:
+car
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 6
+ > ground_truth_results: None
+------------------------------------------- 74 / 314
+{'car': {}}
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+-------------------------------------------
+API call likely failed for dial_id: train_goal_2-65_v2###2680, turn_id: 0
+ > api_names: ['train']
+ > constraints: defaultdict(<class 'dict'>, {'train': {'classification': 'Hochgeschwindigkeitszüge'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'train': defaultdict(None, {'train_number': ['G1373']})})
+ > api:
+train
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 28
+ > ground_truth_results: None
+------------------------------------------- 75 / 323
+{'train': {}}
+-------------------------------------------
+API call likely failed for dial_id: train_goal_2-65_v2###2680, turn_id: 6
+ > api_names: ['train']
+ > constraints: defaultdict(<class 'dict'>, {'train': {'departure': 'Shanghai'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'train': defaultdict(None, {'train_number': ['G1373']})})
+ > api:
+train
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 1
+ > ground_truth_results: None
+------------------------------------------- 76 / 329
+{'train': {}}
+-------------------------------------------
+API call likely failed for dial_id: attraction_goal_2-9_v2###7336, turn_id: 1
+ > api_names: ['attraction']
+ > constraints: defaultdict(<class 'dict'>, {'attraction': {'metro_station': 'könnte'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'attraction': defaultdict(None, {'name': ['Suzhou Center']})})
+ > api:
+attraction
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 4
+ > ground_truth_results: None
+------------------------------------------- 77 / 332
+{'attraction': {}}
+-------------------------------------------
+API call likely failed for dial_id: attraction_goal_2-9_v2###7336, turn_id: 2
+ > api_names: ['attraction']
+ > constraints: defaultdict(<class 'dict'>, {'attraction': {'metro_station': 'können'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'attraction': defaultdict(None, {'features': ['das größte Einkaufszentrum in Suzhou. Es liegt direkt neben dem Jinji-See und ganz in der Nähe des Tores des Orients'], 'metro_station': ['können']})})
+ > api:
+attraction
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 1
+ > ground_truth_results: None
+------------------------------------------- 78 / 333
+{'attraction': {}}
+-------------------------------------------
+API call likely failed for dial_id: Car_goal_1-48_v2###8677, turn_id: 0
+ > api_names: ['car']
+ > constraints: defaultdict(<class 'dict'>, {'car': {'number_of_seats': '6'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'car': defaultdict(None, {'pricerange': []})})
+ > api:
+car
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 3
+ > ground_truth_results: None
+------------------------------------------- 79 / 334
+{'car': {}}
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+-------------------------------------------
+API call likely failed for dial_id: Car_goal_5-52_v2###8754, turn_id: 0
+ > api_names: ['car']
+ > constraints: defaultdict(<class 'dict'>, {'car': {'pricerange': '150.000 bis 200.000 Yuan'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'car': defaultdict(None, {'name': ['Luxusausgabe des Volkswagen Golf 280TSI DSG']})})
+ > api:
+car
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 2
+ > ground_truth_results: None
+------------------------------------------- 80 / 337
+{'car': {}}
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+-------------------------------------------
+API call likely failed for dial_id: hotel_goal_4-32###5424, turn_id: 0
+ > api_names: ['hotel']
+ > constraints: defaultdict(<class 'dict'>, {'hotel': {'hotel_type': 'Resort-Hotel'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'hotel': defaultdict(None, {'name': ['Pan Pacific Suzhou']})})
+ > api:
+hotel
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 12
+ > ground_truth_results: None
+------------------------------------------- 81 / 345
+{'hotel': {}}
+-------------------------------------------
+API call likely failed for dial_id: hotel_goal_1-46###5985, turn_id: 0
+ > api_names: ['hotel']
+ > constraints: defaultdict(<class 'dict'>, {'hotel': {'pricerange': 'günstigeres'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'hotel': defaultdict(None, {'room_type': []})})
+ > api:
+hotel
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 4
+ > ground_truth_results: None
+------------------------------------------- 82 / 350
+{'hotel': {}}
+-------------------------------------------
+API call likely failed for dial_id: hotel_goal_1-46###5985, turn_id: 1
+ > api_names: ['hotel']
+ > constraints: defaultdict(<class 'dict'>, {'hotel': {'room_type': 'ein Standardzimmer'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'hotel': defaultdict(None, {'name': ['Pod Inn']})})
+ > api:
+hotel
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 2
+ > ground_truth_results: None
+------------------------------------------- 83 / 351
+{'hotel': {}}
+-------------------------------------------
+API call likely failed for dial_id: hotel_goal_1-46###5985, turn_id: 3
+ > api_names: ['hotel']
+ > constraints: defaultdict(<class 'dict'>, {'hotel': {'pricerange': 'billigen'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'hotel': defaultdict(None, {'phone_number': ['0512-69385585']})})
+ > api:
+hotel
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 1
+ > ground_truth_results: None
+------------------------------------------- 84 / 353
+{'hotel': {}}
+-------------------------------------------
+API call likely failed for dial_id: train_goal_4-7###557, turn_id: 3
+ > api_names: ['train']
+ > constraints: defaultdict(<class 'dict'>, {'train': {'classification': 'Hochgeschwindigkeitszug'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'train': defaultdict(None, {'ticket_price': ['599,0 Yuan']})})
+ > api:
+train
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 1
+ > ground_truth_results: None
+------------------------------------------- 85 / 358
+{'train': {}}
+-------------------------------------------
+API call likely failed for dial_id: attraction_restaurant_hotel_goal_2-59_v2###2345, turn_id: 0
+ > api_names: ['attraction']
+ > constraints: defaultdict(<class 'dict'>, {'attraction': {'consumption': 'günstigeres'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'attraction': defaultdict(None, {'name': ['Suzhou Museum']})})
+ > api:
+attraction
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 4
+ > ground_truth_results: None
+------------------------------------------- 86 / 359
+{'attraction': {}}
+-------------------------------------------
+API call likely failed for dial_id: attraction_restaurant_hotel_goal_2-59_v2###2345, turn_id: 3
+ > api_names: ['hotel']
+ > constraints: defaultdict(<class 'dict'>, {'hotel': {'hotel_type': 'Business-Hotel'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'hotel': defaultdict(None, {'name': ["Suzhou Shui'an Hanshe Boutique Hotel"]})})
+ > api:
+hotel
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 2
+ > ground_truth_results: None
+------------------------------------------- 87 / 362
+{'hotel': {}}
+-------------------------------------------
+API call likely failed for dial_id: restaurant_hotel_goal_2-33_v2###2194, turn_id: 3
+ > api_names: ['hotel']
+ > constraints: defaultdict(<class 'dict'>, {'hotel': {'pricerange': 'preiswerte'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'hotel': defaultdict(None, {'name': ['Meijin All Suites Hotel']})})
+ > api:
+hotel
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 2
+ > ground_truth_results: None
+------------------------------------------- 88 / 376
+{'hotel': {}}
+-------------------------------------------
+API call likely failed for dial_id: PC_goal_3-19###3883, turn_id: 0
+ > api_names: ['pc']
+ > constraints: defaultdict(<class 'dict'>, {'pc': {'series': 'Inspiron-Serie von Dell'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'pc': defaultdict(None, {'product_name': ['G5 5090']})})
+ > api:
+pc
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 1
+ > ground_truth_results: None
+------------------------------------------- 89 / 380
+{'pc': {}}
+-------------------------------------------
+API call likely failed for dial_id: PC_goal_3-19###3883, turn_id: 4
+ > api_names: ['pc']
+ > constraints: defaultdict(<class 'dict'>, {'pc': {'series': 'GeekPro-Reihe von Lenovo'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'pc': defaultdict(None, {'product_name': ['GeekPro-Reihe von Lenovo']})})
+ > api:
+pc
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 1
+ > ground_truth_results: None
+------------------------------------------- 90 / 384
+{'pc': {}}
+-------------------------------------------
+API call likely failed for dial_id: flight_goal_3-44_v2###11094, turn_id: 1
+ > api_names: ['flight']
+ > constraints: defaultdict(<class 'dict'>, {'flight': {'class_cabin': 'Economy-Class'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'flight': defaultdict(None, {'ticket_price': ['760 Yuan']})})
+ > api:
+flight
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 1
+ > ground_truth_results: None
+------------------------------------------- 91 / 389
+{'flight': {}}
+-------------------------------------------
+API call likely failed for dial_id: flight_weather_goal_1-12_v2###2829, turn_id: 1
+ > api_names: ['flight']
+ > constraints: defaultdict(<class 'dict'>, {'flight': {'class_cabin': 'Business-Class'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'flight': defaultdict(None, {'ticket_price': ['2.590 Yuan']})})
+ > api:
+flight
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 1
+ > ground_truth_results: None
+------------------------------------------- 92 / 394
+{'flight': {}}
+-------------------------------------------
+API call likely failed for dial_id: weather_goal_3-50_v2###3017, turn_id: 1
+ > api_names: ['weather']
+ > constraints: defaultdict(<class 'dict'>, {'weather': {'date': 'kommenden Freitag'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'weather': defaultdict(None, {'weather_condition': ['bewölkt und später sonnig']})})
+ > api:
+weather
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 1
+ > ground_truth_results: None
+------------------------------------------- 93 / 401
+{'weather': {}}
+-------------------------------------------
+API call likely failed for dial_id: weather_goal_3-50_v2###3017, turn_id: 4
+ > api_names: ['weather']
+ > constraints: defaultdict(<class 'dict'>, {'weather': {'date': 'kommenden Samstag'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'weather': defaultdict(None, {'weather_condition': ['sonnig']})})
+ > api:
+weather
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 1
+ > ground_truth_results: None
+------------------------------------------- 94 / 404
+{'weather': {}}
+-------------------------------------------
+API call likely failed for dial_id: attraction_goal_4-52###6144, turn_id: 0
+ > api_names: ['attraction']
+ > constraints: defaultdict(<class 'dict'>, {'attraction': {'type': 'Vergnügungspark'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'attraction': defaultdict(None, {'consumption': []})})
+ > api:
+attraction
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 3
+ > ground_truth_results: None
+------------------------------------------- 95 / 414
+{'attraction': {}}
+-------------------------------------------
+API call likely failed for dial_id: attraction_goal_4-52###6144, turn_id: 2
+ > api_names: ['attraction']
+ > constraints: defaultdict(<class 'dict'>, {'attraction': {'type': 'Vergnügungspark'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'attraction': defaultdict(None, {'score': ['4,5'], 'ticket_price': ['299 Yuan']})})
+ > api:
+attraction
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 1
+ > ground_truth_results: None
+------------------------------------------- 96 / 416
+{'attraction': {}}
+-------------------------------------------
+API call likely failed for dial_id: Hospital_goal_4-34###4040, turn_id: 0
+ > api_names: ['hospital']
+ > constraints: defaultdict(<class 'dict'>, {'hospital': {'general_or_specialized': 'allgemeines Krankenhaus'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'hospital': defaultdict(None, {'name': ['First Affiliated Hospital der Soochow University']})})
+ > api:
+hospital
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 2
+ > ground_truth_results: None
+------------------------------------------- 97 / 419
+{'hospital': {}}
+-------------------------------------------
+API call likely failed for dial_id: flight_weather_goal_2-61_v2###3080, turn_id: 5
+ > api_names: ['flight']
+ > constraints: defaultdict(<class 'dict'>, {'flight': {'class_cabin': 'Business-Class'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'flight': defaultdict(None, {'ticket_price': ['2.590 Yuan']})})
+ > api:
+flight
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 1
+ > ground_truth_results: None
+------------------------------------------- 98 / 429
+{'flight': {}}
+-------------------------------------------
+API call likely failed for dial_id: attraction_goal_1-67_v2###7361, turn_id: 0
+ > api_names: ['attraction']
+ > constraints: defaultdict(<class 'dict'>, {'attraction': {'consumption': 'etwas teureres'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'attraction': defaultdict(None, {'area': []})})
+ > api:
+attraction
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 9
+ > ground_truth_results: None
+------------------------------------------- 99 / 431
+{'attraction': {}}
+-------------------------------------------
+API call likely failed for dial_id: attraction_goal_1-67_v2###7361, turn_id: 1
+ > api_names: ['attraction']
+ > constraints: defaultdict(<class 'dict'>, {'attraction': {'the_most_suitable_people': 'einen Familienausflug'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'attraction': defaultdict(None, {'name': ['Naturort Shajiabang von Changshu']})})
+ > api:
+attraction
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 1
+ > ground_truth_results: None
+------------------------------------------- 100 / 432
+{'attraction': {}}
+-------------------------------------------
+API call likely failed for dial_id: attraction_goal_1-67_v2###7361, turn_id: 3
+ > api_names: ['attraction']
+ > constraints: defaultdict(<class 'dict'>, {'attraction': {'metro_station': 'keine'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'attraction': defaultdict(None, {'metro_station': ['keine']})})
+ > api:
+attraction
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 1
+ > ground_truth_results: None
+------------------------------------------- 101 / 434
+{'attraction': {}}
+-------------------------------------------
+API call likely failed for dial_id: Class_goal_4-70###3782, turn_id: 0
+ > api_names: ['class']
+ > constraints: defaultdict(<class 'dict'>, {'class': {'grade': 'sechsten Klasse'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'class': defaultdict(None, {'subject': []})})
+ > api:
+class
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 30
+ > ground_truth_results: None
+------------------------------------------- 102 / 435
+{'class': {}}
+-------------------------------------------
+API call likely failed for dial_id: Class_goal_4-70###3782, turn_id: 2
+ > api_names: ['class']
+ > constraints: defaultdict(<class 'dict'>, {'class': {'area': 'Suzhou New District oder Gusu District'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'class': defaultdict(None, {'level': []})})
+ > api:
+class
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 3
+ > ground_truth_results: None
+------------------------------------------- 103 / 437
+{'class': {}}
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+_cruise_control_system
+-------------------------------------------
+API call likely failed for dial_id: train_weather_goal_2-68###7188, turn_id: 0
+ > api_names: ['train']
+ > constraints: defaultdict(<class 'dict'>, {'train': {'classification': 'Hochgeschwindigkeitszüge'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'train': defaultdict(None, {'departure': []})})
+ > api:
+train
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 154
+ > ground_truth_results: None
+------------------------------------------- 104 / 446
+{'train': {}}
+-------------------------------------------
+API call likely failed for dial_id: train_weather_goal_2-68###7188, turn_id: 3
+ > api_names: ['train']
+ > constraints: defaultdict(<class 'dict'>, {'train': {'seat_type': 'ersten Klasse'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'train': defaultdict(None, {'train_number': ['G1652 von Xiamen nach Shanghai Hongqiao']})})
+ > api:
+train
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 1
+ > ground_truth_results: None
+------------------------------------------- 105 / 449
+{'train': {}}
+-------------------------------------------
+API call likely failed for dial_id: train_weather_goal_1-9_v2###2724, turn_id: 1
+ > api_names: ['train']
+ > constraints: defaultdict(<class 'dict'>, {'train': {'seat_type': 'First-Class'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'train': defaultdict(None, {'ticket_price': ['748,5 Yuan']})})
+ > api:
+train
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 1
+ > ground_truth_results: None
+------------------------------------------- 106 / 458
+{'train': {}}
+-------------------------------------------
+API call likely failed for dial_id: attraction_goal_2-36_v2###1857, turn_id: 0
+ > api_names: ['attraction']
+ > constraints: defaultdict(<class 'dict'>, {'attraction': {'metro_station': 'direkt mit der U-Bahn'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'attraction': defaultdict(None, {'name': ['Stone Lake']})})
+ > api:
+attraction
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 1
+ > ground_truth_results: None
+------------------------------------------- 107 / 463
+{'attraction': {}}
+-------------------------------------------
+API call likely failed for dial_id: PC_goal_5-7_v2###10265, turn_id: 4
+ > api_names: ['pc']
+ > constraints: defaultdict(<class 'dict'>, {'pc': {'pricerange': '5.000 bis 10.000'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'pc': defaultdict(None, {'price': ['4.889,0']})})
+ > api:
+pc
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 1
+ > ground_truth_results: None
+------------------------------------------- 108 / 469
+{'pc': {}}
+-------------------------------------------
+API call likely failed for dial_id: tv_goal_1-2###6787, turn_id: 1
+ > api_names: ['tv']
+ > constraints: defaultdict(<class 'dict'>, {'tv': {'type': 'romantische'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'tv': defaultdict(None, {'title': ['Lives of Omission']})})
+ > api:
+tv
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 1
+ > ground_truth_results: None
+------------------------------------------- 109 / 475
+{'tv': {}}
+-------------------------------------------
+API call likely failed for dial_id: flight_goal_3-25###1601, turn_id: 0
+ > api_names: ['flight']
+ > constraints: defaultdict(<class 'dict'>, {'flight': {'class_cabin': 'Business-Class'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'flight': defaultdict(None, {'flight_information': ['Flug 3U8556 von Sichuan Airlines vom Terminal 2 des internationalen Flughafens Baiyun zum Terminal 1 des internationalen Flughafens Shuangliu'], 'ticket_price': ['1.890 Yuan']})})
+ > api:
+flight
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 1
+ > ground_truth_results: None
+------------------------------------------- 110 / 479
+{'flight': {}}
+-------------------------------------------
+API call likely failed for dial_id: hotel_goal_1-17###5621, turn_id: 0
+ > api_names: ['hotel']
+ > constraints: defaultdict(<class 'dict'>, {'hotel': {'pricerange': 'günstigere'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'hotel': defaultdict(None, {'name': ['Suzhou Yongshun Express Hotel']})})
+ > api:
+hotel
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 4
+ > ground_truth_results: None
+------------------------------------------- 111 / 482
+{'hotel': {}}
+-------------------------------------------
+API call likely failed for dial_id: hotel_goal_1-17###5621, turn_id: 1
+ > api_names: ['hotel']
+ > constraints: defaultdict(<class 'dict'>, {'hotel': {'pricerange': 'billig'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'hotel': defaultdict(None, {'room_charge': ['126 Yuan'], 'room_type': ['king-size room']})})
+ > api:
+hotel
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 1
+ > ground_truth_results: None
+------------------------------------------- 112 / 483
+{'hotel': {}}
+-------------------------------------------
+API call likely failed for dial_id: attraction_hotel_goal_2-64###5498, turn_id: 2
+ > api_names: ['hotel']
+ > constraints: defaultdict(<class 'dict'>, {'hotel': {'room_type': 'Standardzimmern'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'hotel': defaultdict(None, {'name': ['Genting Star Ketten Hotel']})})
+ > api:
+hotel
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 1
+ > ground_truth_results: None
+------------------------------------------- 113 / 488
+{'hotel': {}}
+-------------------------------------------
+API call likely failed for dial_id: movie_goal_3-8_v2###9587, turn_id: 0
+ > api_names: ['movie']
+ > constraints: defaultdict(<class 'dict'>, {'movie': {'production_country_or_area': 'südkoreanischen'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'movie': defaultdict(None, {'title': ['Train To Busan']})})
+ > api:
+movie
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 2
+ > ground_truth_results: None
+------------------------------------------- 114 / 498
+{'movie': {}}
+-------------------------------------------
+API call likely failed for dial_id: movie_goal_3-8_v2###9587, turn_id: 2
+ > api_names: ['movie']
+ > constraints: defaultdict(<class 'dict'>, {'movie': {'production_country_or_area': 'amerikanischen'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'movie': defaultdict(None, {'title': ['Fluch der Karibik']})})
+ > api:
+movie
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 4
+ > ground_truth_results: None
+------------------------------------------- 115 / 500
+{'movie': {}}
+-------------------------------------------
+API call likely failed for dial_id: restaurant_goal_1-21_v2###7999, turn_id: 0
+ > api_names: ['restaurant']
+ > constraints: defaultdict(<class 'dict'>, {'restaurant': {'cuisine': 'Fast Food und schnelle Mahlzeiten'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'restaurant': defaultdict(None, {'name': ['Goodman Folk Snacks']})})
+ > api:
+restaurant
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 1
+ > ground_truth_results: None
+------------------------------------------- 116 / 503
+{'restaurant': {}}
+-------------------------------------------
+API call likely failed for dial_id: train_goal_4-69###503, turn_id: 1
+ > api_names: ['train']
+ > constraints: defaultdict(<class 'dict'>, {'train': {'seat_type': 'erste Klasse'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'train': defaultdict(None, {'ticket_price': ['907,0 Yuan']})})
+ > api:
+train
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 1
+ > ground_truth_results: None
+------------------------------------------- 117 / 514
+{'train': {}}
+-------------------------------------------
+API call likely failed for dial_id: train_goal_4-69###503, turn_id: 3
+ > api_names: ['train']
+ > constraints: defaultdict(<class 'dict'>, {'train': {'seat_type': 'Schlafwagen in der ersten Klasse'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'train': defaultdict(None, {'ticket_price': ['574,0 Yuan']})})
+ > api:
+train
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 1
+ > ground_truth_results: None
+------------------------------------------- 118 / 516
+{'train': {}}
+-------------------------------------------
+API call likely failed for dial_id: hotel_goal_2-1###5099, turn_id: 0
+ > api_names: ['hotel']
+ > constraints: defaultdict(<class 'dict'>, {'hotel': {'area': 'New District von Suzhou'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'hotel': defaultdict(None, {'name': ['Das Meijin All Suites Hotel']})})
+ > api:
+hotel
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 1
+ > ground_truth_results: None
+------------------------------------------- 119 / 517
+{'hotel': {}}
+-------------------------------------------
+API call likely failed for dial_id: PC_goal_5-48_v2###10500, turn_id: 0
+ > api_names: ['pc']
+ > constraints: defaultdict(<class 'dict'>, {'pc': {'pricerange': '5.000-10.000 Yuan'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'pc': defaultdict(None, {'CPU_model': [], 'memory_capacity': []})})
+ > api:
+pc
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 9
+ > ground_truth_results: None
+------------------------------------------- 120 / 521
+{'pc': {}}
+-------------------------------------------
+API call likely failed for dial_id: PC_goal_5-48_v2###10500, turn_id: 1
+ > api_names: ['pc']
+ > constraints: defaultdict(<class 'dict'>, {'pc': {'CPU': 'Intel Core i5'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'pc': defaultdict(None, {'product_name': ['Lenovo Tianyi 510Pro']})})
+ > api:
+pc
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 2
+ > ground_truth_results: None
+------------------------------------------- 121 / 522
+{'pc': {}}
+-------------------------------------------
+API call likely failed for dial_id: PC_goal_5-48_v2###10500, turn_id: 2
+ > api_names: ['pc']
+ > constraints: defaultdict(<class 'dict'>, {'pc': {'CPU': 'Intel Core i5'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'pc': defaultdict(None, {'CPU_model': ['i5-9400F'], 'weight': ['7,48 kg']})})
+ > api:
+pc
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 1
+ > ground_truth_results: None
+------------------------------------------- 122 / 523
+{'pc': {}}
+-------------------------------------------
+API call likely failed for dial_id: flight_weather_goal_4-30###1727, turn_id: 0
+ > api_names: ['weather']
+ > constraints: defaultdict(<class 'dict'>, {'weather': {'date': 'kommenden Montag'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'weather': defaultdict(None, {'temperature': ['The maximum temperature will be 8 degrees Celsius, and the minimum temperature will be -6 degrees Celsius.'], 'weather_condition': ['sonnig']})})
+ > api:
+weather
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 1
+ > ground_truth_results: None
+------------------------------------------- 123 / 525
+{'weather': {}}
+-------------------------------------------
+API call likely failed for dial_id: flight_weather_goal_4-30###1727, turn_id: 4
+ > api_names: ['flight']
+ > constraints: defaultdict(<class 'dict'>, {'flight': {'class_cabin': 'Business-Class'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'flight': defaultdict(None, {'flight_information': ['Air China CA1847 vom Terminal 3 des Beijing Capital International Airport zum Terminal 2 des Lukou International Airport nehmen']})})
+ > api:
+flight
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 1
+ > ground_truth_results: None
+------------------------------------------- 124 / 529
+{'flight': {}}
+-------------------------------------------
+API call likely failed for dial_id: flight_weather_goal_4-30###1727, turn_id: 5
+ > api_names: ['flight']
+ > constraints: defaultdict(<class 'dict'>, {'flight': {'class_cabin': 'Business-Class'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'flight': defaultdict(None, {'ticket_price': ['6.620 Yuan']})})
+ > api:
+flight
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 1
+ > ground_truth_results: None
+------------------------------------------- 125 / 530
+{'flight': {}}
+-------------------------------------------
+API call likely failed for dial_id: attraction_hotel_goal_1-28_v2###7896, turn_id: 0
+ > api_names: ['attraction']
+ > constraints: defaultdict(<class 'dict'>, {'attraction': {'the_most_suitable_people': 'familienfreundlichen'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'attraction': defaultdict(None, {'name': [['Suzhou Taihu Lake Wetland Park or Baimajian Ecological Park'], ['Suzhou Taihu Lake Wetland Park or Baimajian Ecological Park']]})})
+ > api:
+attraction
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 2
+ > ground_truth_results: None
+------------------------------------------- 126 / 533
+{'attraction': {}}
+-------------------------------------------
+API call likely failed for dial_id: attraction_hotel_goal_1-28_v2###7896, turn_id: 6
+ > api_names: ['hotel']
+ > constraints: defaultdict(<class 'dict'>, {'hotel': {'room_type': 'Ein Standardzimmer'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'hotel': defaultdict(None, {'name': ['Element Suzhou Science and Technology Town']})})
+ > api:
+hotel
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 1
+ > ground_truth_results: None
+------------------------------------------- 127 / 539
+{'hotel': {}}
+-------------------------------------------
+API call likely failed for dial_id: Hospital_goal_2-10###3763, turn_id: 0
+ > api_names: ['hospital']
+ > constraints: defaultdict(<class 'dict'>, {'hospital': {'key_departments': 'Blutabteilung'}})
+ > lang: de
+ > value_mapping: <dialogues.risawoz.src.knowledgebase.en_zh_mappings.RisawozMapping object at 0x7f6fedb90160>
+ > actions: defaultdict(<class 'collections.defaultdict'>, {'hospital': defaultdict(None, {'name': ['Second Affiliated Hospital der Soochow Universität']})})
+ > api:
+hospital
+ > item:
+{}
+ > item.get: 0
+ > expected_num_results: 2
+ > ground_truth_results: None
+------------------------------------------- 128 / 546
+{'hospital': {}}

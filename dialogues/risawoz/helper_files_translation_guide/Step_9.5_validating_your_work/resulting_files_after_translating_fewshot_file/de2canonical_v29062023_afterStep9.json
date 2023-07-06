@@ -1,0 +1,1293 @@
+{
+    "tv": {
+        "production country or area": {
+            "Japan": [
+                "japanisch",
+                "japanische",
+                "japanischem",
+                "japanischen",
+                "japanischer",
+                "japanisches",
+                "japanische Fernsehsendung"
+            ],
+            "Taiwan": [
+                "eine TV-Show aus Taiwan"
+            ],
+            "Amerika": [
+                "amerikanische",
+                "amerikanisch",
+                "amerikanischer",
+                "amerikanischem",
+                "amerikanischen",
+                "amerikanisches",
+                "amerikanische Fernsehsendung"
+            ],
+            "China": [
+                "chinesische Fernsehsendung",
+                "chinesisch"
+            ],
+            "Südkorea": [
+                "südkoreanisch",
+                "südkoreanische",
+                "südkoreanisches",
+                "südkoreanischer",
+                "südkoreanischem",
+                "südkoreanischen",
+                "südkoreanische Fernsehsendung"
+            ],
+            "Hongkong": "Hongkong"
+        },
+        "decade": {
+            "2010er Jahre": [
+                "2010er Jahren"
+            ]
+        },
+        "type": {
+            "spannend": [
+                "spannende",
+                "spannender",
+                "spannenden",
+                "spannendes",
+                "spannendem"
+            ],
+            "Science-Fiction": [
+                "Science-Fiction-Serie"
+            ],
+            "Drama": [
+                "Dramafilm"
+            ],
+            "Krimi": [
+                "Krimidrama"
+            ],
+            "Comedy": [
+                "Komödie"
+            ],
+            "Dramen": "Dramen",
+            "romantisch": [
+                "romantische",
+                "romantischer",
+                "romantisches",
+                "romantischem",
+                "romantischen",
+                "Romanze"
+            ]
+        },
+        "title": {
+            "Quartet": "Quartet",
+            "On Children": "On Children",
+            "die erste Staffel von Westworld": "die erste Staffel von Westworld",
+            "Journey to the West": "Journey to the West",
+            "Legal High": "Legal High",
+            "Maneater - Tod aus der Kälte": "Maneater - Tod aus der Kälte",
+            "Hell Is Other People": "Hell Is Other People",
+            "My Own Swordsman": "My Own Swordsman",
+            "Heaven Sword und Dragon Sabre": "Heaven Sword und Dragon Sabre",
+            "Mad House": "Mad House",
+            "Lives of Omission": "Lives of Omission"
+        },
+        "premiere time": {
+            "17. Januar 2017": "17. Januar 2017",
+            "wurde am 31. August 2019 in Südkorea uraufgeführt": "wurde am 31. August 2019 in Südkorea uraufgeführt",
+            "7. Juli 2018 in Taiwan": "7. Juli 2018 in Taiwan",
+            "1. August 2011": "1. August 2011"
+        },
+        "douban score": {
+            "9,1": "9,1",
+            "8,4": "8,4",
+            "8,9": "8,9",
+            "9,6": "9,6",
+            "9,4": "9,4",
+            "9,5": "9,5",
+            "7,8": "7,8",
+            "7,7": "7,7",
+            "8,5": "8,5"
+        },
+        "director": {
+            "Nobuhiro Doi": "Nobuhiro Doi",
+            "Jonathan Nolan": "Jonathan Nolan",
+            "Chen Wei-Ling": "Chen Wei-Ling",
+            "Passsee Mu": "Passsee Mu"
+        },
+        "star": {
+            "Shatrughan Sinha": "Shatrughan Sinha",
+            "Liu Xiao Ling Tong": "Liu Xiao Ling Tong",
+            "Ko Su-Yun": "Ko Su-Yun",
+            "Steve Ma Jingtao": "Steve Ma Jingtao"
+        },
+        "episodes": {
+            "10 Folgen": "10 Folgen",
+            "25 Folgen": "25 Folgen",
+            "11 Folgen": "11 Folgen",
+            "24 Folgen": "24 Folgen",
+            "30 Folgen": "30 Folgen"
+        },
+        "name list": {
+            "Ko Su-Yun, Liu Zi-Chuan, Tseng Shao-Zong und Ling Hsin-Yu": "Ko Su-Yun, Liu Zi-Chuan, Tseng Shao-Zong und Ling Hsin-Yu",
+            "Sakai Masato, Aragaki Yui und Namase Katsuhisa": "Sakai Masato, Aragaki Yui und Namase Katsuhisa",
+            "Im Wung Jae, Lee Dong Wook, Lee Jung-eun und Lee Hyun Wook": "Im Wung Jae, Lee Dong Wook, Lee Jung-eun und Lee Hyun Wook"
+        },
+        "episode length": {
+            "60 Minuten": "60 Minuten"
+        }
+    },
+    "movie": {
+        "production country or area": {
+            "Indien": [
+                "indische",
+                "indischer",
+                "indisches",
+                "indischem",
+                "indischen",
+                "indisch"
+            ],
+            "Taiwan": [
+                "Taiwan, China",
+                "taiwanesisch"
+            ],
+            "China": [
+                "chinesisches Festland",
+                "chinesische Fernsehsendung",
+                "chinesisch",
+                "chinesische",
+                "chinesisches",
+                "chinesischer",
+                "chinesischem",
+                "chinesischen"
+            ],
+            "Amerika": [
+                "amerikanische",
+                "amerikanisch",
+                "amerikanischer",
+                "amerikanischem",
+                "amerikanischen",
+                "amerikanisches"
+            ],
+            "Südkorea": [
+                "südkoreanisch",
+                "südkoreanische",
+                "südkoreanisches",
+                "südkoreanischer",
+                "südkoreanischem",
+                "südkoreanischen"
+            ]
+        },
+        "title": {
+            "Khoon Bhari Maang": "Khoon Bhari Maang",
+            "Secret": "Secret",
+            "The Bride": "The Bride",
+            "You Are the Apple of My Eye": "You Are the Apple of My Eye",
+            "Sterben, um zu überleben": "Sterben, um zu überleben",
+            "Fluch der Karibik": "Fluch der Karibik",
+            "Bajrangi Bhaijaan": "Bajrangi Bhaijaan",
+            "Double Vision": "Double Vision",
+            "Train To Busan": "Train To Busan"
+        },
+        "douban score": {
+            "8,0": "8,0",
+            "9,1": "9,1",
+            "9,0": "9,0",
+            "8,7": "8,7",
+            "9,3": "9,3",
+            "7,5": "7,5",
+            "7,8": "7,8",
+            "8,5": "8,5"
+        },
+        "film length": {
+            "172 Minuten": "172 Minuten",
+            "101 Minuten": "101 Minuten",
+            "89 Minuten": "89 Minuten",
+            "117 Minuten": "117 Minuten",
+            "113 Minuten": "113 Minuten"
+        },
+        "type": {
+            "romantischer Film": [
+                "romantischen Films",
+                "romantischen Film",
+                "romantisch"
+            ],
+            "Comedy": [
+                "Komödie"
+            ],
+            "Action": [
+                "Actionfilm"
+            ],
+            "Horror": [
+                "Grusel"
+            ],
+        },
+        "decade": {
+            "2000er Jahre": [
+                "den 2000er Jahren"
+            ],
+            "2010er Jahre": [
+                "2010er Jahren"
+            ]
+        },
+        "release date": {
+            "27. Juli 2007 in Taiwan und am 31. Juli desselben Jahres in China": "27. Juli 2007 in Taiwan und am 31. Juli desselben Jahres in China",
+            "Taiwan, China": "Taiwan, China",
+            "20. August 2015": "20. August 2015",
+            "25. Oktober 2002 in Taiwan": "25. Oktober 2002 in Taiwan",
+            "am 9. Juli 2003 in den Vereinigten Staaten": "am 9. Juli 2003 in den Vereinigten Staaten"
+        },
+        "star": {
+            "Wu Kang-Ren": "Wu Kang-Ren",
+            "Ko Chen-Tung": "Ko Chen-Tung",
+            "Xu Zheng": "Xu Zheng",
+            "Leonardo DiCaprio": "Leonardo DiCaprio",
+            "Leung Ka-Fai": "Leung Ka-Fai",
+            "Jay Chou": "Jay Chou"
+        },
+        "name list": {
+            "Hsieh Hsin-Ying, Tanaka Chie und Yen Cheng-Lan": "Hsieh Hsin-Ying, Tanaka Chie und Yen Cheng-Lan",
+            "Salman Khan, Harshaali Malhotra und Kareena Kapoor": "Salman Khan, Harshaali Malhotra und Kareena Kapoor"
+        },
+        "director": {
+            "Kabir Khan": "Kabir Khan",
+            "Gore Verbinski": "Gore Verbinski"
+        }
+    },
+    "attraction": {
+        "area": {
+            "Bezirk Gusu": [
+                "Bezirks Gusu"
+            ],
+            "Suzhou Industrial Park": [
+                "Industrieparks Suzhou",
+                "Industriepark Suzhou"
+            ],
+            "Suzhou New District": "Suzhou New District",
+            "Changshu": "Changshu",
+            "Bezirk Wuzhong": "Bezirk Wuzhong"
+        },
+        "consumption": {
+            "nicht so teuer": [
+                "nicht so teure",
+                "nicht so teures"
+            ],
+            "etwas teurer": [
+                "etwas teureren Ort",
+                "etwas teureres",
+                "etwas teureren",
+                "etwas teurerer"
+            ],
+            "bezahlbar": [
+                "bezahlbare",
+                "bezahlbaren"
+            ],
+            "günstig": [
+                "günstige",
+                "günstiges",
+                "günstigem",
+                "günstigen",
+                "billig",
+                "billige",
+                "billiges",
+                "billigem",
+                "billigen"
+            ],
+            "günstiger": [
+                "günstigeres",
+                "Günstigeres",
+                "günstigere"
+            ],
+            "preiswert": [
+                "preisgünstig",
+                "preisgünstige",
+                "preisgünstigem",
+                "preisgünstigen",
+                "preisgünstiger",
+                "preisgünstiges",
+                "preiswerte",
+                "preiswertem",
+                "preiswerten",
+                "preiswertes",
+                "moderater Preis",
+                "moderate Preise",
+                "moderaten Preisen"
+            ]
+        },
+        "name": {
+            "Humble Administrator's Garden": "Humble Administrator's Garden",
+            "Der Humble Administrator's Garden": "Der Humble Administrator's Garden",
+            "landschaftlich reizvolle Gegend des Tianping Berges": "landschaftlich reizvolle Gegend des Tianping Berges",
+            "Mudu Town": "Mudu Town",
+            "Garten des Meisters der Netze": "Garten des Meisters der Netze",
+            "Suzhou Amusement Land Forest and Water World": "Suzhou Amusement Land Forest and Water World",
+            "Universität Xi'an Jiaotong-Liverpool": "Universität Xi'an Jiaotong-Liverpool",
+            "Stadt Tongli": "Stadt Tongli",
+            "Dushu Lake Church": "Dushu Lake Church",
+            "landschaftlich reizvolle Gebiet auf Xishan Island": "landschaftlich reizvolle Gebiet auf Xishan Island",
+            "Naturgebiet am Jinjisee": [
+                "Gegend um den Jinjisee"
+            ],
+            "die Stadt Zhouzhuang": "die Stadt Zhouzhuang",
+            "Suzhou-Museum": [
+                "Suzhou Museum"
+            ],
+            "des Suzhou-Museums": "des Suzhou-Museums",
+            "Suzhou Center": "Suzhou Center",
+            "Huayi Brothers Movie World": "Huayi Brothers Movie World",
+            "Naturort Shajiabang von Changshu": "Naturort Shajiabang von Changshu",
+            "Stone Lake": "Stone Lake",
+            "das Tor des Orients": "das Tor des Orients",
+            "Taihu Lake Wetland Park": "Taihu Lake Wetland Park",
+            "Suzhou Taihu Lake Wetland Park": "Suzhou Taihu Lake Wetland Park",
+            "Baimajian Ecological Park": "Baimajian Ecological Park"
+        },
+        "type": {
+            "Garten im Suzhou-Stil": "Garten im Suzhou-Stil",
+            "landschaftlich reizvolle Orte": [
+                "landschaftlich schönen Gegenden"
+            ],
+            "Freizeitpark": [
+                "Vergnügungspark"
+            ],
+            "Wasserstadt": "Wasserstadt",
+            "historische Sehenswürdigkeit im Bezirk Gusu": "historische Sehenswürdigkeit im Bezirk Gusu",
+            "Handelszentrum": "Handelszentrum",
+            "historische Sehenswürdigkeiten im Bezirk Gusu": "historische Sehenswürdigkeiten im Bezirk Gusu",
+            "landschaftlich reizvoller Ort": [
+                "landschaftlich reizvollen Ort"
+            ]
+        },
+        "score": {
+            "4,5": "4,5",
+            "4,4": "4,4",
+            "4,6": "4,6"
+        },
+        "ticket price": {
+            "30 Yuan": "30 Yuan",
+            "kostenlos": "kostenlos",
+            "198 Yuan": "198 Yuan",
+            "45 Yuan": "45 Yuan",
+            "299 Yuan": "299 Yuan",
+            "110 Yuan": "110 Yuan",
+            "60 Yuan": "60 Yuan"
+        },
+        "opening hours": {
+            "08:30-17:00": [
+                "von 08:30 bis 17:00 Uhr"
+            ],
+            "den ganzen Tag": "den ganzen Tag",
+            "09:00–16:30 Uhr": [
+                "von 09:00 bis 16:30 Uhr"
+            ]
+        },
+        "address": {
+            "Kuojiatou Allee Nr. 11, Daichengqiao Straße, Bezirk Gusu": "Kuojiatou Allee Nr. 11, Daichengqiao Straße, Bezirk Gusu",
+            "Yangchenghu Avenue Nr. 188, Suzhou Industrial Park, Suzhou City": "Yangchenghu Avenue Nr. 188, Suzhou Industrial Park, Suzhou City",
+            "Stadt Shajiabang, Changshu, Stadt Suzhou": "Stadt Shajiabang, Changshu, Stadt Suzhou",
+            "Town Lake Embroidery Street Nr. 1, Suzhou New District, Suzhou City": "Town Lake Embroidery Street Nr. 1, Suzhou New District, Suzhou City",
+            "Huashan Road, Unterbezirk Fengqiao, Suzhou New District, Suzhou City": "Huashan Road, Unterbezirk Fengqiao, Suzhou New District, Suzhou City"
+        },
+        "metro station": {
+            "keine": [
+                "keine U-Bahnstation in der Nähe"
+            ],
+            "Nein": [
+                "keine",
+                "keine direkte U-Bahn",
+                "geht nicht"
+            ],
+            "könnte": "könnte",
+            "können": [
+                "könnt"
+            ],
+            "direkt mit der U-Bahn": "direkt mit der U-Bahn"
+        },
+        "the most suitable people": {
+            "Freund": "Freund",
+            "Date": "Date",
+            "familienfreundlich": [
+                "familienfreundliche",
+                "familienfreundliches",
+                "familienfreundlichen",
+                "familienfreundlichem",
+                "familienfreundlicher"
+            ],
+            "ein Familienausflug": [
+                "einen Familienausflug",
+                "eines Familienausflugs"
+            ]
+        },
+        "phone number": {
+            "0512-88161071": "0512-88161071",
+            "0512-67575666": "0512-67575666",
+            "0512-67990518": "0512-67990518"
+        },
+        "features": {
+            "gotischer Baustil": [
+                "gotischen Baustil"
+            ],
+            "hohe Gebäude wie das Tor des Orients gut sehen. Sie können auch mit dem Riesenrad fahren und eine Nachtkreuzfahrt unternehmen, um die moderne Seite von Suzhou zu erleben": "hohe Gebäude wie das Tor des Orients gut sehen. Sie können auch mit dem Riesenrad fahren und eine Nachtkreuzfahrt unternehmen, um die moderne Seite von Suzhou zu erleben",
+            "das größte Einkaufszentrum in Suzhou. Es liegt direkt neben dem Jinji-See und ganz in der Nähe des Tores des Orients": "das größte Einkaufszentrum in Suzhou. Es liegt direkt neben dem Jinji-See und ganz in der Nähe des Tores des Orients"
+        }
+    },
+    "restaurant": {
+        "pricerange": {
+            "etwas teurer": [
+                "etwas teureres"
+            ],
+            "preiswert": [
+                "preisgünstig",
+                "preisgünstige",
+                "preisgünstigem",
+                "preisgünstigen",
+                "preisgünstiger",
+                "preisgünstiges",
+                "preiswerte",
+                "preiswertem",
+                "preiswerten",
+                "preiswertes",
+                "moderater Preis",
+                "moderate Preise",
+                "moderaten Preisen"
+            ],
+            "fair": [
+                "angemessen"
+            ],
+            "günstiger": [
+                "günstigeres",
+                "Günstigeres",
+                "günstigere"
+            ],
+            "günstig": [
+                "günstige",
+                "günstiges",
+                "günstigem",
+                "günstigen",
+                "billig",
+                "billige",
+                "billiges",
+                "billigem",
+                "billigen"
+            ],
+            "ein etwas teurerer": [
+                "ein etwas teureres",
+                "eine etwas teurere",
+                "einen etwas teureren",
+                "einem etwas teureren"
+            ]
+        },
+        "name": {
+            "Banyuan Private Home Cuisine": "Banyuan Private Home Cuisine",
+            "Haidilao Hot Pot": "Haidilao Hot Pot",
+            "Sichuan Xiang Tian Xia Hot Pot": "Sichuan Xiang Tian Xia Hot Pot",
+            "Laotianqiao Frog Hot Pot": "Laotianqiao Frog Hot Pot",
+            "Seoul South Korean Cuisine": "Seoul South Korean Cuisine",
+            "Restaurant Xibei": [
+                "Xibei Restaurant"
+            ],
+            "Niutanjia Ben'Ge Holzkohlen Barbecue": "Niutanjia Ben'Ge Holzkohlen Barbecue",
+            "QingHeGu": "QingHeGu",
+            "Chongqing De Zhuang Hot Pot": "Chongqing De Zhuang Hot Pot",
+            "Yangguanguren Restaurant": "Yangguanguren Restaurant",
+            "Dream of Taoyuan": "Dream of Taoyuan",
+            "Restaurant Beijiang": "Restaurant Beijiang",
+            "LELECHA": "LELECHA",
+            "One Plus Conveyor Belt Sushi": "One Plus Conveyor Belt Sushi",
+            "Goodman Folk Snacks": "Goodman Folk Snacks",
+            "L'Arome": "L'Arome",
+            "Yamazaki Bakery": "Yamazaki Bakery"
+        },
+        "cuisine": {
+            "Jiangsu-Zhejiang-Küche": "Jiangsu-Zhejiang-Küche",
+            "Hot Pot": [
+                "Hot-Pot"
+            ],
+            "japanische Küche": [
+                "japanischer Küche"
+            ],
+            "nordwestliche Küche": "nordwestliche Küche",
+            "südkoranisch": [
+                "südkoreanisch",
+                "südkoreanische",
+                "südkoreanisches",
+                "südkoreanischer",
+                "südkoreanischem",
+                "südkoreanischen",
+                "Südkorea"
+            ],
+            "Brot und Desserts": "Brot und Desserts",
+            "Fast Food und schnelle Mahlzeiten": "Fast Food und schnelle Mahlzeiten"
+        },
+        "address": {
+            "Chuanfang Alley Nr. 3, nördlich der Pingjiang Road": "Chuanfang Alley Nr. 3, nördlich der Pingjiang Road",
+            "Lifeng Plaza 1F, Baodaidong Straße Nr. 399": "Lifeng Plaza 1F, Baodaidong Straße Nr. 399",
+            "Gebäude Nr. 21, Li Gongdi Phase 3": "Gebäude Nr. 21, Li Gongdi Phase 3",
+            "3. Stock, direkt neben dem Aufzug des CR Vanguard, Jiuhua Straße Nr. 128": "3. Stock, direkt neben dem Aufzug des CR Vanguard, Jiuhua Straße Nr. 128",
+            "Jinshan Road Nr. 47-1 (Nr. B1001-2, B1F, Einkaufszentrum Mudu Rainbow)": "Jinshan Road Nr. 47-1 (Nr. B1001-2, B1F, Einkaufszentrum Mudu Rainbow)"
+        },
+        "phone number": {
+            "139-6217-0368": "139-6217-0368",
+            "0512-67603337": "0512-67603337",
+            "400-8207320": "400-8207320",
+            "0512-67635689": "0512-67635689"
+        },
+        "metro station": {
+            "keine direkte U-Bahnlinie dorthin": "keine direkte U-Bahnlinie dorthin",
+            "gibt": "gibt",
+            "könnt": [
+                "können"
+            ]
+        },
+        "area": {
+            "Suzhou Industrial Park": [
+                "Industrieparks Suzhou",
+                "Industriepark Suzhou"
+            ],
+            "Bezirk Wuzhong": "Bezirk Wuzhong",
+            "Suzhou New District": [
+                "Suzhou New District",
+                "Neuer Bezirk von Suzhou"
+            ],
+        },
+        "business hours": {
+            "von Montag bis Sonntag von 09:00 bis 07:00 Uhr": "von Montag bis Sonntag von 09:00 bis 07:00 Uhr",
+            "montags bis sonntags von 11:30 bis 21:00 Uhr": "montags bis sonntags von 11:30 bis 21:00 Uhr",
+            "montags bis sonntags von 10:00 bis 21:30 Uhr": "montags bis sonntags von 10:00 bis 21:30 Uhr",
+            "10:00–20:30 Uhr montags bis sonntags": "10:00–20:30 Uhr montags bis sonntags"
+        },
+        "score": {
+            "4,6": "4,6",
+            "4,5": "4,5"
+        },
+        "dishes": {
+            "Ochsenfrösche": [
+                "Ochsenfrosch"
+            ],
+            "gebratenes Hammelfleisch mit Schalotte": "gebratenes Hammelfleisch mit Schalotte",
+            "Es wird empfohlen, den Tomateneintopf": "Es wird empfohlen, den Tomateneintopf",
+            "Pilzcremesuppe": "Pilzcremesuppe",
+            "Queen Bread": "Queen Bread",
+            "gekochten Fisch ohne Knochen mit eingelegtem Kohl und Chili": "gekochten Fisch ohne Knochen mit eingelegtem Kohl und Chili"
+        },
+        "per capita consumption": {
+            "81": "81",
+            "127 Yuan": "127 Yuan",
+            "67 Yuan": "67 Yuan",
+            "42 Yuan": "42 Yuan"
+        }
+    },
+    "car": {
+        "classification": {
+            "SUV": [
+                "Geländewagen"
+            ],
+            "Stufenheck": [
+                "Auto mit Stufenheck"
+            ],
+            "Mehrzweckfahrzeug": "Mehrzweckfahrzeug",
+            "Schrägheck": [
+                "Autos mit Schrägheck",
+                "Auto mit Schrägheck"
+            ]
+        },
+        "hybrid": {
+            "benzinbetrieben": [
+                "benzinbetriebenen",
+                "Benziner"
+            ]
+        },
+        "pricerange": {
+            "im Bereich von 150.000 Yuan": "im Bereich von 150.000 Yuan",
+            "über 300.000 Yuan": "über 300.000 Yuan",
+            "150.000 bis 200.000 Yuan": "150.000 bis 200.000 Yuan"
+        },
+        "name": {
+            "Volkswagen T-Cross mit einem 1,5-Liter-Benzinmotor": "Volkswagen T-Cross mit einem 1,5-Liter-Benzinmotor",
+            "Santana 1.5L Automatic Comfort Version": "Santana 1.5L Automatic Comfort Version",
+            "Tiguan-L 380TSI R-Line 4WD Ultimate Edition": "Tiguan-L 380TSI R-Line 4WD Ultimate Edition",
+            "FAW-Volkswagen TACQUA DSG Yue": "FAW-Volkswagen TACQUA DSG Yue",
+            "Volkswagen Touran L 280TSI 6-Sitzer": "Volkswagen Touran L 280TSI 6-Sitzer",
+            "Luxusausgabe des Volkswagen Golf 280TSI DSG": "Luxusausgabe des Volkswagen Golf 280TSI DSG",
+            "FAW-Volkswagen Magotan 280TSI DSG Comfort Version": "FAW-Volkswagen Magotan 280TSI DSG Comfort Version"
+        },
+        "cruise control system": {
+            "ist nicht ausgestattet mit": "ist nicht ausgestattet mit"
+        },
+        "ventilated seats": {
+            "ist nicht ausgestattet mit": [
+                "verfügt leider nicht über",
+                "hat keine"
+            ]
+        },
+        "brand": {
+            "SAIC Volkswagen": "SAIC Volkswagen",
+            "FAW-Volkswagen": "FAW-Volkswagen"
+        },
+        "number of seats": {
+            "3": "3",
+            "1": "1",
+            "6": "6"
+        },
+        "price": {
+            "111.800 Yuan": "111.800 Yuan",
+            "139.900": "139.900",
+            "186.900 Yuan": "186.900 Yuan"
+        },
+        "series": {
+            "FAW-Volkswagen Magotan": "FAW-Volkswagen Magotan"
+        }
+    },
+    "hotel": {
+        "pricerange": {
+            "nicht so teuer": [
+                "nicht so teure",
+                "nicht so teures"
+            ],
+            "etwas teurer": [
+                "etwas teureren Ort",
+                "etwas teureres",
+                "etwas teureren",
+                "etwas teurerer"
+            ],
+            "preiswert": [
+                "preisgünstig",
+                "preisgünstige",
+                "preisgünstigem",
+                "preisgünstigen",
+                "preisgünstiger",
+                "preisgünstiges",
+                "preiswerte",
+                "preiswertem",
+                "preiswerten",
+                "preiswertes",
+                "moderater Preis",
+                "moderate Preise",
+                "moderaten Preisen"
+            ],
+            "günstiger": [
+                "günstigeres",
+                "Günstigeres",
+                "günstigere"
+            ],
+            "günstig": [
+                "günstige",
+                "günstiges",
+                "günstigem",
+                "günstigen",
+                "billig",
+                "billige",
+                "billiges",
+                "billigem",
+                "billigen"
+            ],
+            "ein etwas teurer": [
+                "ein etwas teureres",
+                "einen etwas teureren",
+                "ein etwas teurerer"
+            ]
+        },
+        "room type": {
+            "Standardzimmer": [
+                "Standardzimmern"
+            ],
+            "Zimmer mit Kingsize-Bett": [
+                "Kingsize-Zimmer"
+            ],
+            "ein Standardzimmer": [
+                "Ein Standardzimmer"
+            ]
+        },
+        "name": {
+            "Womu Boutique Hotel": "Womu Boutique Hotel",
+            "New City Grand Rezen Hotel": "New City Grand Rezen Hotel",
+            "Atour Hotel in der Changjiang Straße": "Atour Hotel in der Changjiang Straße",
+            "Shui'an Hanshe Boutique": "Shui'an Hanshe Boutique",
+            "das Jinling Nanlin Hotel": "das Jinling Nanlin Hotel",
+            "Suzhou Marriott Hotel Taihu Lake": "Suzhou Marriott Hotel Taihu Lake",
+            "Vienna Hotel": "Vienna Hotel",
+            "Chengyi Lianhao Hotel": "Chengyi Lianhao Hotel",
+            "Jinji Lake Shilla Hotel": "Jinji Lake Shilla Hotel",
+            "Genting Star Hotelkette": [
+                "Genting Star Ketten Hotel"
+            ],
+            "Pan Pacific Suzhou": "Pan Pacific Suzhou",
+            "Pod Inn": "Pod Inn",
+            "Suzhou Shui'an Hanshe Boutique Hotel": "Suzhou Shui'an Hanshe Boutique Hotel",
+            "Meijin All Suites Hotel": "Meijin All Suites Hotel",
+            "Jinji Lake Suzhou Suisse Place Ligongdi Apartment Hotel": "Jinji Lake Suzhou Suisse Place Ligongdi Apartment Hotel",
+            "Suzhou Yongshun Express Hotel": "Suzhou Yongshun Express Hotel",
+            "Home Inn": "Home Inn",
+            "Element Suzhou Science and Technology Town": "Element Suzhou Science and Technology Town"
+        },
+        "score": {
+            "4,7": "4,7",
+            "4,8": "4,8",
+            "4,6": "4,6",
+            "4,2": "4,2",
+            "4,1": "4,1",
+            "4,4": "4,4"
+        },
+        "parking": {
+            "kostenlos": [
+                "kostenlose",
+                "kostenlosen",
+                "kostenlosem",
+                "kostenloser"
+            ],
+            "müssen sie bezahlen": "müssen Sie bezahlen"
+        },
+        "area": {
+            "Suzhou New District": [
+                "New District von Suzhou"
+            ],
+            "Changshu": "Changshu",
+            "Bezirk Wujiang": "Bezirk Wujiang",
+            "Bezirk Wuzhong": "Bezirk Wuzhong",
+            "Suzhou Industrial Park": [
+                "Industrieparks Suzhou",
+                "Industriepark Suzhou"
+            ],
+            "Suzhou": "Suzhou"
+        },
+        "room charge": {
+            "919 Yuan": "919 Yuan",
+            "312 Yuan": "312 Yuan",
+            "789 Yuan": "789 Yuan",
+            "629 Yuan": "629 Yuan",
+            "340 Yuan": "340 Yuan",
+            "168 Yuan": "168 Yuan",
+            "438 Yuan": "438 Yuan",
+            "126 Yuan": "126 Yuan",
+            "152 Yuan": "152 Yuan",
+            "188 Yuan": "188 Yuan",
+            "308 Yuan": "308 Yuan",
+            "636 Yuan": "636 Yuan"
+        },
+        "phone number": {
+            "0512-68182888": "0512-68182888",
+            "180-5181-5602": "180-5181-5602",
+            "0512-85883698": "0512-85883698",
+            "0512-65693333": "0512-65693333",
+            "0512-52018188": "0512-52018188",
+            "0512-67079995": "0512-67079995",
+            "0512-65103388": "0512-65103388",
+            "0512-69385585": "0512-69385585",
+            "0512-66053331": "0512-66053331",
+            "0512-69995666": "0512-69995666",
+            "0512-68019666": "0512-68019666"
+        },
+        "hotel type": {
+            "Resort-Hotel": [
+                "Hotelresort",
+                "Urlaubshotel"
+            ],
+            "Business-Hotel": [
+                "Business-Hotel",
+                "Hotel für Geschäftsreisen"
+            ],
+        },
+        "address": {
+            "Gunxiufang, Shiquan Straße Nr. 20, Bezirk Gusu, Suzhou": "Gunxiufang, Shiquan Straße Nr. 20, Bezirk Gusu, Suzhou",
+            "Shishan Straße Nr. 1, Suzhou New District, Suzhou": "Shishan Straße Nr. 1, Suzhou New District, Suzhou",
+            "Suzhou Taihu National Tourism Vacation Zone, Shuli Straße Nr. 6 Bezirk Wuzhong, Suzhou": "Suzhou Taihu National Tourism Vacation Zone, Shuli Straße Nr. 6 Bezirk Wuzhong, Suzhou",
+            "gegenüber der Bushaltestelle an der Guangjian Road Nr. 67, Bezirk Wuzhong, Suzhou": "gegenüber der Bushaltestelle an der Guangjian Road Nr. 67, Bezirk Wuzhong, Suzhou",
+            "Modern Leisure Plaza, Wangdun Road, Suzhou Industrial Park, Suzhou": "Modern Leisure Plaza, Wangdun Road, Suzhou Industrial Park, Suzhou",
+            "Xinshi Road Nr. 259, Bezirk Gusu, Suzhou": "Xinshi Road Nr. 259, Bezirk Gusu, Suzhou",
+            "South Dongwu Road Nr. 198, Bezirk Wuzhong, Suzhou": "South Dongwu Road Nr. 198, Bezirk Wuzhong, Suzhou"
+        },
+        "star": {
+            "3-Sterne": "3-Sterne"
+        }
+    },
+    "hospital": {
+        "general or specialized": {
+            "Allgemeinkrankenhaus": [
+                "allgemeines Krankenhaus"
+            ]
+        },
+        "key departments": {
+            "Kinderklinik": "Kinderklinik",
+            "Blutabteilung": "Blutabteilung"
+        },
+        "name": {
+            "Suzhou Kowloon Krankenhaus": "Suzhou Kowloon Krankenhaus",
+            "First Affiliated Hospital der Soochow University": "First Affiliated Hospital der Soochow University",
+            "Second Affiliated Hospital der Soochow Universität": "Second Affiliated Hospital der Soochow Universität"
+        },
+        "phone": {
+            "62629999": "62629999"
+        },
+        "address": {
+            "Wansheng Straße Nr. 118": "Wansheng Straße Nr. 118",
+            "Sanxiang Straße Nr. 1055": "Sanxiang Straße Nr. 1055"
+        },
+        "ct": {
+            "Ja": "Ja"
+        },
+        "bus routes": {
+            "Nr. 2, Nr. 47, Nr. 106, Nr. 206, Nr. 215, Nr. 258, Nr. 6, Nr. 108, Nr. 110, Nr. 116 oder Nr. 166": "Nr. 2, Nr. 47, Nr. 106, Nr. 206, Nr. 215, Nr. 258, Nr. 6, Nr. 108, Nr. 110, Nr. 116 oder Nr. 166"
+        },
+        "dsa": {
+            "Ja": "Ja"
+        },
+        "3.0t mri": {
+            "Ja": "Ja"
+        },
+        "service time": {
+            "7:45-11:30, 13:00-16:30": "7:45-11:30, 13:00-16:30",
+            "8:00-12:00 Uhr, 13:00-16:45 Uhr": "8:00-12:00 Uhr, 13:00-16:45 Uhr"
+        },
+        "area": {
+            "Bezirk Gusu": "Bezirk Gusu"
+        }
+    },
+    "other": {
+        "localized": {
+            "Suzhou": "Suzhou"
+        }
+    },
+    "weather": {
+        "city": {
+            "Xiamen": "Xiamen",
+            "Shenzhen": "Shenzhen",
+            "Peking": "Peking",
+            "Chengdu": "Chengdu",
+            "Guangzhou": "Guangzhou",
+            "Shanghai": "Shanghai",
+            "Nanjing": "Nanjing"
+        },
+        "date": {
+            "nächsten Sonntag": "nächsten Sonntag",
+            "nächsten Donnerstag": "nächsten Donnerstag",
+            "nächsten Freitag": [
+                "kommenden Freitag"
+            ],
+            "nächsten Mittwoch": [
+                "kommenden Mittwoch"
+            ],
+            "nächsten Samstag": [
+                "kommenden Samstag"
+            ],
+            "nächsten Dienstag": "nächsten Dienstag",
+            "nächsten Montag": [
+                "kommenden Montag"
+            ]
+        },
+        "wind": {
+            "nächsten Sonntag in Xiamen": "nächsten Sonntag in Xiamen",
+            "östliche Windstärke 2": "östliche Windstärke 2",
+            "nordwestliche Windstärke von 3-4": [
+                "Nordweststärke 3-4",
+                "Nordwestwindstärke von 3-4"
+            ],
+            "nördliche Windstärke von 3": [
+                "Nordwestwindstärke 3"
+            ],
+            "nordöstliche Windstärke von 4-5": [
+                "nordöstliche Windkraft von 4-5"
+            ],
+            "nordöstliche Windstärke von 3-4": "nordöstliche Windstärke von 3-4"
+        },
+        "weather condition": {
+            "sonnig": [
+                "sonnige",
+                "sonniges",
+                "sonniger",
+                "sonnigen"
+            ],
+            "bewölkt und später sonnig": "bewölkt und später sonnig",
+            "sonnig und dann bewölkt": "sonnig und dann bewölkt",
+            "bewölkt und später leicht regnen": "bewölkt und später leicht regnen",
+            "sonnig und später bewölkt": "sonnig und später bewölkt",
+            "wolkig und dann bedeckt sein": "wolkig und dann bedeckt sein",
+            "bewölkt": [
+                "bewölkte",
+                "bewölkter"
+            ],
+            "leichter Regen": [
+                "leicht regnen"
+            ]
+        },
+        "temperature": {
+            "Die Höchsttemperatur beträgt 22 Grad Celsius, die Mindesttemperatur 14 Grad Celsius": "Die Höchsttemperatur beträgt 22 Grad Celsius, die Mindesttemperatur 14 Grad Celsius",
+            "Die Höchsttemperatur beträgt 20 Grad Celsius, die Mindesttemperatur 12 Grad Celsius": "Die Höchsttemperatur beträgt 20 Grad Celsius, die Mindesttemperatur 12 Grad Celsius",
+            "Die Höchsttemperatur beträgt 21 Grad Celsius und die Mindesttemperatur 15 Grad Celsius": "Die Höchsttemperatur beträgt 21 Grad Celsius und die Mindesttemperatur 15 Grad Celsius",
+            "Höchsttemperatur beträgt 17 Grad Celsius, die Mindesttemperatur 9 Grad Celsius": "Höchsttemperatur beträgt 17 Grad Celsius, die Mindesttemperatur 9 Grad Celsius",
+            "Die Höchsttemperatur beträgt 14 Grad Celsius und die Mindesttemperatur 7 Grad Celsius": "Die Höchsttemperatur beträgt 14 Grad Celsius und die Mindesttemperatur 7 Grad Celsius",
+            "Die Höchsttemperatur beträgt 16 Grad Celsius und die Mindesttemperatur 9 Grad Celsius": "Die Höchsttemperatur beträgt 16 Grad Celsius und die Mindesttemperatur 9 Grad Celsius",
+            "die Höchsttemperatur 10 Grad Celsius und die Mindesttemperatur 1 Grad Celsius betragen": "die Höchsttemperatur 10 Grad Celsius und die Mindesttemperatur 1 Grad Celsius betragen",
+            "Die Höchsttemperatur beträgt 9 Grad Celsius und die Mindesttemperatur -2 Grad Celsius": "Die Höchsttemperatur beträgt 9 Grad Celsius und die Mindesttemperatur -2 Grad Celsius"
+        },
+        "uv intensity": {
+            "moderat": "moderat",
+            "stark": [
+                "starke",
+                "starker",
+                "starkes"
+            ],
+            "sehr stark": [
+                "sehr starke"
+            ]
+        }
+    },
+    "flight": {
+        "departure": {
+            "Hangzhou": "Hangzhou",
+            "Xiamen": "Xiamen",
+            "Guangzhou": "Guangzhou",
+            "Peking": "Peking"
+        },
+        "destination": {
+            "Shenzhen": "Shenzhen",
+            "Peking": "Peking",
+            "Xiamen": "Xiamen",
+            "Hangzhou": "Hangzhou",
+            "Chengdu": "Chengdu",
+            "Shanghai": "Shanghai",
+            "Nanjing": "Nanjing",
+            "Guangzhou": "Guangzhou"
+        },
+        "date": {
+            "nächsten Freitag": "nächsten Freitag",
+            "nächsten Dienstag": "nächsten Dienstag",
+            "nächsten Donnerstag": "nächsten Donnerstag",
+            "nächsten Montag": "nächsten Montag",
+            "nächsten Samstag": "nächsten Samstag"
+        },
+        "class cabin": {
+            "Economy Class": [
+                "Economy-Class",
+                "Economy-Klasse"
+            ],
+            "erste Klasse": [
+                "ersten Klasse"
+            ],
+            "Business Class": "Business Class"
+        },
+        "flight information": {
+            "Flug HU7394 von Hainan Airlines vom Terminal 3 des internationalen Flughafens Hangzhou zum Terminal 3 des internationalen Flughafens Shenzhen Baoan nehmen": "Flug HU7394 von Hainan Airlines vom Terminal 3 des internationalen Flughafens Hangzhou zum Terminal 3 des internationalen Flughafens Shenzhen Baoan nehmen",
+            "Flug CZ3741 von China Southern Airlines vom Terminal 2 des internationalen Flughafens Baiyun zum Terminal 3 des internationalen Flughafens Gaoqi": "Flug CZ3741 von China Southern Airlines vom Terminal 2 des internationalen Flughafens Baiyun zum Terminal 3 des internationalen Flughafens Gaoqi",
+            "Flug 3U8556 von Sichuan Airlines vom Terminal 2 des internationalen Flughafens Baiyun zum Terminal 1 des internationalen Flughafens Shuangliu": "Flug 3U8556 von Sichuan Airlines vom Terminal 2 des internationalen Flughafens Baiyun zum Terminal 1 des internationalen Flughafens Shuangliu",
+            "Flug CZ5051 von China Southern Airlines vom Terminal 2 des Beijing Capital International Airport zum Terminal 3 des Gaoqi International Airport": "Flug CZ5051 von China Southern Airlines vom Terminal 2 des Beijing Capital International Airport zum Terminal 3 des Gaoqi International Airport",
+            "Air China CA1847 vom Terminal 3 des Beijing Capital International Airport zum Terminal 2 des Lukou International Airport nehmen": "Air China CA1847 vom Terminal 3 des Beijing Capital International Airport zum Terminal 2 des Lukou International Airport nehmen",
+            "Flug CA1729 von Air China vom Terminal 1 des internationalen Flughafens Hangzhou zum Terminal 1 des internationalen Flughafens Baiyun": "Flug CA1729 von Air China vom Terminal 1 des internationalen Flughafens Hangzhou zum Terminal 1 des internationalen Flughafens Baiyun",
+            "Flug 3U8912 von Sichuan Airlines vom Terminal 3 des internationalen Flughafens Hangzhou zum Terminal 1 des internationalen Flughafens Shuangliu": "Flug 3U8912 von Sichuan Airlines vom Terminal 3 des internationalen Flughafens Hangzhou zum Terminal 1 des internationalen Flughafens Shuangliu"
+        },
+        "punctuality rate": {
+            "91,29 %": "91,29 %",
+            "100%": "100%",
+            "96,61 %": "96,61 %",
+            "98,32 %": "98,32 %",
+            "89,44 %": "89,44 %"
+        },
+        "departure time": {
+            "an diesem Tag um 11:00 Uhr": "an diesem Tag um 11:00 Uhr",
+            "11:10 Uhr an diesem Tag": "11:10 Uhr an diesem Tag",
+            "10:50 Uhr an diesem Tag": "10:50 Uhr an diesem Tag",
+            "an diesem Tag um 14:25 Uhr": "an diesem Tag um 14:25 Uhr",
+            "12:10 Uhr": "12:10 Uhr",
+            "an diesem Tag um 10:30 Uhr": "an diesem Tag um 10:30 Uhr",
+            "diesem Tag um 09:30 Uhr": "diesem Tag um 09:30 Uhr"
+        },
+        "arrival time": {
+            "an diesem Tag um 14:00 Uhr": "an diesem Tag um 14:00 Uhr",
+            "16:35 Uhr am selben Tag": "16:35 Uhr am selben Tag"
+        },
+        "ticket price": {
+            "960 Yuan": "960 Yuan",
+            "600 Yuan": "600 Yuan",
+            "1.590 Yuan": "1.590 Yuan",
+            "540 Yuan": "540 Yuan",
+            "760 Yuan": "760 Yuan",
+            "1.460 Yuan": "1.460 Yuan",
+            "2.590 Yuan": "2.590 Yuan",
+            "1.890 Yuan": "1.890 Yuan",
+            "4.510 Yuan": "4.510 Yuan",
+            "6.620 Yuan": "6.620 Yuan",
+            "850 Yuan": "850 Yuan",
+            "980 Yuan": "980 Yuan"
+        }
+    },
+    "pc": {
+        "brand": {
+            "leichten Laptop": "leichten Laptop",
+            "Lenovo": "Lenovo"
+        },
+        "usage": {
+            "leichten Laptop": "leichten Laptop"
+        },
+        "memory capacity": {
+            "8 GB": "8 GB"
+        },
+        "screen size": {
+            "14-Zoll": "14-Zoll"
+        },
+        "product name": {
+            "Lenovo 7000 Xiaoxin Chao": "Lenovo 7000 Xiaoxin Chao",
+            "Der Lenovo Xiaoxin Chao 7000": "Der Lenovo Xiaoxin Chao 7000",
+            "Dell Inspiron 14": "Dell Inspiron 14",
+            "Lenovo Tianyi 510Pro": "Lenovo Tianyi 510Pro",
+            "G5 5090": "G5 5090",
+            "GeekPro-Reihe von Lenovo": "GeekPro-Reihe von Lenovo"
+        },
+        "price": {
+            "4.999 Yuan": "4.999 Yuan",
+            "4.889,0": "4.889,0",
+            "7.999,0": "7.999,0",
+            "5.989,0": "5.989,0"
+        },
+        "standby time": {
+            "über 9 Stunden": "über 9 Stunden"
+        },
+        "game performance": {
+            "Leistung auf Einsteigerlevel": [
+                "Einstiegslevel",
+                "Leistung auf Einstiegslevel"
+            ]
+        },
+        "computer type": {
+            "Laptop": "Laptop",
+            "Desktop PCs": [
+                "Desktops"
+            ],
+            "Desktop PC": [
+                "Desktop"
+            ]
+        },
+        "cpu": {
+            "Intel Core i7": "Intel Core i7",
+            "Intel Core i5": "Intel Core i5"
+        },
+        "pricerange": {
+            "5.000 bis 10.000": "5.000 bis 10.000",
+            "5.000-10.000 Yuan": "5.000-10.000 Yuan"
+        },
+        "colour": {
+            "platinsilber": "platinsilber"
+        },
+        "operating system": {
+            "Windows 10": "Windows 10"
+        },
+        "weight": {
+            "7,48 kg": "7,48 kg"
+        },
+        "hard disk capacity": {
+            "256 GB SSD + 1 TB HDD": "256 GB SSD + 1 TB HDD",
+            "512 GB SSD": "512 GB SSD"
+        },
+        "series": {
+            "Inspiron-Serie von Dell": "Inspiron-Serie von Dell",
+            "GeekPro-Reihe von Lenovo": "GeekPro-Reihe von Lenovo"
+        },
+        "cpu model": {
+            "Intel Core i7-9700": "Intel Core i7-9700",
+            "Intel Core i7-9700F": "Intel Core i7-9700F",
+            "i5-9400F": "i5-9400F"
+        },
+        "gpu category": {
+            "diskrete Grafikkarte": [
+                "diskreten Grafikkarte",
+                "diskreter Grafikkarte"
+            ]
+        },
+        "features": {
+            "noch nicht klar": "noch nicht klar"
+        }
+    },
+    "train": {
+        "classification": {
+            "Hochgeschwindigkeitszüge": "Hochgeschwindigkeitszüge",
+            "Hochgeschwindigkeitszug": "Hochgeschwindigkeitszug",
+            "Bullet Trains": [
+                "Hochgeschwindigkeitszüge",
+                "Hochgeschwindigkeitszügen"
+            ],
+            "Bullet Train": [
+                "Hochgeschwindigkeitszug"
+            ]
+        },
+        "destination": {
+            "Xiamen": "Xiamen",
+            "Shenzhen": "Shenzhen",
+            "Hangzhou": "Hangzhou",
+            "Shanghai": "Shanghai",
+            "Nanjing": "Nanjing"
+        },
+        "departure": {
+            "Schanghai": [
+                "Shanghai"
+            ],
+            "Peking": "Peking",
+            "Hangzhou": "Hangzhou",
+            "Shenzhen": "Shenzhen",
+            "Xiamen": "Xiamen"
+        },
+        "date": {
+            "nächsten Mittwochmorgen": "nächsten Mittwochmorgen",
+            "nächsten Donnerstagmorgen abfährt": "nächsten Donnerstagmorgen abfährt",
+            "nächsten Dienstagmorgen": "nächsten Dienstagmorgen",
+            "nächsten Dienstagnachmittag": "nächsten Dienstagnachmittag",
+            "nächsten Montagnachmittag": "nächsten Montagnachmittag",
+            "nächsten Freitagmorgen": "nächsten Freitagmorgen",
+            "nächsten Samstagnachmittag": "nächsten Samstagnachmittag",
+            "nächsten Sonntagnachmittag": "nächsten Sonntagnachmittag"
+        },
+        "seat type": {
+            "1. Klasse": [
+                "der ersten Klasse",
+                "die erste Klasse",
+                "erste Klasse",
+                "First-Class",
+                "erster Klasse",
+                "ersten Klasse"
+            ],
+            "2. Klasse": [
+                "zweiten Klasse",
+                "zweite Klasse"
+            ],
+            "Schlafwagen in der 1. Klasse": [
+                "Schlafwagen in der ersten Klasse"
+            ],
+            "Schlafwagen in der 2. Klasse": [
+                "Schlafwagen in der zweiten Klasse"
+            ]
+        },
+        "train number": {
+            "G1653 von Schanghai Hongqiao nach Xiamenbei": "G1653 von Schanghai Hongqiao nach Xiamenbei",
+            "G79 von Beijingxi nach Shenzhenbei": "G79 von Beijingxi nach Shenzhenbei",
+            "D3141": "D3141",
+            "G1373": "G1373",
+            "G7323": "G7323",
+            "D2294 von Shenzhenbei nach Hangzhoudong": "D2294 von Shenzhenbei nach Hangzhoudong",
+            "G1604 von Shenzhenbei nach Hangzhoudong": "G1604 von Shenzhenbei nach Hangzhoudong",
+            "G1652 von Xiamen nach Shanghai Hongqiao": [
+                "G1652, von Xiamen nach Shanghai Hongqiao"
+            ],
+            "G135 von Beijingnan nach Nanjingnan": "G135 von Beijingnan nach Nanjingnan",
+            "G59 von Beijingnan nach Hangzhoudong": "G59 von Beijingnan nach Hangzhoudong",
+            "G59": "G59"
+        },
+        "departure time": {
+            "an diesem Tag um 08:15 Uhr": "an diesem Tag um 08:15 Uhr",
+            "an diesem Tag um 10:00 Uhr": [
+                "10:00 Uhr am Morgen dieses Tages"
+            ],
+            "14:23 Uhr": "14:23 Uhr",
+            "um 13:15 Uhr": "um 13:15 Uhr",
+            "8:55 Uhr morgens": "8:55 Uhr morgens",
+            "diesem Tag um 13:05 Uhr": "diesem Tag um 13:05 Uhr"
+        },
+        "arrival time": {
+            "an diesem Tag um 13:31 Uhr": "an diesem Tag um 13:31 Uhr",
+            "18:37 Uhr an diesem Tag": "18:37 Uhr an diesem Tag",
+            "20:59 Uhr": "20:59 Uhr",
+            "9:42 Uhr morgens": "9:42 Uhr morgens",
+            "14:32 Uhr an diesem Tag": [
+                "diesem Tag um 14:32 Uhr"
+            ]
+        },
+        "ticket price": {
+            "773,5 Yuan": "773,5 Yuan",
+            "1.479,5 Yuan": "1.479,5 Yuan",
+            "352 Yuan": "352 Yuan",
+            "73,0 Yuan": "73,0 Yuan",
+            "867,0 Yuan": "867,0 Yuan",
+            "599,0 Yuan": "599,0 Yuan",
+            "787,5 Yuan": "787,5 Yuan",
+            "748,5 Yuan": "748,5 Yuan",
+            "907,0 Yuan": "907,0 Yuan",
+            "574,0 Yuan": "574,0 Yuan"
+        },
+        "duration": {
+            "6 Stunden und 36 Minuten": "6 Stunden und 36 Minuten",
+            "4 Stunden und 25 Minuten": "4 Stunden und 25 Minuten"
+        }
+    },
+    "class": {
+        "grade": {
+            "sechste Klasse": [
+                "sechsten Klasse",
+                "der sechsten Klasse"
+            ],
+            "fünfte Klasse": [
+                "fünften Klasse"
+            ]
+        },
+        "day": {
+            "Samstag": [
+                "samstags"
+            ],
+            "Sonntag": [
+                "sonntags"
+            ]
+        },
+        "time": {
+            "Nachmittag": [
+                "nachmittags"
+            ],
+            "Morgen": [
+                "morgens"
+            ],
+            "Abend": [
+                "abends"
+            ]
+        },
+        "class number": {
+            "PE6T48010": "PE6T48010",
+            "PM6J24004A": "PM6J24004A",
+            "PE5J05065": "PE5J05065",
+            "PM5P15017A": "PM5P15017A",
+            "PM6T24023": "PM6T24023"
+        },
+        "times": {
+            "6": "6",
+            "10": "10"
+        },
+        "hours": {
+            "12": "12"
+        },
+        "start time": {
+            "17:40 Uhr": "17:40 Uhr",
+            "18:00 Uhr": "18:00 Uhr",
+            "10:20 Uhr": "10:20 Uhr"
+        },
+        "price": {
+            "960 Yuan": "960 Yuan",
+            "1.600": "1.600",
+            "960": "960"
+        },
+        "subject": {
+            "Mathe": "Mathe",
+            "Englisch": "Englisch"
+        },
+        "end date": {
+            "21. Juni 2020": "21. Juni 2020"
+        },
+        "teacher": {
+            "Li Jiayi": "Li Jiayi",
+            "Zhou Xin": "Zhou Xin"
+        },
+        "end time": {
+            "20:00 Uhr": "20:00 Uhr"
+        },
+        "area": {
+            "Suzhou New District": "Suzhou New District",
+            "Suzhou New District oder Gusu District": [
+                "New District von Suzhou oder Bezirk Gusu"
+            ]
+        },
+        "campus": {
+            "Lohas Town, Suzhou Industrial Park": "Lohas Town, Suzhou Industrial Park",
+            "Neustadt Pingjiang im Bezirk Gusu": "Neustadt Pingjiang im Bezirk Gusu"
+        },
+        "classroom": {
+            "Lohas Town Nr. 311": "Lohas Town Nr. 311"
+        },
+        "level": {
+            "Grundklasse": [
+                "Grundklasse",
+                "Grundkurs"
+                ],
+        },
+        "start date": {
+            "7. März 2020": "7. März 2020"
+        },
+        "type": {
+            "in Präsenz": "in Präsenz"
+        }
+    }
+}
